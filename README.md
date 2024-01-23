@@ -5,7 +5,7 @@ A collection of papers related to image and video compression.
 
 [ICLR 2024](#ICLR2024), 
 
-[NeurIPS 2023](#NeurIPS2023), [AAAI 2023](#AAAI2023)
+[NeurIPS 2023](#NeurIPS2023), [AAAI 2023](#AAAI2023),
 
 [IEEE TCSVT](#TCSVT), [IEEE TIP](#TIP)
 
