@@ -23,6 +23,8 @@ A collection of papers related to image and video compression.
 <a name="ICLR2023"></a>
 ## ICLR 2023
 
+**EVC: Towards Real-Time Neural Image Compression with Mask Decay.** [Paper](https://openreview.net/pdf?id=XUxad2Gj40n)
+
 **MIMT: Masked Image Modeling Transformer for Video Compression.** [Paper](https://openreview.net/pdf?id=j9m-mVnndbm)
 
 <a name="ICML2023"></a>
