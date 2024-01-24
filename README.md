@@ -7,7 +7,7 @@ A collection of papers related to image and video compression.
 
 [ICLR 2023](#ICLR2023), [ICML 2023](#ICML2023), [NeurIPS 2023](#NeurIPS2023), [AAAI 2023](#AAAI2023), [ICCV 2023](#ICCV2023), [CVPR 2023](#CVPR2023),
 
-[IEEE TPAMI](#TPAMI), [IEEE TCSVT](#TCSVT), [IEEE TIP](#TIP)
+[IEEE TPAMI](#TPAMI), [IEEE TCSVT](#TCSVT), [IEEE TIP](#TIP),
 
 <a name="ICLR2024"></a>
 ## ICLR 2024
@@ -34,15 +34,25 @@ A collection of papers related to image and video compression.
 
 **Modality-Agnostic Variational Compression of Implicit Neural Representations.** [Paper](https://openreview.net/pdf?id=bBXCCSoVQZ)
 
+**Is Overfitting Necessary for Implicit Video Representation?** [Paper](https://openreview.net/pdf?id=JuNIuHLm9y)
+
 <a name="AAAI2023"></a>
 ## AAAI 2023
 
 **Learned Distributed Image Compression with Multi-Scale Patch Matching in Feature Domain.** [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/25551)
 
+**Self-Asymmetric Invertible Network for Compression-Aware Image Rescaling.** [Paper](https://arxiv.org/pdf/2303.02353.pdf)
+
 **Multi-Modality Deep Network for Extreme Learned Image Compression.** [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/25184)
 
 <a name="NeurIPS2023"></a>
 ## NeurIPS 2023
+
+**Neural Image Compression: Generalization, Robustness, and Spectral Biases.** [Paper](https://arxiv.org/pdf/2307.08657.pdf)
+
+**Compression with Bayesian Implicit Neural Representations.** [Paper](https://arxiv.org/pdf/2305.19185.pdf)
+
+**Towards Efficient Image Compression Without Autoregressive Models.** [Paper](https://openreview.net/pdf?id=1ihGy9vAIg)
 
 **Lossy Image Compression with Conditional Diffusion Models.** [Paper](https://arxiv.org/pdf/2209.06950v5.pdf)
 
@@ -51,6 +61,8 @@ A collection of papers related to image and video compression.
 **On the Choice of Perception Loss Function for Learned Video Compression.** [Paper](https://openreview.net/pdf?id=kLIieSS2P3)
 
 **HiNeRV: Video Compression with Hierarchical Encoding-based Neural Representation.** [Paper](https://openreview.net/pdf?id=CpoS56pYnU)
+
+**Compact Neural Volumetric Video Representations with Dynamic Codebooks.** [Paper](https://openreview.net/pdf?id=xTgM7XLN9P)
 
 <a name="ICCV2023"></a>
 ## ICCV 2023
@@ -101,6 +113,16 @@ A collection of papers related to image and video compression.
 **Motion Information Propagation for Neural Video Compression.** [Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Qi_Motion_Information_Propagation_for_Neural_Video_Compression_CVPR_2023_paper.pdf)
 
 **MMVC: Learned Multi-Mode Video Compression With Block-Based Prediction Mode Selection and Density-Adaptive Entropy Coding.** [Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Liu_MMVC_Learned_Multi-Mode_Video_Compression_With_Block-Based_Prediction_Mode_Selection_CVPR_2023_paper.pdf)
+
+**DNeRV: Modeling Inherent Dynamics via Difference Neural Representation for Videos.** [Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhao_DNeRV_Modeling_Inherent_Dynamics_via_Difference_Neural_Representation_for_Videos_CVPR_2023_paper.pdf)
+
+**HNeRV: A Hybrid Neural Representation for Videos.** [Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Chen_HNeRV_A_Hybrid_Neural_Representation_for_Videos_CVPR_2023_paper.pdf)
+
+**Hierarchical B-frame Video Coding Using Two-Layer CANF without Motion Coding.** [Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Alexandre_Hierarchical_B-Frame_Video_Coding_Using_Two-Layer_CANF_Without_Motion_Coding_CVPR_2023_paper.pdf)
+
+**Towards Scalable Neural Representation for Diverse Videos.** [Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/He_Towards_Scalable_Neural_Representation_for_Diverse_Videos_CVPR_2023_paper.pdf)
+
+**NIRVANA: Neural Implicit Representations of Videos with Adaptive Networks and Autoregressive Patch-wise Modeling.** [Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Maiya_NIRVANA_Neural_Implicit_Representations_of_Videos_With_Adaptive_Networks_and_CVPR_2023_paper.pdf)
 
 <a name="TPAMI"></a>
 ## IEEE TPAMI
