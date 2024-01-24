@@ -7,7 +7,7 @@ A collection of papers related to image and video compression.
 
 [NeurIPS 2023](#NeurIPS2023), [AAAI 2023](#AAAI2023), [ICCV 2023](#ICCV2023)
 
-[IEEE TCSVT](#TCSVT), [IEEE TIP](#TIP)
+[IEEE TPAMI](#TPAMI), [IEEE TCSVT](#TCSVT), [IEEE TIP](#TIP)
 
 <a name="ICLR2024"></a>
 ## ICLR 2024
@@ -60,6 +60,11 @@ A collection of papers related to image and video compression.
 **Non-Semantics Suppressed Mask Learning for Unsupervised Video Semantic Compression.** [Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Tian_Non-Semantics_Suppressed_Mask_Learning_for_Unsupervised_Video_Semantic_Compression_ICCV_2023_paper.pdf)
 
 **Scene Matters: Model-based Deep Video Compression.** [Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Tang_Scene_Matters_Model-based_Deep_Video_Compression_ICCV_2023_paper.pdf)
+
+<a name="TPAMI"></a>
+## IEEE TPAMI
+
+**Insights from Generative Modeling for Neural Video Compression. 2023.** [Paper](https://arxiv.org/pdf/2107.13136.pdf)
 
 <a name="TCSVT"></a>
 ## IEEE TCSVT
