@@ -104,6 +104,8 @@ A collection of papers related to image and video compression.
 
 **AccelIR: Task-aware Image Compression for Accelerating Neural Restoration.** [Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Ye_AccelIR_Task-Aware_Image_Compression_for_Accelerating_Neural_Restoration_CVPR_2023_paper.pdf)
 
+**Real-Time 6K Image Rescaling With Rate-Distortion Optimization.** [Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Qi_Real-Time_6K_Image_Rescaling_With_Rate-Distortion_Optimization_CVPR_2023_paper.pdf)
+
 **Complexity-Guided Slimmable Decoder for Efficient Deep Video Compression.** [Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Hu_Complexity-Guided_Slimmable_Decoder_for_Efficient_Deep_Video_Compression_CVPR_2023_paper.pdf)
 
 **Video Compression With Entropy-Constrained Neural Representations.** [Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Gomes_Video_Compression_With_Entropy-Constrained_Neural_Representations_CVPR_2023_paper.pdf)
