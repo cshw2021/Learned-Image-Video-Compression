@@ -129,6 +129,10 @@ A collection of papers related to image and video compression.
 <a name="TPAMI"></a>
 ## IEEE TPAMI
 
+**Deep Lossy Plus Residual Coding for Lossless and Near-lossless Image Compression. 2024.** [Paper](https://ieeexplore.ieee.org/document/10378746)
+
+**I2C: Invertible Continuous Codec for High-Fidelity Variable-Rate Image Compression. 2024.** [Paper](https://ieeexplore.ieee.org/document/10411123)
+
 **Insights from Generative Modeling for Neural Video Compression. 2023.** [Paper](https://arxiv.org/pdf/2107.13136.pdf)
 
 <a name="TCSVT"></a>
