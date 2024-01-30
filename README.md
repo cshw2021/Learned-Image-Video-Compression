@@ -134,9 +134,15 @@ A collection of papers related to image and video compression.
 <a name="TCSVT"></a>
 ## IEEE TCSVT
 
+**Conditional Residual Coding: A Remedy for Bottleneck Problems in Conditional Inter Frame Coding. 2024.** [Paper](https://ieeexplore.ieee.org/document/10416172)
+
+**Spatial Decomposition and Temporal Fusion based Inter Prediction for Learned Video Compression. 2024.** [Paper](https://arxiv.org/pdf/2401.15864.pdf)
+
 **Exploring Resolution Fields for Scalable Image Compression with Uncertainty Guidance. 2023.** [Paper](https://arxiv.org/pdf/2306.08941.pdf)
 
 **Extremely Low Bit-rate Image Compression via Invertible Image Generation. 2023.** [Paper](https://ieeexplore.ieee.org/abstract/document/10256132)
+
+**DMVC: Decomposed Motion Modeling for Learned Video Compression. 2023.** [Paper](https://ieeexplore.ieee.org/abstract/document/10003249)
 
 <a name="TIP"></a>
 ## IEEE TIP
