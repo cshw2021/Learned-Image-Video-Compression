@@ -20,6 +20,8 @@ A collection of papers related to image and video compression.
 
 **Neural Rate Control for Learned Video Compression.** [Paper](https://openreview.net/pdf?id=42lcaojZug)
 
+**Finite-State Autoregressive Entropy Coding for Efficient Learned Lossless Compression.** [Paper](https://openreview.net/attachment?id=D5mJSNtUtv&name=pdf)
+
 <a name="ICLR2023"></a>
 ## ICLR 2023
 
