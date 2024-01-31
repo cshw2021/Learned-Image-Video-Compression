@@ -156,3 +156,5 @@ A collection of papers related to image and video compression.
 **Exploring Long- and Short-Range Temporal Information for Learned Video Compression. 2024.** [Paper](https://ieeexplore.ieee.org/abstract/document/10388053)
 
 **Learned Image Compression With Gaussian-Laplacian-Logistic Mixture Model and Concatenated Residual Modules. 2023.** [Paper](https://ieeexplore.ieee.org/abstract/document/10091784)
+
+**Learning Cross-Scale Weighted Prediction for Efficient Neural Video Compression. 2023.** [Paper](https://ieeexplore.ieee.org/abstract/document/10159648)
