@@ -3,11 +3,16 @@ A collection of papers related to image and video compression.
 
 ## Overview
 
-[ICLR 2024](#ICLR2024), 
+[ICLR 2024](#ICLR2024), [CVPR 2024](#CVPR2024),
 
 [ICLR 2023](#ICLR2023), [ICML 2023](#ICML2023), [NeurIPS 2023](#NeurIPS2023), [AAAI 2023](#AAAI2023), [ICCV 2023](#ICCV2023), [CVPR 2023](#CVPR2023),
 
 [IEEE TPAMI](#TPAMI), [IEEE TCSVT](#TCSVT), [IEEE TIP](#TIP),
+
+<a name="CVPR2024"></a>
+## CVPR 2024
+
+**Boosting Neural Representations for Videos with a Conditional Decoder.** [Paper](https://arxiv.org/pdf/2402.18152.pdf)
 
 <a name="ICLR2024"></a>
 ## ICLR 2024
@@ -92,7 +97,7 @@ A collection of papers related to image and video compression.
 <a name="CVPR2023"></a>
 ## CVPR 2023
 
-**Learned Image Compression With Mixed Transformer-CNN Architectures.** [Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Liu_Learned_Image_Compression_With_Mixed_Transformer-CNN_Architectures_CVPR_2023_paper.pdf)
+**Learned Image Compression With Mixed Transformer-CNN Architectures.** [Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Liu_Learned_Image_Compression_With_Mixed_Transformer-CNN_Architectures_CVPR_2023_paper.pdf); [Code](https://github.com/jmliu206/LIC_TCM)
 
 **Backdoor Attacks Against Deep Image Compression via Adaptive Frequency Trigger.** [Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Tan_Backdoor_Attacks_Against_Deep_Image_Compression_via_Adaptive_Frequency_Trigger_CVPR_2023_paper.pdf)
 
