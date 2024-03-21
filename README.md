@@ -12,11 +12,21 @@ A collection of papers related to image and video compression.
 <a name="CVPR2024"></a>
 ## CVPR 2024
 
+**C3: High-performance and Low-complexity Neural Compression from A Single Image or Video.**
+
+**Generative Latent Coding for Ultra-Low Bitrate Image Compression.**
+
+**Laplacian-guided Entropy Model in Neural Codec with Blur-dissipated Synthesis.**
+
+**Learned Lossless Image Compression based on Bit Plane Slicing.**
+
 **Towards Backward-Compatible Continual Learning of Image Compression.** [Paper](https://arxiv.org/pdf/2402.18862.pdf)
 
 **Boosting Neural Representations for Videos with a Conditional Decoder.** [Paper](https://arxiv.org/pdf/2402.18152.pdf)
 
 **Neural Video Compression with Feature Modulation.** [Paper](https://arxiv.org/pdf/2402.17414.pdf)
+
+**Controlling Encoder of Deep Video Compression for Machine.**
 
 <a name="ICLR2024"></a>
 ## ICLR 2024
