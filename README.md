@@ -33,7 +33,7 @@ A collection of papers related to image and video compression.
 
 **Frequency-Aware Transformer for Learned Image Compression.** [Paper](https://openreview.net/pdf?id=HKGQDDTuvZ); [Code](https://github.com/qingshi9974/ICLR2024-Frequency-aware-Transformer-for-Learned-Image-Compression)
 
-**Idempotence and Perceptual Image Compression.**  [Paper](https://openreview.net/pdf?id=Cy5v64DqEF)
+**Idempotence and Perceptual Image Compression.**  [Paper](https://openreview.net/pdf?id=Cy5v64DqEF); [Code](https://github.com/tongdaxu/Idempotence-and-Perceptual-Image-Compression)
 
 **Towards Image Compression with Perfect Realism At Ultra-Low Bitrates.** [Paper](https://openreview.net/attachment?id=ktdETU9JBg&name=pdf)
 
