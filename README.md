@@ -7,7 +7,7 @@ A collection of papers related to image and video compression.
 
 [ICLR 2023](#ICLR2023), [ICML 2023](#ICML2023), [NeurIPS 2023](#NeurIPS2023), [AAAI 2023](#AAAI2023), [ICCV 2023](#ICCV2023), [CVPR 2023](#CVPR2023),
 
-[IEEE TPAMI](#TPAMI), [IEEE TCSVT](#TCSVT), [IEEE TIP](#TIP),
+[IEEE TPAMI](#TPAMI), [IEEE TCSVT](#TCSVT), [IEEE TIP](#TIP), [IEEE TMM](#TMM),
 
 <a name="CVPR2024"></a>
 ## CVPR 2024
@@ -179,3 +179,8 @@ A collection of papers related to image and video compression.
 **Learned Image Compression With Gaussian-Laplacian-Logistic Mixture Model and Concatenated Residual Modules. 2023.** [Paper](https://ieeexplore.ieee.org/abstract/document/10091784)
 
 **Learning Cross-Scale Weighted Prediction for Efficient Neural Video Compression. 2023.** [Paper](https://ieeexplore.ieee.org/abstract/document/10159648)
+
+<a name="TMM"></a>
+## IEEE TMM
+
+**Uncertainty-Aware Deep Video Compression with Ensembles. 2024.** [Paper](https://arxiv.org/pdf/2403.19158.pdf)
