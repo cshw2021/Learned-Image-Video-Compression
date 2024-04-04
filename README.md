@@ -28,6 +28,8 @@ A collection of papers related to image and video compression.
 
 **Controlling Encoder of Deep Video Compression for Machine.**
 
+**Low-Latency Neural Stereo Streaming.**
+
 <a name="ICLR2024"></a>
 ## ICLR 2024
 
