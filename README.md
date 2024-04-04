@@ -12,7 +12,7 @@ A collection of papers related to image and video compression.
 <a name="CVPR2024"></a>
 ## CVPR 2024
 
-**C3: High-performance and Low-complexity Neural Compression from A Single Image or Video.**
+**C3: High-performance and Low-complexity Neural Compression from A Single Image or Video.** [Paper](https://arxiv.org/pdf/2312.02753.pdf)
 
 **Generative Latent Coding for Ultra-Low Bitrate Image Compression.**
 
