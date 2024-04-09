@@ -26,6 +26,8 @@ A collection of papers related to image and video compression.
 
 **Neural Video Compression with Feature Modulation.** [Paper](https://arxiv.org/pdf/2402.17414.pdf)
 
+**Task-Aware Encoder Control for Deep Video Compression.** [Paper](https://arxiv.org/pdf/2404.04848.pdf)
+
 **Controlling Encoder of Deep Video Compression for Machine.**
 
 **Low-Latency Neural Stereo Streaming.**
