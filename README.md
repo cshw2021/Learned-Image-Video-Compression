@@ -5,7 +5,7 @@ A collection of papers related to image and video compression.
 
 [ICLR 2024](#ICLR2024), [CVPR 2024](#CVPR2024),
 
-[ICLR 2023](#ICLR2023), [ICML 2023](#ICML2023), [NeurIPS 2023](#NeurIPS2023), [AAAI 2023](#AAAI2023), [ICCV 2023](#ICCV2023), [CVPR 2023](#CVPR2023),
+[ICLR 2023](#ICLR2023), [ICML 2023](#ICML2023), [NeurIPS 2023](#NeurIPS2023), [AAAI 2023](#AAAI2023), [ICCV 2023](#ICCV2023), [CVPR 2023](#CVPR2023), [ACMMM 2023](#ACMMM2023),
 
 [IEEE TPAMI](#TPAMI), [IEEE TCSVT](#TCSVT), [IEEE TIP](#TIP), [IEEE TMM](#TMM),
 
@@ -150,6 +150,11 @@ A collection of papers related to image and video compression.
 **Towards Scalable Neural Representation for Diverse Videos.** [Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/He_Towards_Scalable_Neural_Representation_for_Diverse_Videos_CVPR_2023_paper.pdf)
 
 **NIRVANA: Neural Implicit Representations of Videos with Adaptive Networks and Autoregressive Patch-wise Modeling.** [Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Maiya_NIRVANA_Neural_Implicit_Representations_of_Videos_With_Adaptive_Networks_and_CVPR_2023_paper.pdf)
+
+<a name="ACMMM2023"></a>
+## ACMMM 2023
+
+**MLIC: Multi-Reference Entropy Model for Learned Image Compression.** [Paper](https://dl.acm.org/doi/pdf/10.1145/3581783.3611694)
 
 <a name="TPAMI"></a>
 ## IEEE TPAMI
