@@ -16,7 +16,7 @@ A collection of papers related to image and video compression.
 
 **Generative Latent Coding for Ultra-Low Bitrate Image Compression.**
 
-**Laplacian-guided Entropy Model in Neural Codec with Blur-dissipated Synthesis.**
+**Laplacian-guided Entropy Model in Neural Codec with Blur-dissipated Synthesis.** [Paper](https://arxiv.org/pdf/2403.16258)
 
 **Learned Lossless Image Compression based on Bit Plane Slicing.**
 
