@@ -12,25 +12,26 @@ A collection of papers related to image and video compression.
 <a name="CVPR2024"></a>
 ## CVPR 2024
 
-**C3: High-performance and Low-complexity Neural Compression from A Single Image or Video.** [Paper](https://arxiv.org/pdf/2312.02753.pdf)
+**C3: High-performance and Low-complexity Neural Compression from A Single Image or Video.** [Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Kim_C3_High-Performance_and_Low-Complexity_Neural_Compression_from_a_Single_Image_CVPR_2024_paper.pdf)
 
-**Generative Latent Coding for Ultra-Low Bitrate Image Compression.**
+**Generative Latent Coding for Ultra-Low Bitrate Image Compression.** [Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Jia_Generative_Latent_Coding_for_Ultra-Low_Bitrate_Image_Compression_CVPR_2024_paper.pdf)
 
-**Laplacian-guided Entropy Model in Neural Codec with Blur-dissipated Synthesis.** [Paper](https://arxiv.org/pdf/2403.16258)
+**Laplacian-guided Entropy Model in Neural Codec with Blur-dissipated Synthesis.** [Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Khoshkhahtinat_Laplacian-guided_Entropy_Model_in_Neural_Codec_with_Blur-dissipated_Synthesis_CVPR_2024_paper.pdf)
 
-**Learned Lossless Image Compression based on Bit Plane Slicing.**
+**Learned Lossless Image Compression based on Bit Plane Slicing.** [Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_Learned_Lossless_Image_Compression_based_on_Bit_Plane_Slicing_CVPR_2024_paper.pdf)
 
-**Towards Backward-Compatible Continual Learning of Image Compression.** [Paper](https://arxiv.org/pdf/2402.18862.pdf)
+**Towards Backward-Compatible Continual Learning of Image Compression.** [Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Duan_Towards_Backward-Compatible_Continual_Learning_of_Image_Compression_CVPR_2024_paper.pdf)
+
+**Enhancing Quality of Compressed Images by Mitigating Enhancement Bias Towards Compression Domain.**[Paper
+](https://openaccess.thecvf.com/content/CVPR2024/papers/Xing_Enhancing_Quality_of_Compressed_Images_by_Mitigating_Enhancement_Bias_Towards_CVPR_2024_paper.pdf)
 
 **Boosting Neural Representations for Videos with a Conditional Decoder.** [Paper](https://arxiv.org/pdf/2402.18152.pdf)
 
 **Neural Video Compression with Feature Modulation.** [Paper](https://arxiv.org/pdf/2402.17414.pdf)
 
-**Task-Aware Encoder Control for Deep Video Compression.** [Paper](https://arxiv.org/pdf/2404.04848.pdf)
+**Task-Aware Encoder Control for Deep Video Compression.** [Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Ge_Task-Aware_Encoder_Control_for_Deep_Video_Compression_CVPR_2024_paper.pdf)
 
-**Controlling Encoder of Deep Video Compression for Machine.**
-
-**Low-Latency Neural Stereo Streaming.**
+**NeRFCodec: Neural Feature Compression Meets Neural Radiance Fields for Memory-Efficient Scene Representation.** [Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_NeRFCodec_Neural_Feature_Compression_Meets_Neural_Radiance_Fields_for_Memory-Efficient_CVPR_2024_paper.pdf)
 
 <a name="ICLR2024"></a>
 ## ICLR 2024
