@@ -15,6 +15,8 @@ A collection of papers related to image and video compression.
 **Compress Clean Signal from Noisy Raw Image: A Self-Supervised Approach.** [paper](https://openreview.net/attachment?id=5sgkNtexs2&name=pdf)
 
 **Correcting Diffusion-Based Perceptual Image Compression with Privileged End-to-End Decoder.** [paper](https://openreview.net/attachment?id=1WWpIEFdlk&name=pdf)
+
+**Neural Image Compression with Text-guided Encoding for both Pixel-level and Perceptual Fidelity.** [paper](https://openreview.net/attachment?id=u8TZ9gm4im&name=pdf)
 <a name="CVPR2024"></a>
 
 ## CVPR 2024
