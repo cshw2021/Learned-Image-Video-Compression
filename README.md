@@ -3,13 +3,20 @@ A collection of papers related to image and video compression.
 
 ## Overview
 
-[ICLR 2024](#ICLR2024), [CVPR 2024](#CVPR2024),
+[ICLR 2024](#ICLR2024), [CVPR 2024](#CVPR2024), [ICML 2024](#ICML2024),
 
 [ICLR 2023](#ICLR2023), [ICML 2023](#ICML2023), [NeurIPS 2023](#NeurIPS2023), [AAAI 2023](#AAAI2023), [ICCV 2023](#ICCV2023), [CVPR 2023](#CVPR2023), [ACMMM 2023](#ACMMM2023),
 
 [IEEE TPAMI](#TPAMI), [IEEE TCSVT](#TCSVT), [IEEE TIP](#TIP), [IEEE TMM](#TMM),
 
+<a name="ICML2024"></a>
+## ICML 2024
+
+**Compress Clean Signal from Noisy Raw Image: A Self-Supervised Approach.** [paper](https://openreview.net/attachment?id=5sgkNtexs2&name=pdf)
+
+**Correcting Diffusion-Based Perceptual Image Compression with Privileged End-to-End Decoder.** [paper](https://openreview.net/attachment?id=1WWpIEFdlk&name=pdf)
 <a name="CVPR2024"></a>
+
 ## CVPR 2024
 
 **C3: High-performance and Low-complexity Neural Compression from A Single Image or Video.** [Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Kim_C3_High-Performance_and_Low-Complexity_Neural_Compression_from_a_Single_Image_CVPR_2024_paper.pdf)
