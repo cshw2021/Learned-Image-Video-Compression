@@ -12,7 +12,7 @@ A collection of papers related to image and video compression.
 <a name="ICML2024"></a>
 ## ICML 2024
 
-**Compress Clean Signal from Noisy Raw Image: A Self-Supervised Approach.** [paper](https://openreview.net/attachment?id=5sgkNtexs2&name=pdf)
+**Compress Clean Signal from Noisy Raw Image: A Self-Supervised Approach.** [paper](https://openreview.net/attachment?id=5sgkNtexs2&name=pdf); [code](https://github.com/lizhihao6/Cleans)
 
 **Correcting Diffusion-Based Perceptual Image Compression with Privileged End-to-End Decoder.** [paper](https://openreview.net/attachment?id=1WWpIEFdlk&name=pdf)
 
