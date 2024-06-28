@@ -178,6 +178,8 @@ A collection of papers related to image and video compression.
 <a name="TCSVT"></a>
 ## IEEE TCSVT
 
+**FDNet: Frequency Decomposition Network for Learned Image Compression. 2024.** [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10559830)
+
 **Conditional Residual Coding: A Remedy for Bottleneck Problems in Conditional Inter Frame Coding. 2024.** [Paper](https://ieeexplore.ieee.org/document/10416172)
 
 **Spatial Decomposition and Temporal Fusion based Inter Prediction for Learned Video Compression. 2024.** [Paper](https://arxiv.org/pdf/2401.15864.pdf)
