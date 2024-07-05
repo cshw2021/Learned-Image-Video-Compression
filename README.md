@@ -3,11 +3,18 @@ A collection of papers related to image and video compression.
 
 ## Overview
 
-[ICLR 2024](#ICLR2024), [CVPR 2024](#CVPR2024), [ICML 2024](#ICML2024),
+[ICLR 2024](#ICLR2024), [CVPR 2024](#CVPR2024), [ICML 2024](#ICML2024), [ECCV 2024](#ECCV2024),
 
 [ICLR 2023](#ICLR2023), [ICML 2023](#ICML2023), [NeurIPS 2023](#NeurIPS2023), [AAAI 2023](#AAAI2023), [ICCV 2023](#ICCV2023), [CVPR 2023](#CVPR2023), [ACMMM 2023](#ACMMM2023),
 
 [IEEE TPAMI](#TPAMI), [IEEE TCSVT](#TCSVT), [IEEE TIP](#TIP), [IEEE TMM](#TMM),
+
+<a name="ECCV2024"></a>
+## ECCV 2024
+
+**Image Compression for Machine and Human Vision With Spatial-Frequency Adaptation.**
+
+**HAC: Hash-grid Assisted Context for 3D Gaussian Splatting Compression.**
 
 <a name="ICML2024"></a>
 ## ICML 2024
