@@ -12,6 +12,8 @@ A collection of papers related to image and video compression.
 <a name="ECCV2024"></a>
 ## ECCV 2024
 
+**EGIC: Enhanced Low-Bit-Rate Generative Image Compression Guided by Semantic Segmentation.** [paper](https://arxiv.org/pdf/2309.03244)
+
 **Image Compression for Machine and Human Vision With Spatial-Frequency Adaptation.**
 
 **HAC: Hash-grid Assisted Context for 3D Gaussian Splatting Compression.**
