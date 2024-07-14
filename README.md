@@ -30,6 +30,8 @@ A collection of papers related to image and video compression.
 
 ## CVPR 2024
 
+**Combining Frame and GOP Embeddings for Neural Video Representation.** [paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Saethre_Combining_Frame_and_GOP_Embeddings_for_Neural_Video_Representation_CVPR_2024_paper.pdf)
+
 **C3: High-performance and Low-complexity Neural Compression from A Single Image or Video.** [Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Kim_C3_High-Performance_and_Low-Complexity_Neural_Compression_from_a_Single_Image_CVPR_2024_paper.pdf)
 
 **Generative Latent Coding for Ultra-Low Bitrate Image Compression.** [Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Jia_Generative_Latent_Coding_for_Ultra-Low_Bitrate_Image_Compression_CVPR_2024_paper.pdf)
