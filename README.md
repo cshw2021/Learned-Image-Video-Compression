@@ -30,6 +30,10 @@ A collection of papers related to image and video compression.
 
 ## CVPR 2024
 
+**DS-NeRV: Implicit Neural Video Representation with Decomposed Static and Dynamic Codes.** [paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Yan_DS-NeRV_Implicit_Neural_Video_Representation_with_Decomposed_Static_and_Dynamic_CVPR_2024_paper.pdf)
+
+**JDEC: JPEG Decoding via Enhanced Continuous Cosine Coefficients.** [paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Han_JDEC_JPEG_Decoding_via_Enhanced_Continuous_Cosine_Coefficients_CVPR_2024_paper.pdf)
+
 **Combining Frame and GOP Embeddings for Neural Video Representation.** [paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Saethre_Combining_Frame_and_GOP_Embeddings_for_Neural_Video_Representation_CVPR_2024_paper.pdf)
 
 **C3: High-performance and Low-complexity Neural Compression from A Single Image or Video.** [Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Kim_C3_High-Performance_and_Low-Complexity_Neural_Compression_from_a_Single_Image_CVPR_2024_paper.pdf)
