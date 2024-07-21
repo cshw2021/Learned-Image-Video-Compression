@@ -12,11 +12,15 @@ A collection of papers related to image and video compression.
 <a name="ECCV2024"></a>
 ## ECCV 2024
 
+**Rate-Distortion-Cognition Controllable Versatile Neural Image Compression.** [paper](https://arxiv.org/pdf/2407.11700)
+
 **EGIC: Enhanced Low-Bit-Rate Generative Image Compression Guided by Semantic Segmentation.** [paper](https://arxiv.org/pdf/2309.03244)
 
-**Image Compression for Machine and Human Vision With Spatial-Frequency Adaptation.**
+**Image Compression for Machine and Human Vision With Spatial-Frequency Adaptation.** [paper](https://arxiv.org/pdf/2407.09853)
 
 **HAC: Hash-grid Assisted Context for 3D Gaussian Splatting Compression.**
+
+**Bidirectional Stereo Image Compression with Cross-Dimensional Entropy Model.** [paper](https://arxiv.org/pdf/2407.10632)
 
 <a name="ICML2024"></a>
 ## ICML 2024
