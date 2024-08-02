@@ -12,6 +12,8 @@ A collection of papers related to image and video compression.
 <a name="ACMMM2024"></a>
 ## ACMMM 2024
 
+**HybridFlow: Infusing Continuity into Masked Codebook for Extreme Low-Bitrate Image Compression.** [paper](https://openreview.net/attachment?id=jwuX7LktIH&name=pdf)
+
 **Consistency Guided Diffusion Model with Neural Syntax for Perceptual Image Compression.** [paper](https://openreview.net/pdf?id=nSUMQhITdd)
 
 <a name="ECCV2024"></a>
