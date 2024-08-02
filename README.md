@@ -17,6 +17,8 @@ A collection of papers related to image and video compression.
 <a name="ECCV2024"></a>
 ## ECCV 2024
 
+**WeConvene: Learned Image Compression with Wavelet-Domain Convolution and Entropy Model.** [paper](https://arxiv.org/pdf/2407.09983); [code](https://github.com/fengyurenpingsheng/WeConvene)
+
 **Rate-Distortion-Cognition Controllable Versatile Neural Image Compression.** [paper](https://arxiv.org/pdf/2407.11700)
 
 **EGIC: Enhanced Low-Bit-Rate Generative Image Compression Guided by Semantic Segmentation.** [paper](https://arxiv.org/pdf/2309.03244)
