@@ -11,6 +11,11 @@ A collection of papers related to image and video compression.
 
 <a name="ACMMM2024"></a>
 ## ACMMM 2024
+**Group-aware Parameter-efficient Updating for Content-Adaptive Neural Video Compression.** [paper](https://openreview.net/attachment?id=KOIoLNLTAW&name=pdf)
+
+**Spatial-Temporal Context Model for Remote Sensing Imagery Compression.** [paper](https://openreview.net/attachment?id=YTNN0mOPQN&name=pdf)
+
+**QS-NeRV: Real-Time Quality-Scalable Decoding with Neural Representation for Videos.** [paper](https://openreview.net/attachment?id=vJbyT9bYgf&name=pdf)
 
 **HybridFlow: Infusing Continuity into Masked Codebook for Extreme Low-Bitrate Image Compression.** [paper](https://openreview.net/attachment?id=jwuX7LktIH&name=pdf)
 
