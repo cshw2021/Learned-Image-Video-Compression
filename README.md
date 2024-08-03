@@ -23,6 +23,11 @@ A collection of papers related to image and video compression.
 
 <a name="ECCV2024"></a>
 ## ECCV 2024
+**GaussianImage: 1000 FPS Image Representation and Compression by 2D Gaussian Splatting.** [paper](https://arxiv.org/pdf/2403.08551)
+
+**Learned HDR Image Compression for Perceptually Optimal Storage and Display.** [paper]()
+
+**Region Adaptive Transform with Segmentation Prior for Image Compression.** [paper](https://arxiv.org/pdf/2403.00628)
 
 **WeConvene: Learned Image Compression with Wavelet-Domain Convolution and Entropy Model.** [paper](https://arxiv.org/pdf/2407.09983); [code](https://github.com/fengyurenpingsheng/WeConvene)
 
@@ -32,7 +37,7 @@ A collection of papers related to image and video compression.
 
 **Image Compression for Machine and Human Vision With Spatial-Frequency Adaptation.** [paper](https://arxiv.org/pdf/2407.09853)
 
-**HAC: Hash-grid Assisted Context for 3D Gaussian Splatting Compression.**
+**HAC: Hash-grid Assisted Context for 3D Gaussian Splatting Compression.** [paper]()
 
 **Bidirectional Stereo Image Compression with Cross-Dimensional Entropy Model.** [paper](https://arxiv.org/pdf/2407.10632)
 
