@@ -11,6 +11,8 @@ A collection of papers related to image and video compression.
 
 <a name="ACMMM2024"></a>
 ## ACMMM 2024
+**Task-Oriented Multi-Bitstream Optimization for Image Compression and Transmission via Optimal Transport.** [paper](https://openreview.net/pdf?id=wOx1VBzF8k)
+
 **Group-aware Parameter-efficient Updating for Content-Adaptive Neural Video Compression.** [paper](https://openreview.net/attachment?id=KOIoLNLTAW&name=pdf)
 
 **Spatial-Temporal Context Model for Remote Sensing Imagery Compression.** [paper](https://openreview.net/attachment?id=YTNN0mOPQN&name=pdf)
