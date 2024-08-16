@@ -51,6 +51,9 @@ A collection of papers related to image and video compression.
 **Correcting Diffusion-Based Perceptual Image Compression with Privileged End-to-End Decoder.** [paper](https://openreview.net/attachment?id=1WWpIEFdlk&name=pdf)
 
 **Neural Image Compression with Text-guided Encoding for both Pixel-level and Perceptual Fidelity.** [paper](https://openreview.net/attachment?id=u8TZ9gm4im&name=pdf); [code](https://github.com/effl-lab/taco)
+
+**EVEREST: Efficient Masked Video Autoencoder by Removing Redundant Spatiotemporal Tokens.** [paper](https://openreview.net/attachment?id=nn5OPHom8t&name=pdf)
+
 <a name="CVPR2024"></a>
 
 ## CVPR 2024
