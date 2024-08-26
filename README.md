@@ -82,7 +82,8 @@ A collection of papers related to image and video compression.
 **Enhancing Quality of Compressed Images by Mitigating Enhancement Bias Towards Compression Domain.**[Paper
 ](https://openaccess.thecvf.com/content/CVPR2024/papers/Xing_Enhancing_Quality_of_Compressed_Images_by_Mitigating_Enhancement_Bias_Towards_CVPR_2024_paper.pdf)
 
-**Boosting Neural Representations for Videos with a Conditional Decoder.** [Paper](https://arxiv.org/pdf/2402.18152.pdf)
+**Boosting Neural Representations for Videos with a Conditional Decoder.** [paper](https://arxiv.org/pdf/2402.18152.pdf); [code
+](https://github.com/Xinjie-Q/Boosting-NeRV)
 
 **Neural Video Compression with Feature Modulation.** [Paper](https://arxiv.org/pdf/2402.17414.pdf)
 
