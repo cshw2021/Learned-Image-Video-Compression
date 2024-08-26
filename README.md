@@ -29,7 +29,8 @@ A collection of papers related to image and video compression.
 
 <a name="ECCV2024"></a>
 ## ECCV 2024
-**GaussianImage: 1000 FPS Image Representation and Compression by 2D Gaussian Splatting.** [paper](https://arxiv.org/pdf/2403.08551)
+**GaussianImage: 1000 FPS Image Representation and Compression by 2D Gaussian Splatting.** [paper](https://arxiv.org/pdf/2403.08551); [code
+](https://github.com/xinjie-q/gaussianimage)
 
 **Learned HDR Image Compression for Perceptually Optimal Storage and Display.** [paper](https://arxiv.org/pdf/2407.13179)
 
