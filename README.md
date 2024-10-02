@@ -29,6 +29,8 @@ A collection of papers related to image and video compression.
 
 <a name="ECCV2024"></a>
 ## ECCV 2024
+**Fast Encoding and Decoding for Implicit Video Representation.** [paper](https://arxiv.org/pdf/2409.19429)
+
 **GaussianImage: 1000 FPS Image Representation and Compression by 2D Gaussian Splatting.** [paper](https://arxiv.org/pdf/2403.08551); [code
 ](https://github.com/xinjie-q/gaussianimage)
 
