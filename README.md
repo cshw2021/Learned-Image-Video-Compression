@@ -13,6 +13,8 @@ A collection of papers related to image and video compression.
 ## NeurIPS 2024
 **Causal Context Adjustment Loss for Learned Image Compression.** [paper](https://arxiv.org/pdf/2410.04847)
 
+**COSMIC: Compress Satellite Images Efficiently via Diffusion Compensation.** [paper](https://arxiv.org/pdf/2410.01698)
+
 <a name="IJCAI2024"></a>
 ## IJCAI 2024
 **Efficient Screen Content Image Compression via Superpixel-based Content Aggregation and Dynamic Feature Fusion.**
