@@ -9,6 +9,8 @@ A collection of papers related to image and video compression.
  
 [IEEE TPAMI](#TPAMI), [IEEE TCSVT](#TCSVT), [IEEE TIP](#TIP), [IEEE TMM](#TMM),
 
+[Other](#other)
+
 <a name="NeurIPS2024"></a>
 ## NeurIPS 2024
 **Causal Context Adjustment Loss for Learned Image Compression.** [paper](https://arxiv.org/pdf/2410.04847)
@@ -237,6 +239,7 @@ A collection of papers related to image and video compression.
 
 <a name="TCSVT"></a>
 ## IEEE TCSVT
+**Towards Extreme Image Compression with Latent Feature Guidance and Diffusion Prior. 2024.** [paper](https://arxiv.org/pdf/2404.18820)
 
 **FDNet: Frequency Decomposition Network for Learned Image Compression. 2024.** [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10559830)
 
@@ -265,3 +268,7 @@ A collection of papers related to image and video compression.
 ## IEEE TMM
 
 **Uncertainty-Aware Deep Video Compression with Ensembles. 2024.** [Paper](https://arxiv.org/pdf/2403.19158.pdf)
+
+<a name="other"></a>
+## Other
+**Conditional Hallucinations for Image Compression.** [Paper](https://arxiv.org/abs/2410.19493)
