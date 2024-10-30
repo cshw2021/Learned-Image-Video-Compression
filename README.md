@@ -272,3 +272,5 @@ A collection of papers related to image and video compression.
 <a name="other"></a>
 ## Other
 **Conditional Hallucinations for Image Compression.** [Paper](https://arxiv.org/abs/2410.19493)
+
+**Extreme Image Compression Using Fine-tuned VQGANs. DCC2024.** [paper](https://ieeexplore.ieee.org/document/10533792)
