@@ -13,9 +13,9 @@ A collection of papers related to image and video compression.
 
 <a name="NeurIPS2024"></a>
 ## NeurIPS 2024
-**Causal Context Adjustment Loss for Learned Image Compression.** [paper](https://arxiv.org/pdf/2410.04847)
+**Causal Context Adjustment Loss for Learned Image Compression.** [Paper](https://arxiv.org/pdf/2410.04847); [Code](https://github.com/LabShuHangGU/CCA)
 
-**COSMIC: Compress Satellite Images Efficiently via Diffusion Compensation.** [paper](https://arxiv.org/pdf/2410.01698)
+**COSMIC: Compress Satellite Images Efficiently via Diffusion Compensation.** [Paper](https://arxiv.org/pdf/2410.01698)
 
 <a name="IJCAI2024"></a>
 ## IJCAI 2024
@@ -23,62 +23,62 @@ A collection of papers related to image and video compression.
 
 <a name="ACMMM2024"></a>
 ## ACMMM 2024
-**Task-Oriented Multi-Bitstream Optimization for Image Compression and Transmission via Optimal Transport.** [paper](https://openreview.net/pdf?id=wOx1VBzF8k)
+**Task-Oriented Multi-Bitstream Optimization for Image Compression and Transmission via Optimal Transport.** [Paper](https://openreview.net/pdf?id=wOx1VBzF8k)
 
-**Group-aware Parameter-efficient Updating for Content-Adaptive Neural Video Compression.** [paper](https://openreview.net/attachment?id=KOIoLNLTAW&name=pdf)
+**Group-aware Parameter-efficient Updating for Content-Adaptive Neural Video Compression.** [Paper](https://openreview.net/attachment?id=KOIoLNLTAW&name=pdf)
 
-**Spatial-Temporal Context Model for Remote Sensing Imagery Compression.** [paper](https://openreview.net/attachment?id=YTNN0mOPQN&name=pdf)
+**Spatial-Temporal Context Model for Remote Sensing Imagery Compression.** [Paper](https://openreview.net/attachment?id=YTNN0mOPQN&name=pdf)
 
-**QS-NeRV: Real-Time Quality-Scalable Decoding with Neural Representation for Videos.** [paper](https://openreview.net/attachment?id=vJbyT9bYgf&name=pdf)
+**QS-NeRV: Real-Time Quality-Scalable Decoding with Neural Representation for Videos.** [Paper](https://openreview.net/attachment?id=vJbyT9bYgf&name=pdf)
 
-**HybridFlow: Infusing Continuity into Masked Codebook for Extreme Low-Bitrate Image Compression.** [paper](https://openreview.net/attachment?id=jwuX7LktIH&name=pdf)
+**HybridFlow: Infusing Continuity into Masked Codebook for Extreme Low-Bitrate Image Compression.** [Paper](https://openreview.net/attachment?id=jwuX7LktIH&name=pdf)
 
-**Consistency Guided Diffusion Model with Neural Syntax for Perceptual Image Compression.** [paper](https://openreview.net/pdf?id=nSUMQhITdd)
+**Consistency Guided Diffusion Model with Neural Syntax for Perceptual Image Compression.** [Paper](https://openreview.net/pdf?id=nSUMQhITdd)
 
 <a name="ECCV2024"></a>
 ## ECCV 2024
-**Fast Encoding and Decoding for Implicit Video Representation.** [paper](https://arxiv.org/pdf/2409.19429)
+**Fast Encoding and Decoding for Implicit Video Representation.** [Paper](https://arxiv.org/pdf/2409.19429)
 
-**GaussianImage: 1000 FPS Image Representation and Compression by 2D Gaussian Splatting.** [paper](https://arxiv.org/pdf/2403.08551); [code
+**GaussianImage: 1000 FPS Image Representation and Compression by 2D Gaussian Splatting.** [Paper](https://arxiv.org/pdf/2403.08551); [Code
 ](https://github.com/xinjie-q/gaussianimage)
 
-**Learned HDR Image Compression for Perceptually Optimal Storage and Display.** [paper](https://arxiv.org/pdf/2407.13179)
+**Learned HDR Image Compression for Perceptually Optimal Storage and Display.** [Paper](https://arxiv.org/pdf/2407.13179)
 
-**Region Adaptive Transform with Segmentation Prior for Image Compression.** [paper](https://arxiv.org/pdf/2403.00628)
+**Region Adaptive Transform with Segmentation Prior for Image Compression.** [Paper](https://arxiv.org/pdf/2403.00628)
 
-**WeConvene: Learned Image Compression with Wavelet-Domain Convolution and Entropy Model.** [paper](https://arxiv.org/pdf/2407.09983); [code](https://github.com/fengyurenpingsheng/WeConvene)
+**WeConvene: Learned Image Compression with Wavelet-Domain Convolution and Entropy Model.** [Paper](https://arxiv.org/pdf/2407.09983); [Code](https://github.com/fengyurenpingsheng/WeConvene)
 
-**Rate-Distortion-Cognition Controllable Versatile Neural Image Compression.** [paper](https://arxiv.org/pdf/2407.11700)
+**Rate-Distortion-Cognition Controllable Versatile Neural Image Compression.** [Paper](https://arxiv.org/pdf/2407.11700)
 
-**EGIC: Enhanced Low-Bit-Rate Generative Image Compression Guided by Semantic Segmentation.** [paper](https://arxiv.org/pdf/2309.03244)
+**EGIC: Enhanced Low-Bit-Rate Generative Image Compression Guided by Semantic Segmentation.** [Paper](https://arxiv.org/pdf/2309.03244)
 
-**Image Compression for Machine and Human Vision With Spatial-Frequency Adaptation.** [paper](https://arxiv.org/pdf/2407.09853); [code
+**Image Compression for Machine and Human Vision With Spatial-Frequency Adaptation.** [Paper](https://arxiv.org/pdf/2407.09853); [code
 ](https://github.com/qingshi9974/eccv2024-adpaticmh)
 
-**HAC: Hash-grid Assisted Context for 3D Gaussian Splatting Compression.** [paper]()
+**HAC: Hash-grid Assisted Context for 3D Gaussian Splatting Compression.** [Paper]()
 
-**Bidirectional Stereo Image Compression with Cross-Dimensional Entropy Model.** [paper](https://arxiv.org/pdf/2407.10632)
+**Bidirectional Stereo Image Compression with Cross-Dimensional Entropy Model.** [Paper](https://arxiv.org/pdf/2407.10632)
 
 <a name="ICML2024"></a>
 ## ICML 2024
 
-**Compress Clean Signal from Noisy Raw Image: A Self-Supervised Approach.** [paper](https://openreview.net/attachment?id=5sgkNtexs2&name=pdf); [code](https://github.com/lizhihao6/Cleans)
+**Compress Clean Signal from Noisy Raw Image: A Self-Supervised Approach.** [Paper](https://openreview.net/attachment?id=5sgkNtexs2&name=pdf); [Code](https://github.com/lizhihao6/Cleans)
 
-**Correcting Diffusion-Based Perceptual Image Compression with Privileged End-to-End Decoder.** [paper](https://openreview.net/attachment?id=1WWpIEFdlk&name=pdf)
+**Correcting Diffusion-Based Perceptual Image Compression with Privileged End-to-End Decoder.** [Paper](https://openreview.net/attachment?id=1WWpIEFdlk&name=pdf)
 
-**Neural Image Compression with Text-guided Encoding for both Pixel-level and Perceptual Fidelity.** [paper](https://openreview.net/attachment?id=u8TZ9gm4im&name=pdf); [code](https://github.com/effl-lab/taco)
+**Neural Image Compression with Text-guided Encoding for both Pixel-level and Perceptual Fidelity.** [Paper](https://openreview.net/attachment?id=u8TZ9gm4im&name=pdf); [Code](https://github.com/effl-lab/taco)
 
-**EVEREST: Efficient Masked Video Autoencoder by Removing Redundant Spatiotemporal Tokens.** [paper](https://openreview.net/attachment?id=nn5OPHom8t&name=pdf)
+**EVEREST: Efficient Masked Video Autoencoder by Removing Redundant Spatiotemporal Tokens.** [Paper](https://openreview.net/attachment?id=nn5OPHom8t&name=pdf)
 
 <a name="CVPR2024"></a>
 
 ## CVPR 2024
 
-**DS-NeRV: Implicit Neural Video Representation with Decomposed Static and Dynamic Codes.** [paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Yan_DS-NeRV_Implicit_Neural_Video_Representation_with_Decomposed_Static_and_Dynamic_CVPR_2024_paper.pdf)
+**DS-NeRV: Implicit Neural Video Representation with Decomposed Static and Dynamic Codes.** [Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Yan_DS-NeRV_Implicit_Neural_Video_Representation_with_Decomposed_Static_and_Dynamic_CVPR_2024_paper.pdf)
 
-**JDEC: JPEG Decoding via Enhanced Continuous Cosine Coefficients.** [paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Han_JDEC_JPEG_Decoding_via_Enhanced_Continuous_Cosine_Coefficients_CVPR_2024_paper.pdf)
+**JDEC: JPEG Decoding via Enhanced Continuous Cosine Coefficients.** [Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Han_JDEC_JPEG_Decoding_via_Enhanced_Continuous_Cosine_Coefficients_CVPR_2024_paper.pdf)
 
-**Combining Frame and GOP Embeddings for Neural Video Representation.** [paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Saethre_Combining_Frame_and_GOP_Embeddings_for_Neural_Video_Representation_CVPR_2024_paper.pdf)
+**Combining Frame and GOP Embeddings for Neural Video Representation.** [Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Saethre_Combining_Frame_and_GOP_Embeddings_for_Neural_Video_Representation_CVPR_2024_paper.pdf)
 
 **C3: High-performance and Low-complexity Neural Compression from A Single Image or Video.** [Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Kim_C3_High-Performance_and_Low-Complexity_Neural_Compression_from_a_Single_Image_CVPR_2024_paper.pdf)
 
@@ -90,10 +90,10 @@ A collection of papers related to image and video compression.
 
 **Towards Backward-Compatible Continual Learning of Image Compression.** [Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Duan_Towards_Backward-Compatible_Continual_Learning_of_Image_Compression_CVPR_2024_paper.pdf)
 
-**Enhancing Quality of Compressed Images by Mitigating Enhancement Bias Towards Compression Domain.**[Paper
+**Enhancing Quality of Compressed Images by Mitigating Enhancement Bias Towards Compression Domain.** [Paper
 ](https://openaccess.thecvf.com/content/CVPR2024/papers/Xing_Enhancing_Quality_of_Compressed_Images_by_Mitigating_Enhancement_Bias_Towards_CVPR_2024_paper.pdf)
 
-**Boosting Neural Representations for Videos with a Conditional Decoder.** [paper](https://arxiv.org/pdf/2402.18152.pdf); [code
+**Boosting Neural Representations for Videos with a Conditional Decoder.** [Paper](https://arxiv.org/pdf/2402.18152.pdf); [Code
 ](https://github.com/Xinjie-Q/Boosting-NeRV)
 
 **Neural Video Compression with Feature Modulation.** [Paper](https://arxiv.org/pdf/2402.17414.pdf)
@@ -239,9 +239,9 @@ A collection of papers related to image and video compression.
 
 <a name="TCSVT"></a>
 ## IEEE TCSVT
-**Towards Extreme Image Compression with Latent Feature Guidance and Diffusion Prior. 2024.** [paper](https://arxiv.org/pdf/2404.18820)
+**Towards Extreme Image Compression with Latent Feature Guidance and Diffusion Prior. 2024.** [Paper](https://arxiv.org/pdf/2404.18820); [code](https://github.com/huai-chang/DiffEIC)
 
-**FDNet: Frequency Decomposition Network for Learned Image Compression. 2024.** [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10559830)
+**FDNet: Frequency Decomposition Network for Learned Image Compression. 2024.** [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10559830)
 
 **Conditional Residual Coding: A Remedy for Bottleneck Problems in Conditional Inter Frame Coding. 2024.** [Paper](https://ieeexplore.ieee.org/document/10416172)
 
@@ -273,4 +273,4 @@ A collection of papers related to image and video compression.
 ## Other
 **Conditional Hallucinations for Image Compression.** [Paper](https://arxiv.org/abs/2410.19493)
 
-**Extreme Image Compression Using Fine-tuned VQGANs. DCC2024.** [paper](https://ieeexplore.ieee.org/document/10533792)
+**Extreme Image Compression Using Fine-tuned VQGANs. DCC2024.** [Paper](https://ieeexplore.ieee.org/document/10533792); [Code](https://github.com/CUC-MIPG/VQGAN-Compression)
