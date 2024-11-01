@@ -37,6 +37,8 @@ A collection of papers related to image and video compression.
 
 <a name="ECCV2024"></a>
 ## ECCV 2024
+**Learned Rate Control for Frame-Level Adaptive Neural Video Compression via Dynamic Neural Network.** [Paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/11394.pdf)
+
 **Fast Encoding and Decoding for Implicit Video Representation.** [Paper](https://arxiv.org/pdf/2409.19429)
 
 **GaussianImage: 1000 FPS Image Representation and Compression by 2D Gaussian Splatting.** [Paper](https://arxiv.org/pdf/2403.08551); [Code
