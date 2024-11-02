@@ -37,6 +37,22 @@ A collection of papers related to image and video compression.
 
 <a name="ECCV2024"></a>
 ## ECCV 2024
+**Neural Graphics Texture Compression Supporting Random Acces.** [Paper](https://arxiv.org/abs/2407.00021)
+
+**MesonGS: Post-training Compression of 3D Gaussians via Efficient Attribute Transformation.** [Paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/4927_ECCV_2024_paper.php)
+
+**Lossy Image Compression with Foundation Diffusion Models.** [Paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/7844_ECCV_2024_paper.php)
+
+**Long-term Temporal Context Gathering for Neural Video Compression.** [Paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/8346_ECCV_2024_paper.php)
+
+**Free-VSC: Free Semantics from Visual Foundation Models for Unsupervised Video Semantic Compression.** [Paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/6543_ECCV_2024_paper.php)
+
+**Fast Point Cloud Geometry Compression with Context-based Residual Coding and INR-based Refinement.** [Paper](https://arxiv.org/abs/2408.02966)
+
+**A Unified Image Compression Method for Human Perception and Multiple Vision Tasks.** [Paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/9009_ECCV_2024_paper.php)
+
+**BaSIC: BayesNet Structure Learning for Computational Scalable Neural Image Compression.** [Paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/3640_ECCV_2024_paper.php); [Code](https://github.com/worldlife123/cbench_BaSIC)
+
 **Learned Rate Control for Frame-Level Adaptive Neural Video Compression via Dynamic Neural Network.** [Paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/11394.pdf)
 
 **Fast Encoding and Decoding for Implicit Video Representation.** [Paper](https://arxiv.org/pdf/2409.19429)
@@ -44,9 +60,9 @@ A collection of papers related to image and video compression.
 **GaussianImage: 1000 FPS Image Representation and Compression by 2D Gaussian Splatting.** [Paper](https://arxiv.org/pdf/2403.08551); [Code
 ](https://github.com/xinjie-q/gaussianimage)
 
-**Learned HDR Image Compression for Perceptually Optimal Storage and Display.** [Paper](https://arxiv.org/pdf/2407.13179)
+**Learned HDR Image Compression for Perceptually Optimal Storage and Display.** [Paper](https://arxiv.org/pdf/2407.13179); [Code](https://github.com/cpb68/EPIC-HDR)
 
-**Region Adaptive Transform with Segmentation Prior for Image Compression.** [Paper](https://arxiv.org/pdf/2403.00628)
+**Region Adaptive Transform with Segmentation Prior for Image Compression.** [Paper](https://arxiv.org/pdf/2403.00628); [Code](https://github.com/GityuxiLiu/SegPIC-for-Image-Compression)
 
 **WeConvene: Learned Image Compression with Wavelet-Domain Convolution and Entropy Model.** [Paper](https://arxiv.org/pdf/2407.09983); [Code](https://github.com/fengyurenpingsheng/WeConvene)
 
@@ -54,10 +70,10 @@ A collection of papers related to image and video compression.
 
 **EGIC: Enhanced Low-Bit-Rate Generative Image Compression Guided by Semantic Segmentation.** [Paper](https://arxiv.org/pdf/2309.03244)
 
-**Image Compression for Machine and Human Vision With Spatial-Frequency Adaptation.** [Paper](https://arxiv.org/pdf/2407.09853); [code
+**Image Compression for Machine and Human Vision With Spatial-Frequency Adaptation.** [Paper](https://arxiv.org/pdf/2407.09853); [Code
 ](https://github.com/qingshi9974/eccv2024-adpaticmh)
 
-**HAC: Hash-grid Assisted Context for 3D Gaussian Splatting Compression.** [Paper]()
+**HAC: Hash-grid Assisted Context for 3D Gaussian Splatting Compression.** [Paper](https://arxiv.org/abs/2403.14530); [Code](https://github.com/YihangChen-ee/HAC)
 
 **Bidirectional Stereo Image Compression with Cross-Dimensional Entropy Model.** [Paper](https://arxiv.org/pdf/2407.10632)
 
