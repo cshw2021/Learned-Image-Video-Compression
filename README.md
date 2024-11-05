@@ -213,7 +213,7 @@ A collection of papers related to image and video compression.
 
 **LVQAC: Lattice Vector Quantization Coupled With Spatially Adaptive Companding for Efficient Learned Image Compression.** [Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_LVQAC_Lattice_Vector_Quantization_Coupled_With_Spatially_Adaptive_Companding_for_CVPR_2023_paper.pdf)
 
-**Multi-Realism Image Compression With a Conditional Generator.** [Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Agustsson_Multi-Realism_Image_Compression_With_a_Conditional_Generator_CVPR_2023_paper.pdf)
+**Multi-Realism Image Compression With a Conditional Generator.** [Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Agustsson_Multi-Realism_Image_Compression_With_a_Conditional_Generator_CVPR_2023_paper.pdf); [Code](https://github.com/Nikolai10/MRIC?tab=readme-ov-file)
 
 **AccelIR: Task-aware Image Compression for Accelerating Neural Restoration.** [Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Ye_AccelIR_Task-Aware_Image_Compression_for_Accelerating_Neural_Restoration_CVPR_2023_paper.pdf)
 
