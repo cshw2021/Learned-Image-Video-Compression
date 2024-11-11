@@ -23,6 +23,8 @@ A collection of papers related to image and video compression.
 
 <a name="ACMMM2024"></a>
 ## ACMMM 2024
+**Rate-aware Compression for NeRF-based Volumetric Video.** [Paper](https://arxiv.org/pdf/2411.05322)
+
 **Task-Oriented Multi-Bitstream Optimization for Image Compression and Transmission via Optimal Transport.** [Paper](https://openreview.net/pdf?id=wOx1VBzF8k)
 
 **Group-aware Parameter-efficient Updating for Content-Adaptive Neural Video Compression.** [Paper](https://openreview.net/attachment?id=KOIoLNLTAW&name=pdf)
