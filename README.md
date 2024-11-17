@@ -13,6 +13,8 @@ A collection of papers related to image and video compression.
 
 <a name="NeurIPS2024"></a>
 ## NeurIPS 2024
+**Diversify, Contextualize, and Adapt: Efficient Entropy Modeling for Neural Image Codec.** [Paper](https://arxiv.org/pdf/2411.05832)
+
 **Causal Context Adjustment Loss for Learned Image Compression.** [Paper](https://arxiv.org/pdf/2410.04847); [Code](https://github.com/LabShuHangGU/CCA)
 
 **COSMIC: Compress Satellite Images Efficiently via Diffusion Compensation.** [Paper](https://arxiv.org/pdf/2410.01698)
