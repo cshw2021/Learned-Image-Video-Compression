@@ -293,6 +293,8 @@ A collection of papers related to image and video compression.
 
 <a name="other"></a>
 ## Other
+**Efficient Progressive Image Compression with Variance-aware Masking. WACV2025.** [Paper](https://arxiv.org/abs/2411.10185)
+
 **Conditional Hallucinations for Image Compression.** [Paper](https://arxiv.org/abs/2410.19493)
 
 **Extreme Image Compression Using Fine-tuned VQGANs. DCC2024.** [Paper](https://ieeexplore.ieee.org/document/10533792); [Code](https://github.com/CUC-MIPG/VQGAN-Compression)
