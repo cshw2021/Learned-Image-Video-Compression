@@ -277,8 +277,9 @@ A collection of papers related to image and video compression.
 
 <a name="TIP"></a>
 ## IEEE TIP
-
 **Exploring Long- and Short-Range Temporal Information for Learned Video Compression. 2024.** [Paper](https://ieeexplore.ieee.org/abstract/document/10388053)
+
+**Learned Video Compression With Efficient Temporal Context Learning. 2023** [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10129217) 
 
 **Scalable Face Image Coding via StyleGAN Prior: Toward Compression for Human-Machine Collaborative Vision. 2023.** [Paper](https://arxiv.org/pdf/2312.15622.pdf)
 
