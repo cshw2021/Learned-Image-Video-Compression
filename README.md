@@ -294,6 +294,8 @@ A collection of papers related to image and video compression.
 
 <a name="other"></a>
 ## Other
+**LMM-driven Semantic Image-Text Coding for Ultra Low-bitrate Learned Image Compression. VCIP2024.** [Paper](https://arxiv.org/pdf/2411.13033); [Code](https://github.com/tokkiwa/ImageTextCoding)
+
 **Efficient Progressive Image Compression with Variance-aware Masking. WACV2025.** [Paper](https://arxiv.org/abs/2411.10185)
 
 **Conditional Hallucinations for Image Compression.** [Paper](https://arxiv.org/abs/2410.19493)
