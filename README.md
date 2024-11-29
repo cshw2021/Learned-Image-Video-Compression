@@ -43,6 +43,8 @@ A collection of papers related to image and video compression.
 
 <a name="ECCV2024"></a>
 ## ECCV 2024
+**Latent-INR: A Flexible Framework for Implicit Representations of Videos with Discriminative Semantics.** [Paper](https://arxiv.org/abs/2408.02672)
+
 **Neural Graphics Texture Compression Supporting Random Acces.** [Paper](https://arxiv.org/abs/2407.00021)
 
 **MesonGS: Post-training Compression of 3D Gaussians via Efficient Attribute Transformation.** [Paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/4927_ECCV_2024_paper.php)
