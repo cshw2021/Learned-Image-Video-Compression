@@ -1,5 +1,5 @@
-# Learned-Image-Video-Compression
-A collection of papers related to image and video compression.
+# Learned-Data-Compression
+A collection of papers related to data compression.
 
 ## Overview
 
