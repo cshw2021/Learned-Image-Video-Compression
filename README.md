@@ -260,6 +260,7 @@ A collection of papers related to data compression.
 
 <a name="TPAMI"></a>
 ## IEEE TPAMI
+**Robust and Transferable Backdoor Attacks Against Deep Image Compression With Selective Frequency Prior. 2024.** [Paper](https://arxiv.org/pdf/2412.01646)
 
 **Deep Lossy Plus Residual Coding for Lossless and Near-lossless Image Compression. 2024.** [Paper](https://ieeexplore.ieee.org/document/10378746)
 
@@ -302,6 +303,10 @@ A collection of papers related to data compression.
 
 <a name="other"></a>
 ## Other
+**DeepFGS: Fine-Grained Scalable Coding for Learned Image Compression. DCC2024.** [Paper](https://arxiv.org/pdf/2412.00437)
+
+**Hybrid Local-Global Context Learning for Neural Video Compression. DCC2024.** [Paper](https://arxiv.org/pdf/2412.00446)
+
 **LMM-driven Semantic Image-Text Coding for Ultra Low-bitrate Learned Image Compression. VCIP2024.** [Paper](https://arxiv.org/pdf/2411.13033); [Code](https://github.com/tokkiwa/ImageTextCoding)
 
 **Efficient Progressive Image Compression with Variance-aware Masking. WACV2025.** [Paper](https://arxiv.org/abs/2411.10185)
