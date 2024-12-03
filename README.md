@@ -13,6 +13,8 @@ A collection of papers related to data compression.
 
 <a name="NeurIPS2024"></a>
 ## NeurIPS 2024
+**Robustly overfitting latents for flexible neural image compression.** [Paper](https://openreview.net/attachment?id=NQB9myZksw&name=pdf)
+
 **Learning Optimal Lattice Vector Quantizers for End-to-end Neural Image Compression.** [Paper](https://openreview.net/attachment?id=dLr4H7Uj4H&name=pdf)
 
 **LightGaussian: Unbounded 3D Gaussian Compression with 15x Reduction and 200+ FPS.** [Paper](https://openreview.net/attachment?id=6AeIDnrTN2&name=pdf)
