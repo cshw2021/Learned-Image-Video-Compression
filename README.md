@@ -13,6 +13,8 @@ A collection of papers related to data compression.
 
 <a name="NeurIPS2024"></a>
 ## NeurIPS 2024
+**NVRC: Neural Video Representation Compression.** [Paper](https://openreview.net/attachment?id=I29aiMdm4u&name=pdf)
+
 **Robustly overfitting latents for flexible neural image compression.** [Paper](https://openreview.net/attachment?id=NQB9myZksw&name=pdf)
 
 **Learning Optimal Lattice Vector Quantizers for End-to-end Neural Image Compression.** [Paper](https://openreview.net/attachment?id=dLr4H7Uj4H&name=pdf)
