@@ -13,6 +13,8 @@ A collection of papers related to image and video compression.
 
 <a name="NeurIPS2024"></a>
 ## NeurIPS 2024
+**LightGaussian: Unbounded 3D Gaussian Compression with 15x Reduction and 200+ FPS.** [Paper](https://openreview.net/attachment?id=6AeIDnrTN2&name=pdf)
+
 **Learning Optimal Lattice Vector Quantizers for End-to-end Neural Image Compression.** [Paper](https://arxiv.org/pdf/2411.16119)
 
 **Diversify, Contextualize, and Adapt: Efficient Entropy Modeling for Neural Image Codec.** [Paper](https://arxiv.org/pdf/2411.05832)
