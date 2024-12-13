@@ -305,6 +305,8 @@ A collection of papers related to data compression.
 
 <a name="other"></a>
 ## Other
+**Learned Compression for Compressed Learning. DCC2025.** [Paper](https://arxiv.org/pdf/2412.09405)
+
 **DeepFGS: Fine-Grained Scalable Coding for Learned Image Compression. DCC2024.** [Paper](https://arxiv.org/pdf/2412.00437)
 
 **Hybrid Local-Global Context Learning for Neural Video Compression. DCC2024.** [Paper](https://arxiv.org/pdf/2412.00446)
