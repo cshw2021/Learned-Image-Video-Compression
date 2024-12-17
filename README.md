@@ -2,6 +2,7 @@
 A collection of papers related to data compression.
 
 ## Overview
+[AAAI 2025](#AAAI2025),
 
 [ICLR 2024](#ICLR2024), [CVPR 2024](#CVPR2024), [ICML 2024](#ICML2024), [ECCV 2024](#ECCV2024), [ACMMM 2024](#ACMMM2024), [IJCAI 2024](#IJCAI2024), [NeurIPS 2024](#NeurIPS2024),
 
@@ -10,6 +11,10 @@ A collection of papers related to data compression.
 [IEEE TPAMI](#TPAMI), [IEEE TCSVT](#TCSVT), [IEEE TIP](#TIP), [IEEE TMM](#TMM),
 
 [Other](#other)
+
+<a name='AAAI2025'></a>
+## AAAI 2025
+**Controllable Distortion-Perception Tradeoff Through Latent Diffusion for Neural Image Compression.** [Paper](https://arxiv.org/pdf/2412.11379)
 
 <a name="NeurIPS2024"></a>
 ## NeurIPS 2024
