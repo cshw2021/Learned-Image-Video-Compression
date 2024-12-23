@@ -277,6 +277,8 @@ A collection of papers related to data compression.
 
 <a name="TCSVT"></a>
 ## IEEE TCSVT
+**Sparse Point Clouds Assisted Learned Image Compression. 2024.** [Paper](https://arxiv.org/pdf/2412.15752)
+
 **Towards Extreme Image Compression with Latent Feature Guidance and Diffusion Prior. 2024.** [Paper](https://arxiv.org/pdf/2404.18820); [code](https://github.com/huai-chang/DiffEIC)
 
 **FDNet: Frequency Decomposition Network for Learned Image Compression. 2024.** [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10559830)
