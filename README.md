@@ -14,6 +14,8 @@ A collection of papers related to data compression.
 
 <a name='AAAI2025'></a>
 ## AAAI 2025
+**CALLIC: Content Adaptive Learning for Lossless Image Compression.** [Paper](https://arxiv.org/pdf/2412.17464)
+
 **Controllable Distortion-Perception Tradeoff Through Latent Diffusion for Neural Image Compression.** [Paper](https://arxiv.org/pdf/2412.11379)
 
 <a name="NeurIPS2024"></a>
