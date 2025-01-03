@@ -297,6 +297,8 @@ A collection of papers related to data compression.
 
 <a name="TIP"></a>
 ## IEEE TIP
+**Exploiting Latent Properties to Optimize Neural Codecs.** [Paper](https://arxiv.org/pdf/2501.01231)
+
 **Exploring Long- and Short-Range Temporal Information for Learned Video Compression. 2024.** [Paper](https://ieeexplore.ieee.org/abstract/document/10388053)
 
 **Learned Video Compression With Efficient Temporal Context Learning. 2023** [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10129217) 
@@ -314,6 +316,8 @@ A collection of papers related to data compression.
 
 <a name="other"></a>
 ## Other
+**CoordFlow: Coordinate Flow for Pixel-wise Neural Video Representation.**[Paper](https://arxiv.org/pdf/2501.00975)
+
 **Learned Compression for Compressed Learning. DCC2025.** [Paper](https://arxiv.org/pdf/2412.09405)
 
 **DeepFGS: Fine-Grained Scalable Coding for Learned Image Compression. DCC2024.** [Paper](https://arxiv.org/pdf/2412.00437)
