@@ -297,6 +297,8 @@ A collection of papers related to data compression.
 
 <a name="TIP"></a>
 ## IEEE TIP
+**Linearly transformed color guide for low-bitrate diffusion based image compression. 2024.** [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10818510)
+
 **Exploiting Latent Properties to Optimize Neural Codecs.** [Paper](https://arxiv.org/pdf/2501.01231)
 
 **Exploring Long- and Short-Range Temporal Information for Learned Video Compression. 2024.** [Paper](https://ieeexplore.ieee.org/abstract/document/10388053)
