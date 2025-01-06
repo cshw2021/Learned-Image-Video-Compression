@@ -56,6 +56,8 @@ A collection of papers related to data compression.
 
 <a name="ECCV2024"></a>
 ## ECCV 2024
+**SNeRV: Spectra-preserving Neural Representation for Video.** [Paper](https://arxiv.org/pdf/2501.01681)
+
 **Latent-INR: A Flexible Framework for Implicit Representations of Videos with Discriminative Semantics.** [Paper](https://arxiv.org/abs/2408.02672)
 
 **Neural Graphics Texture Compression Supporting Random Acces.** [Paper](https://arxiv.org/abs/2407.00021)
