@@ -254,7 +254,7 @@ A collection of papers related to data compression.
 
 **DNeRV: Modeling Inherent Dynamics via Difference Neural Representation for Videos.** [Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhao_DNeRV_Modeling_Inherent_Dynamics_via_Difference_Neural_Representation_for_Videos_CVPR_2023_paper.pdf)
 
-**HNeRV: A Hybrid Neural Representation for Videos.** [Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Chen_HNeRV_A_Hybrid_Neural_Representation_for_Videos_CVPR_2023_paper.pdf)
+**HNeRV: A Hybrid Neural Representation for Videos.** [Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Chen_HNeRV_A_Hybrid_Neural_Representation_for_Videos_CVPR_2023_paper.pdf); [Code](https://github.com/haochen-rye/HNeRV)
 
 **Hierarchical B-frame Video Coding Using Two-Layer CANF without Motion Coding.** [Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Alexandre_Hierarchical_B-Frame_Video_Coding_Using_Two-Layer_CANF_Without_Motion_Coding_CVPR_2023_paper.pdf)
 
@@ -320,7 +320,7 @@ A collection of papers related to data compression.
 
 <a name="other"></a>
 ## Other
-**CoordFlow: Coordinate Flow for Pixel-wise Neural Video Representation.**[Paper](https://arxiv.org/pdf/2501.00975)
+**CoordFlow: Coordinate Flow for Pixel-wise Neural Video Representation.**[Paper](https://arxiv.org/pdf/2501.00975); [Code](https://github.com/Slivliver/CoordFlow)
 
 **Learned Compression for Compressed Learning. DCC2025.** [Paper](https://arxiv.org/pdf/2412.09405)
 
