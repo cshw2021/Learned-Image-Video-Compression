@@ -320,6 +320,8 @@ A collection of papers related to data compression.
 
 <a name="other"></a>
 ## Other
+**Locality-aware Gaussian Compression for Fast and High-quality Rendering.** [Paper](https://arxiv.org/pdf/2501.05757)
+
 **CoordFlow: Coordinate Flow for Pixel-wise Neural Video Representation.**[Paper](https://arxiv.org/pdf/2501.00975); [Code](https://github.com/Slivliver/CoordFlow)
 
 **Learned Compression for Compressed Learning. DCC2025.** [Paper](https://arxiv.org/pdf/2412.09405)
