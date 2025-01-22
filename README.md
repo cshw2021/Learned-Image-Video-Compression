@@ -14,6 +14,8 @@ A collection of papers related to data compression.
 
 <a name='AAAI2025'></a>
 ## AAAI 2025
+**Towards Loss-Resilient Image Coding for Unstable Satellite Networks.** [Paper](https://arxiv.org/pdf/2501.11263)
+
 **CALLIC: Content Adaptive Learning for Lossless Image Compression.** [Paper](https://arxiv.org/pdf/2412.17464)
 
 **Controllable Distortion-Perception Tradeoff Through Latent Diffusion for Neural Image Compression.** [Paper](https://arxiv.org/pdf/2412.11379)
@@ -320,6 +322,10 @@ A collection of papers related to data compression.
 
 <a name="other"></a>
 ## Other
+**RL-RC-DoT: A Block-level RL agent for Task-Aware Video Compression.** [Paper](https://arxiv.org/pdf/2501.12216)
+
+**GaussianVideo: Efficient Video Representation Through 2D Gaussian Splatting.** [Paper](https://arxiv.org/pdf/2501.12060)
+
 **Locality-aware Gaussian Compression for Fast and High-quality Rendering.** [Paper](https://arxiv.org/pdf/2501.05757)
 
 **CoordFlow: Coordinate Flow for Pixel-wise Neural Video Representation.**[Paper](https://arxiv.org/pdf/2501.00975); [Code](https://github.com/Slivliver/CoordFlow)
