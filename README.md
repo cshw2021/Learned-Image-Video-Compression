@@ -2,7 +2,7 @@
 A collection of papers related to data compression.
 
 ## Overview
-[AAAI 2025](#AAAI2025),
+[AAAI 2025](#AAAI2025), [ICLR 2025](#ICLR2025),
 
 [ICLR 2024](#ICLR2024), [CVPR 2024](#CVPR2024), [ICML 2024](#ICML2024), [ECCV 2024](#ECCV2024), [ACMMM 2024](#ACMMM2024), [IJCAI 2024](#IJCAI2024), [NeurIPS 2024](#NeurIPS2024),
 
@@ -11,6 +11,10 @@ A collection of papers related to data compression.
 [IEEE TPAMI](#TPAMI), [IEEE TCSVT](#TCSVT), [IEEE TIP](#TIP), [IEEE TMM](#TMM),
 
 [Other](#other)
+
+<a name='ICLR2025'></a>
+## ICLR 2025
+**On Disentangled Training for Nonlinear Transform in Learned Image Compression.** [Paper](https://arxiv.org/pdf/2501.13751)
 
 <a name='AAAI2025'></a>
 ## AAAI 2025
@@ -322,6 +326,8 @@ A collection of papers related to data compression.
 
 <a name="other"></a>
 ## Other
+**Diffusion-based Perceptual Neural Video Compression with Temporal Diffusion Information Reuse.** [Paper](https://arxiv.org/pdf/2501.13528)
+
 **RL-RC-DoT: A Block-level RL agent for Task-Aware Video Compression.** [Paper](https://arxiv.org/pdf/2501.12216)
 
 **GaussianVideo: Efficient Video Representation Through 2D Gaussian Splatting.** [Paper](https://arxiv.org/pdf/2501.12060)
