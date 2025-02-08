@@ -4,7 +4,7 @@ A collection of papers related to data compression.
 ## Overview
 [AAAI 2025](#AAAI2025), [ICLR 2025](#ICLR2025),
 
-[ICLR 2024](#ICLR2024), [CVPR 2024](#CVPR2024), [ICML 2024](#ICML2024), [ECCV 2024](#ECCV2024), [ACMMM 2024](#ACMMM2024), [IJCAI 2024](#IJCAI2024), [NeurIPS 2024](#NeurIPS2024),
+[ICLR 2024](#ICLR2024), [CVPR 2024](#CVPR2024), [ICML 2024](#ICML2024), [ECCV 2024](#ECCV2024), [ACMMM 2024](#ACMMM2024), [IJCAI 2024](#IJCAI2024), [NeurIPS 2024](#NeurIPS2024), [AAAI 2024](#AAAI2024),
 
 [ICLR 2023](#ICLR2023), [ICML 2023](#ICML2023), [NeurIPS 2023](#NeurIPS2023), [AAAI 2023](#AAAI2023), [ICCV 2023](#ICCV2023), [CVPR 2023](#CVPR2023), [ACMMM 2023](#ACMMM2023),
  
@@ -23,6 +23,10 @@ A collection of papers related to data compression.
 **CALLIC: Content Adaptive Learning for Lossless Image Compression.** [Paper](https://arxiv.org/pdf/2412.17464)
 
 **Controllable Distortion-Perception Tradeoff Through Latent Diffusion for Neural Image Compression.** [Paper](https://arxiv.org/pdf/2412.11379)
+
+<a name="AAAI2024"></a>
+## AAAI 2024
+**Deep Hierarchical Video Compression.** [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/28733); [Code](https://github.com/NJUVISION/DHVC); [Journal Version](https://arxiv.org/pdf/2410.02598)
 
 <a name="NeurIPS2024"></a>
 ## NeurIPS 2024
