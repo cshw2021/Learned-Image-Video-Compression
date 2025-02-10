@@ -330,6 +330,8 @@ A collection of papers related to data compression.
 
 <a name="other"></a>
 ## Other
+**CMamba: Learned Image Compression with State Space Models.** [Paper](https://arxiv.org/pdf/2502.04988)
+
 **Diffusion-based Perceptual Neural Video Compression with Temporal Diffusion Information Reuse.** [Paper](https://arxiv.org/pdf/2501.13528)
 
 **RL-RC-DoT: A Block-level RL agent for Task-Aware Video Compression.** [Paper](https://arxiv.org/pdf/2501.12216)
