@@ -330,6 +330,8 @@ A collection of papers related to data compression.
 
 <a name="other"></a>
 ## Other
+**Linear Attention Modeling for Learned Image Compression.** [Paper](https://arxiv.org/pdf/2502.05741)
+
 **CANeRV: Content Adaptive Neural Representation for Video Compression.** [Paper](https://arxiv.org/pdf/2502.06181)
 
 **CMamba: Learned Image Compression with State Space Models.** [Paper](https://arxiv.org/pdf/2502.04988)
