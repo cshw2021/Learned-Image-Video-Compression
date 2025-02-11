@@ -330,6 +330,8 @@ A collection of papers related to data compression.
 
 <a name="other"></a>
 ## Other
+**CANeRV: Content Adaptive Neural Representation for Video Compression.** [Paper](https://arxiv.org/pdf/2502.06181)
+
 **CMamba: Learned Image Compression with State Space Models.** [Paper](https://arxiv.org/pdf/2502.04988)
 
 **Diffusion-based Perceptual Neural Video Compression with Temporal Diffusion Information Reuse.** [Paper](https://arxiv.org/pdf/2501.13528)
