@@ -18,6 +18,8 @@ A collection of papers related to data compression.
 
 <a name='AAAI2025'></a>
 ## AAAI 2025
+**Large Images are Gaussians: High-Quality Large Image Representation with Levels of 2D Gaussian Splatting.** [Paper](https://arxiv.org/pdf/2502.09039)
+
 **Towards Loss-Resilient Image Coding for Unstable Satellite Networks.** [Paper](https://arxiv.org/pdf/2501.11263)
 
 **CALLIC: Content Adaptive Learning for Lossless Image Compression.** [Paper](https://arxiv.org/pdf/2412.17464)
