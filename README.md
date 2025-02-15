@@ -30,6 +30,8 @@ A collection of papers related to data compression.
 ## AAAI 2024
 **Deep Hierarchical Video Compression.** [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/28733); [Code](https://github.com/NJUVISION/DHVC); [Journal Version](https://arxiv.org/pdf/2410.02598)
 
+**Offline and Online Optical Flow Enhancement for Deep Video Compression.** [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/28317)
+
 <a name="NeurIPS2024"></a>
 ## NeurIPS 2024
 **NVRC: Neural Video Representation Compression.** [Paper](https://openreview.net/attachment?id=I29aiMdm4u&name=pdf)
