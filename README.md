@@ -334,6 +334,8 @@ A collection of papers related to data compression.
 
 <a name="other"></a>
 ## Other
+**S2CFormer: Reorienting Learned Image Compression from Spatial Interaction to Channel Aggregation.** [Paper](https://arxiv.org/pdf/2502.00700)
+
 **HDCompression: Hybrid-Diffusion Image Compression for Ultra-Low Bitrates.** [Paper](https://arxiv.org/pdf/2502.07160)
 
 **Linear Attention Modeling for Learned Image Compression.** [Paper](https://arxiv.org/pdf/2502.05741)
