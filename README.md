@@ -18,7 +18,7 @@ A collection of papers related to data compression.
 
 <a name='AAAI2025'></a>
 ## AAAI 2025
-**Conditional Latent Coding with Learnable Synthesized Reference for Deep Image Compression. (Oral)** [Paper](https://arxiv.org/pdf/2502.09971); [Code](https://github.com/ydchen0806/CLC)
+**Conditional Latent Coding with Learnable Synthesized Reference for Deep Image Compression (Oral).** [Paper](https://arxiv.org/pdf/2502.09971); [Code](https://github.com/ydchen0806/CLC)
 
 **Large Images are Gaussians: High-Quality Large Image Representation with Levels of 2D Gaussian Splatting.** [Paper](https://arxiv.org/pdf/2502.09039)
 
