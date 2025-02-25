@@ -336,6 +336,7 @@ A collection of papers related to data compression.
 
 <a name="other"></a>
 ## Other
+**Continuous Patch Stitching for Block-wise Image Compression.** [Paper](https://arxiv.org/pdf/2502.16795)
 
 **S2CFormer: Reorienting Learned Image Compression from Spatial Interaction to Channel Aggregation.** [Paper](https://arxiv.org/pdf/2502.00700)
 
