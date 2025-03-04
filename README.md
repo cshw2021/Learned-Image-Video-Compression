@@ -16,6 +16,8 @@ A collection of papers related to data compression.
 ## CVPR 2025
 **Taming Large Multimodal Agents for Ultra-low Bitrate Semantically Disentangled Image Compression.** [Paper](https://arxiv.org/pdf/2503.00399)
 
+**Towards Practical Real-Time Neural Video Compression.** [Paper](https://arxiv.org/pdf/2502.20762)
+
 <a name='ICLR2025'></a>
 ## ICLR 2025
 **CAT-3DGS: A Context-Adaptive Triplane Approach to Rate-Distortion-Optimized 3DGS Compression.** [Paper](https://arxiv.org/abs/2503.00357)
