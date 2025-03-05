@@ -346,6 +346,8 @@ A collection of papers related to data compression.
 
 <a name="other"></a>
 ## Other
+**UAR-NVC: A Unified AutoRegressive Framework for Memory-Efficient Neural Video Compression.** [Paper](https://arxiv.org/abs/2503.02733)
+
 **DLF: Extreme Image Compression with Dual-generative Latent Fusion.** [Paper](https://arxiv.org/pdf/2503.01428)
 
 **Pleno-Generation: A Scalable Generative Face Video Compression Framework with Bandwidth Intelligence.** [Paper](https://arxiv.org/pdf/2502.17085)
