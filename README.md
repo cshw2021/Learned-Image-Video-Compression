@@ -346,6 +346,8 @@ A collection of papers related to data compression.
 
 <a name="other"></a>
 ## Other
+**DLF: Extreme Image Compression with Dual-generative Latent Fusion.** [Paper](https://arxiv.org/pdf/2503.01428)
+
 **Pleno-Generation: A Scalable Generative Face Video Compression Framework with Bandwidth Intelligence.** [Paper](https://arxiv.org/pdf/2502.17085)
 
 **Continuous Patch Stitching for Block-wise Image Compression.** [Paper](https://arxiv.org/pdf/2502.16795)
