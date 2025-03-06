@@ -22,6 +22,10 @@ A collection of papers related to data compression.
 
 <a name='ICLR2025'></a>
 ## ICLR 2025
+**Scaling Transformers for Low-bitrate High-quality Speech Coding.** [Paper](https://openreview.net/attachment?id=4YpMrGfldX&name=pdf)
+
+**Resolution Attack: Exploiting Image Compression to Deceive Deep Neural Networks.** [Paper](https://openreview.net/attachment?id=OFukl9Qg8P&name=pdf)
+
 **FlowDec: A Flow-based Full-band General Audio Codec with High Perceptual Quality.** [Paper](https://openreview.net/attachment?id=uxDFlPGRLX&name=pdf)
 
 **Lossy Compression with Pretrained Diffusion Models.** [Paper](https://openreview.net/attachment?id=raUnLe0Z04&name=pdf)
