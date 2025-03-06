@@ -22,6 +22,12 @@ A collection of papers related to data compression.
 
 <a name='ICLR2025'></a>
 ## ICLR 2025
+**FlowDec: A Flow-based Full-band General Audio Codec with High Perceptual Quality.** [Paper](https://openreview.net/attachment?id=uxDFlPGRLX&name=pdf)
+
+**Lossy Compression with Pretrained Diffusion Models.** [Paper](https://openreview.net/attachment?id=raUnLe0Z04&name=pdf)
+
+**On Quantizing Neural Representation For Variable-Rate Video Coding.** [Paper](https://openreview.net/attachment?id=44cMlQSreK&name=pdf)
+
 **Progressive Compression with Universally Quantized Diffusion Models.** [Paper](https://openreview.net/attachment?id=CxXGvKRDnL&name=pdf)
 
 **CAT-3DGS: A Context-Adaptive Triplane Approach to Rate-Distortion-Optimized 3DGS Compression.** [Paper](https://arxiv.org/abs/2503.00357)
