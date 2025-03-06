@@ -4,7 +4,7 @@ A collection of papers related to data compression.
 ## Overview
 [AAAI 2025](#AAAI2025), [ICLR 2025](#ICLR2025), [CVPR 2025](#CVPR2025)
 
-[ICLR 2024](#ICLR2024), [CVPR 2024](#CVPR2024), [ICML 2024](#ICML2024), [ECCV 2024](#ECCV2024), [ACMMM 2024](#ACMMM2024), [IJCAI 2024](#IJCAI2024), [NeurIPS 2024](#NeurIPS2024), [AAAI 2024](#AAAI2024),
+[ICLR 2024](#ICLR2024), [CVPR 2024](#CVPR2024), [ICML 2024](#ICML2024), [ECCV 2024](#ECCV2024), [ACMMM 2024](#ACMMM2024), [NeurIPS 2024](#NeurIPS2024), [AAAI 2024](#AAAI2024),
 
 [ICLR 2023](#ICLR2023), [ICML 2023](#ICML2023), [NeurIPS 2023](#NeurIPS2023), [AAAI 2023](#AAAI2023), [ICCV 2023](#ICCV2023), [CVPR 2023](#CVPR2023), [ACMMM 2023](#ACMMM2023),
  
@@ -71,10 +71,6 @@ A collection of papers related to data compression.
 **Causal Context Adjustment Loss for Learned Image Compression.** [Paper](https://arxiv.org/pdf/2410.04847); [Code](https://github.com/LabShuHangGU/CCA)
 
 **COSMIC: Compress Satellite Images Efficiently via Diffusion Compensation.** [Paper](https://arxiv.org/pdf/2410.01698)
-
-<a name="IJCAI2024"></a>
-## IJCAI 2024
-**Efficient Screen Content Image Compression via Superpixel-based Content Aggregation and Dynamic Feature Fusion.**
 
 <a name="ACMMM2024"></a>
 ## ACMMM 2024
