@@ -22,6 +22,8 @@ A collection of papers related to data compression.
 
 <a name='ICLR2025'></a>
 ## ICLR 2025
+**An Exploration with Entropy Constrained 3D Gaussians for 2D Video Compression.** [Paper](https://openreview.net/attachment?id=JbRM5QKRDd&name=pdf); [Code](https://github.com/actcwlf/GSVC)
+
 **Scaling Transformers for Low-bitrate High-quality Speech Coding.** [Paper](https://openreview.net/attachment?id=4YpMrGfldX&name=pdf)
 
 **Resolution Attack: Exploiting Image Compression to Deceive Deep Neural Networks.** [Paper](https://openreview.net/attachment?id=OFukl9Qg8P&name=pdf)
