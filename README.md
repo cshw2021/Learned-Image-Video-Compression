@@ -22,6 +22,8 @@ A collection of papers related to data compression.
 
 <a name='ICLR2025'></a>
 ## ICLR 2025
+**Fast Feedforward 3D Gaussian Splatting Compression.** [Paper](https://openreview.net/attachment?id=DCandSZ2F1&name=pdf)
+
 **Locality-aware Gaussian Compression for Fast and High-quality Rendering.** [Paper](https://openreview.net/attachment?id=dHYwfV2KeP&name=pdf)
 
 **An Exploration with Entropy Constrained 3D Gaussians for 2D Video Compression.** [Paper](https://openreview.net/attachment?id=JbRM5QKRDd&name=pdf); [Code](https://github.com/actcwlf/GSVC)
