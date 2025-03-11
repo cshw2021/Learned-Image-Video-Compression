@@ -360,6 +360,8 @@ A collection of papers related to data compression.
 
 <a name="other"></a>
 ## Other
+**FEDS: Feature and Entropy-Based Distillation Strategy for Efficient Learned Image Compression.** [Paper](https://arxiv.org/pdf/2503.06399)
+
 **UAR-NVC: A Unified AutoRegressive Framework for Memory-Efficient Neural Video Compression.** [Paper](https://arxiv.org/abs/2503.02733)
 
 **DLF: Extreme Image Compression with Dual-generative Latent Fusion.** [Paper](https://arxiv.org/pdf/2503.01428)
