@@ -14,7 +14,7 @@ A collection of papers related to data compression.
 
 <a name='CVPR2025'></a>
 ## CVPR 2025
-**Balanced Rate-Distortion Optimization in Learned Image Compression.** [Paper](https://arxiv.org/pdf/2502.20161)
+**Balanced Rate-Distortion Optimization in Learned Image Compression. ICASSP 2025.** [Paper](https://arxiv.org/pdf/2502.20161)
 
 **Taming Large Multimodal Agents for Ultra-low Bitrate Semantically Disentangled Image Compression.** [Paper](https://arxiv.org/pdf/2503.00399)
 
