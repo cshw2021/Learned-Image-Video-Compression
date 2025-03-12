@@ -360,6 +360,8 @@ A collection of papers related to data compression.
 
 <a name="other"></a>
 ## Other
+**Integrating Adaptive Sampling for Optimal Learned Video Compression.** [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10888457)
+
 **FEDS: Feature and Entropy-Based Distillation Strategy for Efficient Learned Image Compression.** [Paper](https://arxiv.org/pdf/2503.06399)
 
 **UAR-NVC: A Unified AutoRegressive Framework for Memory-Efficient Neural Video Compression.** [Paper](https://arxiv.org/abs/2503.02733)
