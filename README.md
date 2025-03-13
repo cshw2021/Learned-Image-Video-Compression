@@ -16,7 +16,7 @@ A collection of papers related to data compression.
 ## CVPR 2025
 **ECVC: Exploiting Non-Local Correlations in Multiple Frames for Contextual Video Compression.** [Paper](https://arxiv.org/pdf/2410.09706); [Code](https://github.com/JiangWeibeta/ECVC)
 
-**Balanced Rate-Distortion Optimization in Learned Image Compression. ICASSP 2025.** [Paper](https://arxiv.org/pdf/2502.20161)
+**Balanced Rate-Distortion Optimization in Learned Image Compression.** [Paper](https://arxiv.org/pdf/2502.20161)
 
 **Taming Large Multimodal Agents for Ultra-low Bitrate Semantically Disentangled Image Compression.** [Paper](https://arxiv.org/pdf/2503.00399)
 
