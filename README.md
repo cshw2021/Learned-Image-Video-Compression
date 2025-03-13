@@ -360,6 +360,10 @@ A collection of papers related to data compression.
 
 <a name="other"></a>
 ## Other
+**PerCoV2: Improved Ultra-Low Bit-Rate Perceptual Image Compression with Implicit Hierarchical Masked Image Modeling.** [Paper](https://arxiv.org/pdf/2503.09368)
+
+**Residual Learning and Filtering Networks for End-to-End Lossless Video Compression.** [Paper](https://arxiv.org/pdf/2503.08819)
+
 **Integrating Adaptive Sampling for Optimal Learned Video Compression.** [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10888457)
 
 **FEDS: Feature and Entropy-Based Distillation Strategy for Efficient Learned Image Compression.** [Paper](https://arxiv.org/pdf/2503.06399)
