@@ -14,6 +14,8 @@ A collection of papers related to data compression.
 
 <a name='CVPR2025'></a>
 ## CVPR 2025
+**MambaIC: State Space Models for High-Performance Learned Image Compression.** [Paper](https://arxiv.org/pdf/2503.12461)
+
 **ECVC: Exploiting Non-Local Correlations in Multiple Frames for Contextual Video Compression.** [Paper](https://arxiv.org/pdf/2410.09706); [Code](https://github.com/JiangWeibeta/ECVC)
 
 **Balanced Rate-Distortion Optimization in Learned Image Compression.** [Paper](https://arxiv.org/pdf/2502.20161)
