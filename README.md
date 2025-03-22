@@ -368,7 +368,7 @@ A collection of papers related to data compression.
 
 <a name="other"></a>
 ## Other
-**Leveraging Diffusion Knowledge for Generative Image Compression with Fractal Frequency-Aware Band Learning.** [Paper](https://arxiv.org/pdf/2503.11321)
+**Leveraging Diffusion Knowledge for Generative Image Compression with Fractal Frequency-Aware Band Learning. 2025.03.22** [Paper](https://arxiv.org/pdf/2503.11321)
 
 **PerCoV2: Improved Ultra-Low Bit-Rate Perceptual Image Compression with Implicit Hierarchical Masked Image Modeling.** [Paper](https://arxiv.org/pdf/2503.09368)
 
