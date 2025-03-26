@@ -368,6 +368,8 @@ A collection of papers related to data compression.
 
 <a name="other"></a>
 ## Other
+**2025.03.26. GIViC: Generative Implicit Video Compression.** [Paper](https://arxiv.org/pdf/2503.19604)
+
 **2025.03.22. Leveraging Diffusion Knowledge for Generative Image Compression with Fractal Frequency-Aware Band Learning.** [Paper](https://arxiv.org/pdf/2503.11321)
 
 **PerCoV2: Improved Ultra-Low Bit-Rate Perceptual Image Compression with Implicit Hierarchical Masked Image Modeling.** [Paper](https://arxiv.org/pdf/2503.09368)
