@@ -370,6 +370,10 @@ A collection of papers related to data compression.
 
 <a name="other"></a>
 ## Other
+**2025.04.04. Image Coding for Machines via Feature-Preserving Rate-Distortion Optimization.** [Paper](https://arxiv.org/pdf/2504.02216)
+
+**L-LBVC: Long-Term Motion Estimation and Prediction for Learned Bi-Directional Video Compression. DCC 2025** [Paper](https://arxiv.org/pdf/2504.02560)
+
 **2025.03.30. Embedding Compression Distortion in Video Coding for Machines.** [Paper](https://arxiv.org/pdf/2503.21469)
 
 **2025.03.26. GIViC: Generative Implicit Video Compression.** [Paper](https://arxiv.org/pdf/2503.19604)
