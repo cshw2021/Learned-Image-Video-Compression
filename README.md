@@ -32,6 +32,8 @@ A collection of papers related to data compression.
 
 <a name='ICLR2025'></a>
 ## ICLR 2025
+**Once-for-All: Controllable Generative Image Compression with Dynamic Granularity Adaption.** [Paper](https://arxiv.org/pdf/2406.00758)
+
 **Fast Feedforward 3D Gaussian Splatting Compression.** [Paper](https://openreview.net/attachment?id=DCandSZ2F1&name=pdf)
 
 **Locality-aware Gaussian Compression for Fast and High-quality Rendering.** [Paper](https://openreview.net/attachment?id=dHYwfV2KeP&name=pdf)
