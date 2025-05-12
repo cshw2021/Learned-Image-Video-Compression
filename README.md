@@ -14,6 +14,8 @@ A collection of papers related to data compression.
 
 <a name='CVPR2025'></a>
 ## CVPR 2025
+**PICD: Versatile Perceptual Image Compression with Diffusion Rendering.** [Paper](https://arxiv.org/pdf/2505.05853)
+
 **Learned Image Compression with Dictionary-based Entropy Model.** [Paper](https://arxiv.org/pdf/2504.00496)
 
 **Multirate Neural Image Compression with Adaptive Lattice Vector Quantization.** [Paper]
