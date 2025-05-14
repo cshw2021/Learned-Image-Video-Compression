@@ -2,7 +2,7 @@
 A collection of papers related to data compression.
 
 ## Overview
-[AAAI 2025](#AAAI2025), [ICLR 2025](#ICLR2025), [CVPR 2025](#CVPR2025)
+[AAAI 2025](#AAAI2025), [ICLR 2025](#ICLR2025), [CVPR 2025](#CVPR2025), [ICML 2025](#ICML2025)
 
 [ICLR 2024](#ICLR2024), [CVPR 2024](#CVPR2024), [ICML 2024](#ICML2024), [ECCV 2024](#ECCV2024), [ACMMM 2024](#ACMMM2024), [NeurIPS 2024](#NeurIPS2024), [AAAI 2024](#AAAI2024),
 
@@ -11,6 +11,10 @@ A collection of papers related to data compression.
 [IEEE TPAMI](#TPAMI), [IEEE TCSVT](#TCSVT), [IEEE TIP](#TIP), [IEEE TMM](#TMM),
 
 [Other](#other)
+
+<a name='ICML2025'></a>
+## ICML 2025
+**Ultra Lowrate Image Compression with Semantic Residual Coding and Compression-aware Diffusion.** [Paper](https://arxiv.org/pdf/2505.08281)
 
 <a name='CVPR2025'></a>
 ## CVPR 2025
