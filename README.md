@@ -14,7 +14,7 @@ A collection of papers related to data compression.
 
 <a name='ICML2025'></a>
 ## ICML 2025
-**Ultra Lowrate Image Compression with Semantic Residual Coding and Compression-aware Diffusion.** [Paper](https://arxiv.org/pdf/2505.08281)
+**Ultra Lowrate Image Compression with Semantic Residual Coding and Compression-aware Diffusion.** [Paper](https://arxiv.org/pdf/2505.08281); [Code](https://github.com/NJUVISION/ResULIC)
 
 <a name='CVPR2025'></a>
 ## CVPR 2025
