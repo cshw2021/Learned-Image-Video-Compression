@@ -382,6 +382,12 @@ A collection of papers related to data compression.
 
 <a name="other"></a>
 ## Other
+**2025.05.16. High Quality Underwater Image Compression with Adaptive Correction and Codebook-based Augmentation.** [Paper](https://arxiv.org/pdf/2505.09986)
+
+**2025.05.15. Neural Video Compression using 2D Gaussian Splatting.** [Paper](https://arxiv.org/pdf/2505.09324)
+
+**2025.05.15. BiECVC: Gated Diversification of Bidirectional Contexts for Learned Video Compression.** [Paper](https://arxiv.org/pdf/2505.09193)
+
 **2025.04.08. 3DM-WeConvene: Learned Image Compression with 3D Multi-Level Wavelet-Domain Convolution and Entropy Model.** [Paper](https://arxiv.org/pdf/2504.04658)
 
 **2025.04.04. Image Coding for Machines via Feature-Preserving Rate-Distortion Optimization.** [Paper](https://arxiv.org/pdf/2504.02216)
