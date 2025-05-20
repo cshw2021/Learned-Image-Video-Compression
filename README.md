@@ -22,7 +22,7 @@ A collection of papers related to data compression.
 
 **PICD: Versatile Perceptual Image Compression with Diffusion Rendering.** [Paper](https://arxiv.org/pdf/2505.05853)
 
-**Learned Image Compression with Dictionary-based Entropy Model.** [Paper](https://arxiv.org/pdf/2504.00496)
+**Learned Image Compression with Dictionary-based Entropy Model.** [Paper](https://arxiv.org/pdf/2504.00496); [Code](https://github.com/labshuhanggu/dcae)
 
 **Multirate Neural Image Compression with Adaptive Lattice Vector Quantization.** [Paper]
 
