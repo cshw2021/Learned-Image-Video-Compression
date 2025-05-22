@@ -18,6 +18,8 @@ A collection of papers related to data compression.
 
 <a name='CVPR2025'></a>
 ## CVPR 2025
+**Neural Video Compression with Context Modulation.** [Paper](https://arxiv.org/pdf/2505.14541)
+
 **High Dynamic Range Video Compression: A Large-Scale Benchmark Dataset and A Learned Bit-depth Scalable Compression Algorithm.** [Paper]
 
 **PICD: Versatile Perceptual Image Compression with Diffusion Rendering.** [Paper](https://arxiv.org/pdf/2505.05853)
