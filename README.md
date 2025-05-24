@@ -384,6 +384,14 @@ A collection of papers related to data compression.
 
 <a name="other"></a>
 ## Other
+**2025.05.23. OSCAR: One-Step Diffusion Codec Across Multiple Bit-rates.** [Paper](https://arxiv.org/pdf/2505.16091) Yulun Zhang
+
+**2025.05.23. Generative Latent Coding for Ultra-Low Bitrate Image and Video Compression.** [Paper](https://arxiv.org/pdf/2505.16177) Yan Lu
+
+**2025.05.23. DualComp: End-to-End Learning of a Unified Dual-Modality Lossless Compressor.** [Paper](https://arxiv.org/pdf/2505.16256)
+
+**2025.05.23. One-Step Diffusion-Based Image Compression with Semantic Distillation.** [Paper](https://arxiv.org/pdf/2505.16687) Yan Lu
+
 **2025.05.16. High Quality Underwater Image Compression with Adaptive Correction and Codebook-based Augmentation.** [Paper](https://arxiv.org/pdf/2505.09986)
 
 **2025.05.15. Neural Video Compression using 2D Gaussian Splatting.** [Paper](https://arxiv.org/pdf/2505.09324)
