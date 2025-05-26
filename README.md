@@ -36,7 +36,7 @@ A collection of papers related to data compression.
 
 **Balanced Rate-Distortion Optimization in Learned Image Compression.** [Paper](https://arxiv.org/pdf/2502.20161)
 
-**Taming Large Multimodal Agents for Ultra-low Bitrate Semantically Disentangled Image Compression.** [Paper](https://arxiv.org/pdf/2503.00399)
+**Extremely low-bitrate Image Compression Semantically Disentangled by LMMs from a Human Perception Perspective.** [Paper](https://arxiv.org/pdf/2503.00399)
 
 **Towards Practical Real-Time Neural Video Compression.** [Paper](https://arxiv.org/pdf/2502.20762)
 
