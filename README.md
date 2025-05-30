@@ -388,6 +388,8 @@ A collection of papers related to data compression.
 
 <a name="other"></a>
 ## Other
+**2025.05.30. Towards Facial Image Compression with Consistency Preserving Diffusion Prior.** [Paper](https://arxiv.org/pdf/2505.05870?)
+
 **2025.05.30. High Quality Underwater Image Compression with Adaptive Correction and Codebook-based Augmentation.** [Paper](https://arxiv.org/pdf/2505.09986?)
 
 **2025.05.30. 3DGS Compression with Sparsity-guided Hierarchical Transform Coding.** [Paper](https://arxiv.org/pdf/2505.22908)
