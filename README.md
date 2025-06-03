@@ -390,6 +390,8 @@ A collection of papers related to data compression.
 
 <a name="other"></a>
 ## Other
+**2025.06.03. Fourier-Modulated Implicit Neural Representation for Multispectral Satellite Image Compression.** [Paper](https://arxiv.org/pdf/2506.01234)
+
 **2025.05.30. Towards Facial Image Compression with Consistency Preserving Diffusion Prior.** [Paper](https://arxiv.org/pdf/2505.05870?)
 
 **2025.05.30. High Quality Underwater Image Compression with Adaptive Correction and Codebook-based Augmentation.** [Paper](https://arxiv.org/pdf/2505.09986?)
