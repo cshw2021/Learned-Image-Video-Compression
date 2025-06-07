@@ -20,6 +20,8 @@ A collection of papers related to data compression.
 
 <a name='CVPR2025'></a>
 ## CVPR 2025
+**Decouple Distortion from Perception: Region Adaptive Diffusion for Extreme-low Bitrate Perception Image Compression.** [Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Xu_Decouple_Distortion_from_Perception_Region_Adaptive_Diffusion_for_Extreme-low_Bitrate_CVPR_2025_paper.pdf)
+
 **Neural Video Compression with Context Modulation.** [Paper](https://arxiv.org/pdf/2505.14541)
 
 **High Dynamic Range Video Compression: A Large-Scale Benchmark Dataset and A Learned Bit-depth Scalable Compression Algorithm.** [Paper]
