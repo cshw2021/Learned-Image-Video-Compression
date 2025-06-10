@@ -351,6 +351,8 @@ A collection of papers related to data compression.
 
 <a name="TCSVT"></a>
 ## IEEE TCSVT
+**RDEIC: Accelerating Diffusion-Based Extreme Image Compression with Relay Residual Diffusion.** [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11029044)
+
 **Rethinking the Functionality of Latent Representation: A Logarithmic Rate-Distortion Model for Learned Image Compression.** [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11016813)
 
 **Sparse Point Clouds Assisted Learned Image Compression. 2024.** [Paper](https://arxiv.org/pdf/2412.15752)
