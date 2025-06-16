@@ -396,6 +396,8 @@ A collection of papers related to data compression.
 
 <a name="other"></a>
 ## Other
+**Gumbel-max List Sampling for Distribution Coupling with Multiple Samples.** [Paper](https://arxiv.org/pdf/2506.05632)
+
 **Semantics-Guided Generative Image Compression. ICIP 2025.** [Paper](https://arxiv.org/pdf/2505.24015)
 
 **2025.06.03. Fourier-Modulated Implicit Neural Representation for Multispectral Satellite Image Compression.** [Paper](https://arxiv.org/pdf/2506.01234)
