@@ -396,6 +396,8 @@ A collection of papers related to data compression.
 
 <a name="other"></a>
 ## Other
+**Audio-Visual Driven Compression for Low-Bitrate Talking Head Videos. ICMR2025.** [Paper](https://arxiv.org/pdf/2506.13419)
+
 **Gumbel-max List Sampling for Distribution Coupling with Multiple Samples.** [Paper](https://arxiv.org/pdf/2506.05632)
 
 **Semantics-Guided Generative Image Compression. ICIP 2025.** [Paper](https://arxiv.org/pdf/2505.24015)
