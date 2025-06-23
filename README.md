@@ -396,6 +396,10 @@ A collection of papers related to data compression.
 
 <a name="other"></a>
 ## Other
+**DiffO: Single-step Diffusion for Image Compression at Ultra-Low Bitrates.** [Paper](https://arxiv.org/pdf/2506.16572); [Code](https://github.com/Freemasti/DiffO)
+
+**Fast Training-free Perceptual Image Compression.** [Paper](https://arxiv.org/pdf/2506.16102)
+
 **Audio-Visual Driven Compression for Low-Bitrate Talking Head Videos. ICMR2025.** [Paper](https://arxiv.org/pdf/2506.13419)
 
 **Gumbel-max List Sampling for Distribution Coupling with Multiple Samples.** [Paper](https://arxiv.org/pdf/2506.05632)
