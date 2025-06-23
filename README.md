@@ -14,6 +14,8 @@ A collection of papers related to data compression.
 
 <a name='ICML2025'></a>
 ## ICML 2025
+**LotteryCodec: Searching the Implicit Representation in a Random Network for Low-Complexity Image Compression.** [Paper](https://openreview.net/attachment?id=9u5hPIcr6j&name=pdf)
+
 **Synonymous Variational Inference for Perceptual Image Compression.** [Paper](https://arxiv.org/pdf/2505.22438)
 
 **Ultra Lowrate Image Compression with Semantic Residual Coding and Compression-aware Diffusion.** [Paper](https://arxiv.org/pdf/2505.08281); [Code](https://github.com/NJUVISION/ResULIC)
