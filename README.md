@@ -398,6 +398,8 @@ A collection of papers related to data compression.
 
 <a name="other"></a>
 ## Other
+**Video Compression for Spatiotemporal Earth System Data.** [Paper](https://arxiv.org/pdf/2506.19656)
+
 **DiffO: Single-step Diffusion for Image Compression at Ultra-Low Bitrates.** [Paper](https://arxiv.org/pdf/2506.16572); [Code](https://github.com/Freemasti/DiffO)
 
 **Fast Training-free Perceptual Image Compression.** [Paper](https://arxiv.org/pdf/2506.16102)
