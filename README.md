@@ -2,7 +2,7 @@
 A collection of papers related to data compression.
 
 ## Overview
-[AAAI 2025](#AAAI2025), [ICLR 2025](#ICLR2025), [CVPR 2025](#CVPR2025), [ICML 2025](#ICML2025)
+[AAAI 2025](#AAAI2025), [ICLR 2025](#ICLR2025), [CVPR 2025](#CVPR2025), [ICML 2025](#ICML2025), [ACMMM 2025](#ACMMM2025)
 
 [ICLR 2024](#ICLR2024), [CVPR 2024](#CVPR2024), [ICML 2024](#ICML2024), [ECCV 2024](#ECCV2024), [ACMMM 2024](#ACMMM2024), [NeurIPS 2024](#NeurIPS2024), [AAAI 2024](#AAAI2024),
 
@@ -11,6 +11,10 @@ A collection of papers related to data compression.
 [IEEE TPAMI](#TPAMI), [IEEE TCSVT](#TCSVT), [IEEE TIP](#TIP), [IEEE TMM](#TMM),
 
 [Other](#other)
+
+<a name='ACMMM2025'></a>
+## ACMMMM 2025
+**NIC-RobustBench: A Comprehensive Open-Source Toolkit for Neural Image Compression and Robustness Analysis.** [Paper](https://arxiv.org/pdf/2506.19051); [Code](https://github.com/msu-video-group/NIC-RobustBench)
 
 <a name='ICML2025'></a>
 ## ICML 2025
