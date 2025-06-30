@@ -126,6 +126,8 @@ A collection of papers related to data compression.
 
 <a name='AAAI2025'></a>
 ## AAAI 2025
+**Few-Shot Domain Adaptation for Learned Image Compression.** [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/33100)
+
 **PNVC: Towards Practical INR-based Video Compression.** [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/32315)
 
 **Conditional Latent Coding with Learnable Synthesized Reference for Deep Image Compression (Oral).** [Paper](https://arxiv.org/pdf/2502.09971); [Code](https://github.com/ydchen0806/CLC)
