@@ -450,6 +450,8 @@ A collection of papers related to data compression.
 
 <a name="other"></a>
 ## Other
+**LLaVA-Scissor: Token Compression with Semantic Connected Components for Video LLMs.** [Paper](https://arxiv.org/pdf/2506.21862)
+
 **End-to-End RGB-IR Joint Image Compression With Channel-wise Cross-modality Entropy Model.** [Paper](https://arxiv.org/pdf/2506.21851)
 
 **Video Compression for Spatiotemporal Earth System Data.** [Paper](https://arxiv.org/pdf/2506.19656)
