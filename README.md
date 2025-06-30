@@ -2,7 +2,7 @@
 A collection of papers related to data compression.
 
 ## Overview
-[AAAI 2025](#AAAI2025), [ICLR 2025](#ICLR2025), [CVPR 2025](#CVPR2025), [ICML 2025](#ICML2025), [ACMMM 2025](#ACMMM2025)
+[AAAI 2025](#AAAI2025), [ICLR 2025](#ICLR2025), [CVPR 2025](#CVPR2025), [ICML 2025](#ICML2025), [ACMMM 2025](#ACMMM2025), [ICCV 2025](#ICCV2025)
 
 [ICLR 2024](#ICLR2024), [CVPR 2024](#CVPR2024), [ICML 2024](#ICML2024), [ECCV 2024](#ECCV2024), [ACMMM 2024](#ACMMM2024), [NeurIPS 2024](#NeurIPS2024), [AAAI 2024](#AAAI2024),
 
@@ -11,6 +11,10 @@ A collection of papers related to data compression.
 [IEEE TPAMI](#TPAMI), [IEEE TCSVT](#TCSVT), [IEEE TIP](#TIP), [IEEE TMM](#TMM),
 
 [Other](#other)
+
+<a name='ICCV2025'></a>
+## ICCV 2025
+**StableCodec: Taming One-Step Diffusion for Extreme Image Compression.** [Paper](https://arxiv.org/pdf/2506.21977); [Code](https://github.com/LuizScarlet/StableCodec)
 
 <a name='ACMMM2025'></a>
 ## ACMMMM 2025
@@ -444,8 +448,6 @@ A collection of papers related to data compression.
 
 <a name="other"></a>
 ## Other
-**StableCodec: Taming One-Step Diffusion for Extreme Image Compression.** [Paper](https://arxiv.org/pdf/2506.21977); [Code](https://github.com/LuizScarlet/StableCodec)
-
 **End-to-End RGB-IR Joint Image Compression With Channel-wise Cross-modality Entropy Model.** [Paper](https://arxiv.org/pdf/2506.21851)
 
 **Video Compression for Spatiotemporal Earth System Data.** [Paper](https://arxiv.org/pdf/2506.19656)
