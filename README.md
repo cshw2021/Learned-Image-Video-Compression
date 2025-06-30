@@ -26,31 +26,73 @@ A collection of papers related to data compression.
 
 <a name='CVPR2025'></a>
 ## CVPR 2025
+**Bridging the Gap between Gaussian Diffusion Models and Universal Quantization for Image Compression.** [Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Relic_Bridging_the_Gap_between_Gaussian_Diffusion_Models_and_Universal_Quantization_CVPR_2025_paper.pdf)
+
+**Efficient Decoupled Feature 3D Gaussian Splatting via Hierarchical Compression.** [Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Dai_Efficient_Decoupled_Feature_3D_Gaussian_Splatting_via_Hierarchical_Compression_CVPR_2025_paper.pdf)
+
+**Fitted Neural Lossless Image Compression.** [Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Zhang_Fitted_Neural_Lossless_Image_Compression_CVPR_2025_paper.pdf)
+
+**Layer- and Timestep-Adaptive Differentiable Token Compression Ratios for Efficient Diffusion Transformers.** [Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/You_Layer-_and_Timestep-Adaptive_Differentiable_Token_Compression_Ratios_for_Efficient_Diffusion_CVPR_2025_paper.pdf)
+
+**Zero-shot 3D Question Answering via Voxel-based Dynamic Token Compression.** [Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Huang_Zero-shot_3D_Question_Answering_via_Voxel-based_Dynamic_Token_Compression_CVPR_2025_paper.pdf)
+
+**CASP: Compression of Large Multimodal Models Based on Attention Sparsity.** [Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Gholami_CASP_Compression_of_Large_Multimodal_Models_Based_on_Attention_Sparsity_CVPR_2025_paper.pdf)
+
+**Generalized Gaussian Entropy Model for Point Cloud Attribute Compression with Dynamic Likelihood Intervals.** [Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Peng_Generalized_Gaussian_Entropy_Model_for_Point_Cloud_Attribute_Compression_with_CVPR_2025_paper.pdf)
+
+**RENO: Real-Time Neural Compression for 3D LiDAR Point Clouds.** [Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/You_RENO_Real-Time_Neural_Compression_for_3D_LiDAR_Point_Clouds_CVPR_2025_paper.pdf)
+
+**PVC: Progressive Visual Token Compression for Unified Image and Video Processing in Large Vision-Language Models.** [Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Yang_PVC_Progressive_Visual_Token_Compression_for_Unified_Image_and_Video_CVPR_2025_paper.pdf)
+
+**Good, Cheap, and Fast: Overfitted Image Compression with Wasserstein Distortion.** [Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Balle_Good_Cheap_and_Fast_Overfitted_Image_Compression_with_Wasserstein_Distortion_CVPR_2025_paper.pdf)
+
+**FlashSloth : Lightning Multimodal Large Language Models via Embedded Visual Compression.** [Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Tong_FlashSloth__Lightning_Multimodal_Large_Language_Models_via_Embedded_Visual_CVPR_2025_paper.pdf)
+
+**DyCoke: Dynamic Compression of Tokens for Fast Video Large Language Model.** [Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Tao_DyCoke_Dynamic_Compression_of_Tokens_for_Fast_Video_Large_Language_CVPR_2025_paper.pdf)
+
+**FLAVC: Learned Video Compression with Feature Level Attention.** [Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Zhang_FLAVC_Learned_Video_Compression_with_Feature_Level_Attention_CVPR_2025_paper.pdf)
+
+**WISE: A Framework for Gigapixel Whole-Slide-Image Lossless Compression.** [Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Mao_WISE_A_Framework_for_Gigapixel_Whole-Slide-Image_Lossless_Compression_CVPR_2025_paper.pdf)
+
+**VoCo-LLaMA: Towards Vision Compression with Large Language Models.** [Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Ye_VoCo-LLaMA_Towards_Vision_Compression_with_Large_Language_Models_CVPR_2025_paper.pdf)
+
+**RL-RC-DoT: A Block-level RL agent for Task-Aware Video Compression.** [Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Gadot_RL-RC-DoT_A_Block-level_RL_agent_for_Task-Aware_Video_Compression_CVPR_2025_paper.pdf)
+
+**4DGC: Rate-Aware 4D Gaussian Compression for Efficient Streamable Free-Viewpoint Video.** [Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Hu_4DGC_Rate-Aware_4D_Gaussian_Compression_for_Efficient_Streamable_Free-Viewpoint_Video_CVPR_2025_paper.pdf)
+
+**Hybrid-Level Instruction Injection for Video Token Compression in Multi-modal Large Language Models.** [Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Liu_Hybrid-Level_Instruction_Injection_for_Video_Token_Compression_in_Multi-modal_Large_CVPR_2025_paper.pdf)
+
+**Perceptual Video Compression with Neural Wrapping.** [Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Khan_Perceptual_Video_Compression_with_Neural_Wrapping_CVPR_2025_paper.pdf)
+
+**TopNet: Transformer-Efficient Occupancy Prediction Network for Octree-Structured Point Cloud Geometry Compression.** [Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_TopNet_Transformer-Efficient_Occupancy_Prediction_Network_for_Octree-Structured_Point_Cloud_Geometry_CVPR_2025_paper.pdf)
+
 **Frequency-Biased Synergistic Design for Image Compression and Compensation.** [Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Liu_Frequency-Biased_Synergistic_Design_for_Image_Compression_and_Compensation_CVPR_2025_paper.pdf)
 
 **Decouple Distortion from Perception: Region Adaptive Diffusion for Extreme-low Bitrate Perception Image Compression.** [Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Xu_Decouple_Distortion_from_Perception_Region_Adaptive_Diffusion_for_Extreme-low_Bitrate_CVPR_2025_paper.pdf)
 
-**Neural Video Compression with Context Modulation.** [Paper](https://arxiv.org/pdf/2505.14541)
+**Neural Video Compression with Context Modulation.** [Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Tang_Neural_Video_Compression_with_Context_Modulation_CVPR_2025_paper.pdf)
 
-**High Dynamic Range Video Compression: A Large-Scale Benchmark Dataset and A Learned Bit-depth Scalable Compression Algorithm.** [Paper]
+**High Dynamic Range Video Compression: A Large-Scale Benchmark Dataset and A Learned Bit-depth Scalable Compression Algorithm.** [Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Tian_High_Dynamic_Range_Video_Compression_A_Large-Scale_Benchmark_Dataset_and_CVPR_2025_paper.pdf)
 
-**PICD: Versatile Perceptual Image Compression with Diffusion Rendering.** [Paper](https://arxiv.org/pdf/2505.05853)
+**PICD: Versatile Perceptual Image Compression with Diffusion Rendering.** [Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Xu_PICD_Versatile_Perceptual_Image_Compression_with_Diffusion_Rendering_CVPR_2025_paper.pdf)
 
 **Learned Image Compression with Dictionary-based Entropy Model.** [Paper](https://arxiv.org/pdf/2504.00496); [Code](https://github.com/labshuhanggu/dcae)
 
-**Multirate Neural Image Compression with Adaptive Lattice Vector Quantization.** [Paper]
+**Multirate Neural Image Compression with Adaptive Lattice Vector Quantization.** [Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Xu_Multirate_Neural_Image_Compression_with_Adaptive_Lattice_Vector_Quantization_CVPR_2025_paper.pdf)
 
-**Test-Time Fine-Tuning of Image Compression Models for Multi-Task Adaptability.** [Paper]
+**Test-Time Fine-Tuning of Image Compression Models for Multi-Task Adaptability.** [Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Park_Test-Time_Fine-Tuning_of_Image_Compression_Models_for_Multi-Task_Adaptability_CVPR_2025_paper.pdf)
 
 **MambaIC: State Space Models for High-Performance Learned Image Compression.** [Paper](https://arxiv.org/pdf/2503.12461); [Code](https://github.com/AuroraZengfh/MambaIC)
 
-**ECVC: Exploiting Non-Local Correlations in Multiple Frames for Contextual Video Compression.** [Paper](https://arxiv.org/pdf/2410.09706); [Code](https://github.com/JiangWeibeta/ECVC)
+**Linear Attention Modeling for Learned Image Compression.** [Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Feng_Linear_Attention_Modeling_for_Learned_Image_Compression_CVPR_2025_paper.pdf)
 
-**Balanced Rate-Distortion Optimization in Learned Image Compression.** [Paper](https://arxiv.org/pdf/2502.20161)
+**ECVC: Exploiting Non-Local Correlations in Multiple Frames for Contextual Video Compression.** [Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Jiang_ECVC_Exploiting_Non-Local_Correlations_in_Multiple_Frames_for_Contextual_Video_CVPR_2025_paper.pdf); [Code](https://github.com/JiangWeibeta/ECVC)
+
+**Balanced Rate-Distortion Optimization in Learned Image Compression.** [Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Zhang_Balanced_Rate-Distortion_Optimization_in_Learned_Image_Compression_CVPR_2025_paper.pdf)
 
 **Extremely low-bitrate Image Compression Semantically Disentangled by LMMs from a Human Perception Perspective.** [Paper](https://arxiv.org/pdf/2503.00399)
 
-**Towards Practical Real-Time Neural Video Compression.** [Paper](https://arxiv.org/pdf/2502.20762)
+**Towards Practical Real-Time Neural Video Compression.** [Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Jia_Towards_Practical_Real-Time_Neural_Video_Compression_CVPR_2025_paper.pdf)
 
 <a name='ICLR2025'></a>
 ## ICLR 2025
