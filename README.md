@@ -450,6 +450,8 @@ A collection of papers related to data compression.
 
 <a name="other"></a>
 ## Other
+**Customizable ROI-Based Deep Image Compression.** [Paper](https://arxiv.org/pdf/2507.00373)
+
 **How to Design and Train Your Implicit Neural Representation for Video Compression.** [Paper](https://arxiv.org/pdf/2506.24127)
 
 **LLaVA-Scissor: Token Compression with Semantic Connected Components for Video LLMs.** [Paper](https://arxiv.org/pdf/2506.21862)
