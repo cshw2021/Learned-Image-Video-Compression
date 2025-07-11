@@ -450,6 +450,8 @@ A collection of papers related to data compression.
 
 <a name="other"></a>
 ## Other
+**T-GVC: Trajectory-Guided Generative Video Coding at Ultra-Low Bitrates.** [Paper](https://arxiv.org/pdf/2507.07633)
+
 **Customizable ROI-Based Deep Image Compression.** [Paper](https://arxiv.org/pdf/2507.00373)
 
 **How to Design and Train Your Implicit Neural Representation for Video Compression.** [Paper](https://arxiv.org/pdf/2506.24127)
