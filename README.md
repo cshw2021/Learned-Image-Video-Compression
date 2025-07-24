@@ -16,6 +16,8 @@ A collection of papers related to data compression.
 ## ICCV 2025
 **StableCodec: Taming One-Step Diffusion for Extreme Image Compression.** [Paper](https://arxiv.org/pdf/2506.21977); [Code](https://github.com/LuizScarlet/StableCodec)
 
+**Dataset Distillation as Data Compression: A Rate-Utility Perspective.** [Paper](https://arxiv.org/pdf/2507.17221)
+
 <a name='ACMMM2025'></a>
 ## ACMMMM 2025
 **NIC-RobustBench: A Comprehensive Open-Source Toolkit for Neural Image Compression and Robustness Analysis.** [Paper](https://arxiv.org/pdf/2506.19051); [Code](https://github.com/msu-video-group/NIC-RobustBench)
