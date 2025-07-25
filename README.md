@@ -90,7 +90,7 @@ A collection of papers related to data compression.
 
 **MambaIC: State Space Models for High-Performance Learned Image Compression.** [Paper](https://arxiv.org/pdf/2503.12461); [Code](https://github.com/AuroraZengfh/MambaIC)
 
-**Linear Attention Modeling for Learned Image Compression.** [Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Feng_Linear_Attention_Modeling_for_Learned_Image_Compression_CVPR_2025_paper.pdf)
+**Linear Attention Modeling for Learned Image Compression.** [Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Feng_Linear_Attention_Modeling_for_Learned_Image_Compression_CVPR_2025_paper.pdf); [Code](https://github.com/sjtu-medialab/RwkvCompress)
 
 **ECVC: Exploiting Non-Local Correlations in Multiple Frames for Contextual Video Compression.** [Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Jiang_ECVC_Exploiting_Non-Local_Correlations_in_Multiple_Frames_for_Contextual_Video_CVPR_2025_paper.pdf); [Code](https://github.com/JiangWeibeta/ECVC)
 
