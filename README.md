@@ -76,7 +76,7 @@ A collection of papers related to data compression.
 
 **Frequency-Biased Synergistic Design for Image Compression and Compensation.** [Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Liu_Frequency-Biased_Synergistic_Design_for_Image_Compression_and_Compensation_CVPR_2025_paper.pdf)
 
-**Decouple Distortion from Perception: Region Adaptive Diffusion for Extreme-low Bitrate Perception Image Compression.** [Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Xu_Decouple_Distortion_from_Perception_Region_Adaptive_Diffusion_for_Extreme-low_Bitrate_CVPR_2025_paper.pdf)
+**Decouple Distortion from Perception: Region Adaptive Diffusion for Extreme-low Bitrate Perception Image Compression.** [Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Xu_Decouple_Distortion_from_Perception_Region_Adaptive_Diffusion_for_Extreme-low_Bitrate_CVPR_2025_paper.pdf); [Code](https://github.com/xjc97/mridc)
 
 **Neural Video Compression with Context Modulation.** [Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Tang_Neural_Video_Compression_with_Context_Modulation_CVPR_2025_paper.pdf)
 
