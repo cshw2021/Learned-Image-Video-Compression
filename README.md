@@ -14,6 +14,8 @@ A collection of papers related to data compression.
 
 <a name='ICCV2025'></a>
 ## ICCV 2025
+**Context Guided Transformer Entropy Modeling for Video Compression.** [Paper](https://arxiv.org/pdf/2508.01852); [Code](https://github.com/EIT-NLP/CGT)
+
 **StableCodec: Taming One-Step Diffusion for Extreme Image Compression.** [Paper](https://arxiv.org/pdf/2506.21977); [Code](https://github.com/LuizScarlet/StableCodec)
 
 **Dataset Distillation as Data Compression: A Rate-Utility Perspective.** [Paper](https://arxiv.org/pdf/2507.17221)
@@ -454,6 +456,8 @@ A collection of papers related to data compression.
 
 <a name="other"></a>
 ## Other
+**2025.08.06 HCF: Hierarchical Cascade Framework for Distributed Multi-Stage Image Compression.** [Paper](https://arxiv.org/pdf/2508.02051)
+
 **2025.08.06 CMIC: Content-Adaptive Mamba for Learned Image Compression.** [Paper](https://arxiv.org/abs/2508.02192)
 
 **2025.08.01 JPEG Processing Neural Operator for Backward-Compatible Coding.** [Paper](https://arxiv.org/pdf/2507.23521)
