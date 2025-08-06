@@ -454,6 +454,8 @@ A collection of papers related to data compression.
 
 <a name="other"></a>
 ## Other
+**2025.08.06 CMIC: Content-Adaptive Mamba for Learned Image Compression.** [Paper](https://arxiv.org/abs/2508.02192)
+
 **2025.08.01 JPEG Processing Neural Operator for Backward-Compatible Coding.** [Paper](https://arxiv.org/pdf/2507.23521)
 
 **2025.07.22 Conditional Video Generation for High-Efficiency Video Compression.** [Paper](https://arxiv.org/pdf/2507.15269)
