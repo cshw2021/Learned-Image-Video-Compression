@@ -456,6 +456,8 @@ A collection of papers related to data compression.
 
 <a name="other"></a>
 ## Other
+**2025.08.08 Steering One-Step Diffusion Model with Fidelity-Rich Decoder for Fast Image Compression.** [Paper](https://arxiv.org/pdf/2508.04979); [Code](https://github.com/zhengchen1999/SODEC)
+
 **2025.08.06 HCF: Hierarchical Cascade Framework for Distributed Multi-Stage Image Compression.** [Paper](https://arxiv.org/pdf/2508.02051)
 
 **2025.08.06 CMIC: Content-Adaptive Mamba for Learned Image Compression.** [Paper](https://arxiv.org/abs/2508.02192)
