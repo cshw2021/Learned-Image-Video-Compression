@@ -460,6 +460,10 @@ A collection of papers related to data compression.
 
 <a name="other"></a>
 ## Other
+**Conditional Residual Coding with Explicit-Implicit Temporal Buffering for Learned Video Compression.** [Paper](https://arxiv.org/pdf/2508.01818)
+
+**HyTIP: Hybrid Temporal Information Propagation for Masked Conditional Residual Video Coding.** [Paper](https://arxiv.org/pdf/2508.02072)
+
 **Multimodal-Guided Perceptual Image Compression via Joint Text and Audio.** [Paper](https://link.springer.com/chapter/10.1007/978-981-96-9869-1_15)
 
 **2025.08.08 Steering One-Step Diffusion Model with Fidelity-Rich Decoder for Fast Image Compression.** [Paper](https://arxiv.org/pdf/2508.04979); [Code](https://github.com/zhengchen1999/SODEC)
