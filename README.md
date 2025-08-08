@@ -28,9 +28,11 @@ A collection of papers related to data compression.
 
 <a name='ICML2025'></a>
 ## ICML 2025
+**Privacy-Shielded Image Compression: Defending Against Exploitation from Vision-Language Pretrained Models.** [Paper](https://openreview.net/attachment?id=olzs3zVsE7&name=pdf)
+
 **LotteryCodec: Searching the Implicit Representation in a Random Network for Low-Complexity Image Compression.** [Paper](https://openreview.net/attachment?id=9u5hPIcr6j&name=pdf)
 
-**Synonymous Variational Inference for Perceptual Image Compression.** [Paper](https://arxiv.org/pdf/2505.22438)
+**Synonymous Variational Inference for Perceptual Image Compression.** [Paper](https://openreview.net/attachment?id=ialr09SfeJ&name=pdf)
 
 **Ultra Lowrate Image Compression with Semantic Residual Coding and Compression-aware Diffusion.** [Paper](https://arxiv.org/pdf/2505.08281); [Code](https://github.com/NJUVISION/ResULIC)
 
