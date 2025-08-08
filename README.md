@@ -28,6 +28,8 @@ A collection of papers related to data compression.
 
 <a name='ICML2025'></a>
 ## ICML 2025
+**3D-LMVIC: Learning-based Multi-View Image Compression with 3D Gaussian Geometric Priors.** [Paper](https://openreview.net/attachment?id=AdWRA8faAO&name=pdf)
+
 **Privacy-Shielded Image Compression: Defending Against Exploitation from Vision-Language Pretrained Models.** [Paper](https://openreview.net/attachment?id=olzs3zVsE7&name=pdf)
 
 **LotteryCodec: Searching the Implicit Representation in a Random Network for Low-Complexity Image Compression.** [Paper](https://openreview.net/attachment?id=9u5hPIcr6j&name=pdf)
