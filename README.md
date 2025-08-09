@@ -28,6 +28,8 @@ A collection of papers related to data compression.
 
 <a name='ICML2025'></a>
 ## ICML 2025
+**Compressed Image Generation with Denoising Diffusion Codebook Models.**  [Paper](https://openreview.net/attachment?id=cQHwUckohW&name=pdf))
+
 **3D-LMVIC: Learning-based Multi-View Image Compression with 3D Gaussian Geometric Priors.** [Paper](https://openreview.net/attachment?id=AdWRA8faAO&name=pdf)
 
 **Privacy-Shielded Image Compression: Defending Against Exploitation from Vision-Language Pretrained Models.** [Paper](https://openreview.net/attachment?id=olzs3zVsE7&name=pdf)
