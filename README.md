@@ -462,6 +462,8 @@ A collection of papers related to data compression.
 
 <a name="other"></a>
 ## Other
+**2025.08.12 DiffVC-OSD: One-Step Diffusion-based Perceptual Neural Video Compression Framework.** [Paper](https://arxiv.org/pdf/2508.07682)
+
 **Conditional Residual Coding with Explicit-Implicit Temporal Buffering for Learned Video Compression.** [Paper](https://arxiv.org/pdf/2508.01818)
 
 **HyTIP: Hybrid Temporal Information Propagation for Masked Conditional Residual Video Coding.** [Paper](https://arxiv.org/pdf/2508.02072)
