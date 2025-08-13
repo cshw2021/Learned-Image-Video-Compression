@@ -462,6 +462,8 @@ A collection of papers related to data compression.
 
 <a name="other"></a>
 ## Other
+**2025.08.13 Scaling Learned Image Compression Models up to 1 Billion.** [Paper](https://arxiv.org/abs/2508.09075)
+
 **2025.08.12 DiffVC-OSD: One-Step Diffusion-based Perceptual Neural Video Compression Framework.** [Paper](https://arxiv.org/pdf/2508.07682)
 
 **Conditional Residual Coding with Explicit-Implicit Temporal Buffering for Learned Video Compression.** [Paper](https://arxiv.org/pdf/2508.01818)
