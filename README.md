@@ -20,7 +20,7 @@ A collection of papers related to data compression.
 
 **Dataset Distillation as Data Compression: A Rate-Utility Perspective.** [Paper](https://arxiv.org/pdf/2507.17221)
 
-**Learned Image Compression with Hierarchical Progressive Context Modeling.** [Paper](https://arxiv.org/pdf/2507.19125)
+**Learned Image Compression with Hierarchical Progressive Context Modeling.** [Paper](https://arxiv.org/pdf/2507.19125); [Code](https://github.com/lyq133/LIC-HPCM)
 
 <a name='ACMMM2025'></a>
 ## ACMMMM 2025
