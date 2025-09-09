@@ -462,6 +462,8 @@ A collection of papers related to data compression.
 
 <a name="other"></a>
 ## Other
+**2025.09.09 Histogram Driven Amplitude Embedding for Qubit Efficient Quantum Image Compression.** [Paper](https://arxiv.org/pdf/2509.04849)
+
 **2025.09.05 LMVC: An End-to-End Learned Multiview Video Coding Framework.** [Paper](https://arxiv.org/pdf/2509.03922)
 
 **2025.08.13 Adaptive High-Frequency Preprocessing for Video Coding.** [Paper](https://arxiv.org/abs/2508.08849)
