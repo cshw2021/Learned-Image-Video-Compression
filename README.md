@@ -462,6 +462,8 @@ A collection of papers related to data compression.
 
 <a name="other"></a>
 ## Other
+**2025.09.18 Generative Image Coding with Diffusion Prior.** [Paper](https://arxiv.org/pdf/2509.13768)
+
 **2025.09.15 Efficient Learned Image Compression Through Knowledge Distillation.** [Paper](https://arxiv.org/pdf/2509.10366)
 
 **2025.09.12 In-Loop Filtering Using Learned Look-Up Tables for Video Coding.** [Paper](https://arxiv.org/pdf/2509.09494)
