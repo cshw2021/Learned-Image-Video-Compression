@@ -152,6 +152,8 @@ A collection of papers related to data compression.
 
 **Controllable Distortion-Perception Tradeoff Through Latent Diffusion for Neural Image Compression.** [Paper](https://arxiv.org/pdf/2412.11379)
 
+**CAMSIC: Content-aware Masked Image Modeling Transformer for Stereo Image Compression.**
+
 <a name="AAAI2024"></a>
 ## AAAI 2024
 **Deep Hierarchical Video Compression.** [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/28733); [Code](https://github.com/NJUVISION/DHVC); [Journal Version](https://arxiv.org/pdf/2410.02598)
