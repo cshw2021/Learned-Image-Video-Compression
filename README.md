@@ -441,6 +441,8 @@ A collection of papers related to data compression.
 
 <a name="TIP"></a>
 ## IEEE TIP
+**Exploring Multimodal Knowledge for Image Compression via Large Foundation Models. 2025** [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11164569)
+
 **MISC: Ultra-Low Bitrate Image Semantic Compression Driven by Large Multimodal Model. 2025.**[Paper](https://ieeexplore.ieee.org/abstract/document/10816592?casa_token=2xA-RPc6xpsAAAAA:dI9bmo3pCy7g_zPVRA_0Ww5XM0GkXE-tZB617OdkIr9191zOK9e3qQKcm_xYO52rX3lmHTbl); [Code](https://github.com/lcysyzxdxc/MISC)
 
 **Linearly transformed color guide for low-bitrate diffusion based image compression. 2024.** [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10818510)
