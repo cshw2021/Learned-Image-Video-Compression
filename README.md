@@ -24,6 +24,8 @@ A collection of papers related to data compression.
 
 <a name='ACMMM2025'></a>
 ## ACMMM 2025
+**EHVC: Efficient Hierarchical Reference and Quality Structure for Neural Video Coding.** [Paper](https://arxiv.org/pdf/2509.04118); [Code](https://github.com/bytedance/NEVC)
+
 **NIC-RobustBench: A Comprehensive Open-Source Toolkit for Neural Image Compression and Robustness Analysis.** [Paper](https://arxiv.org/pdf/2506.19051); [Code](https://github.com/msu-video-group/NIC-RobustBench)
 
 <a name='ICML2025'></a>
