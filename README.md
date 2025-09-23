@@ -421,6 +421,8 @@ A collection of papers related to data compression.
 
 <a name="TCSVT"></a>
 ## IEEE TCSVT
+**High Accuracy Rate Control for Neural Video Coding Based on Rate-Distortion Modeling.** [Paper](https://ieeexplore.ieee.org/abstract/document/11168923)
+
 **RDEIC: Accelerating Diffusion-Based Extreme Image Compression with Relay Residual Diffusion.** [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11029044)
 
 **Rethinking the Functionality of Latent Representation: A Logarithmic Rate-Distortion Model for Learned Image Compression.** [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11016813)
