@@ -469,7 +469,11 @@ A collection of papers related to data compression.
 **Uncertainty-Aware Deep Video Compression with Ensembles. 2024.** [Paper](https://arxiv.org/pdf/2403.19158.pdf)
 
 <a name="other"></a>
-## Other
+## Other.
+**2025.09.25 SEEC: Segmentation-Assisted Multi-Entropy Models for Learned Lossless Image Compression.** [Paper](https://arxiv.org/pdf/2509.07704?)
+
+**2025.09.25 PORT: Perception-Oriented Image Compression with Real-Time Decoding.** [Paper](https://openreview.net/pdf?id=TcDugmwn6r)
+
 **2025.09.23 ISCS: Parameter-Guided Channel Ordering and Grouping for Learned Image Compression.** [Paper](https://arxiv.org/pdf/2509.16853)
 
 **2025.09.18 Generative Image Coding with Diffusion Prior.** [Paper](https://arxiv.org/pdf/2509.13768)
