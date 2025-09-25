@@ -542,7 +542,7 @@ A collection of papers related to data compression.
 
 **2025.05.30. 3DGS Compression with Sparsity-guided Hierarchical Transform Coding.** [Paper](https://arxiv.org/pdf/2505.22908)
 
-**2025.05.28.Generative Image Compression by Estimating Gradients of the Rate-variable Feature Distribution.** [Paper](https://arxiv.org/pdf/2505.20984) Shuhang Gu
+**2025.05.28. Generative Image Compression by Estimating Gradients of the Rate-variable Feature Distribution.** [Paper](https://arxiv.org/pdf/2505.20984); [Code](https://github.com/LabShuHangGU/VCD)
 
 **2025.05.23. Generative Latent Coding for Ultra-Low Bitrate Image and Video Compression.** [Paper](https://arxiv.org/pdf/2505.16177) Yan Lu
 
@@ -568,7 +568,7 @@ A collection of papers related to data compression.
 
 **2025.03.22. Leveraging Diffusion Knowledge for Generative Image Compression with Fractal Frequency-Aware Band Learning.** [Paper](https://arxiv.org/pdf/2503.11321)
 
-**PerCoV2: Improved Ultra-Low Bit-Rate Perceptual Image Compression with Implicit Hierarchical Masked Image Modeling.** [Paper](https://arxiv.org/pdf/2503.09368)
+**PerCoV2: Improved Ultra-Low Bit-Rate Perceptual Image Compression with Implicit Hierarchical Masked Image Modeling.** [Paper](https://arxiv.org/pdf/2503.09368); [Code](https://github.com/Nikolai10/PerCoV2)
 
 **Residual Learning and Filtering Networks for End-to-End Lossless Video Compression.** [Paper](https://arxiv.org/pdf/2503.08819)
 
@@ -587,8 +587,6 @@ A collection of papers related to data compression.
 **S2CFormer: Reorienting Learned Image Compression from Spatial Interaction to Channel Aggregation.** [Paper](https://arxiv.org/pdf/2502.00700)
 
 **HDCompression: Hybrid-Diffusion Image Compression for Ultra-Low Bitrates.** [Paper](https://arxiv.org/pdf/2502.07160)
-
-**Linear Attention Modeling for Learned Image Compression.** [Paper](https://arxiv.org/pdf/2502.05741)
 
 **CANeRV: Content Adaptive Neural Representation for Video Compression.** [Paper](https://arxiv.org/pdf/2502.06181)
 
