@@ -2,7 +2,7 @@
 A collection of papers related to data compression.
 
 ## Overview
-[AAAI 2025](#AAAI2025), [ICLR 2025](#ICLR2025), [CVPR 2025](#CVPR2025), [ICML 2025](#ICML2025), [ACMMM 2025](#ACMMM2025), [ICCV 2025](#ICCV2025)
+[AAAI 2025](#AAAI2025), [ICLR 2025](#ICLR2025), [CVPR 2025](#CVPR2025), [ICML 2025](#ICML2025), [ACMMM 2025](#ACMMM2025), [ICCV 2025](#ICCV2025), [NeurIPS 2025](#NeurIPS2025)
 
 [ICLR 2024](#ICLR2024), [CVPR 2024](#CVPR2024), [ICML 2024](#ICML2024), [ECCV 2024](#ECCV2024), [ACMMM 2024](#ACMMM2024), [NeurIPS 2024](#NeurIPS2024), [AAAI 2024](#AAAI2024),
 
@@ -11,6 +11,10 @@ A collection of papers related to data compression.
 [IEEE TPAMI](#TPAMI), [IEEE TCSVT](#TCSVT), [IEEE TIP](#TIP), [IEEE TMM](#TMM),
 
 [Other](#other)
+
+<a name='NeurIPS2025'></a>
+## NeurIPS 2025
+**OSCAR: One-Step Diffusion Codec Across Multiple Bit-rates.** [Paper](https://arxiv.org/pdf/2505.16091); [Code](https://github.com/jp-guo/OSCAR)
 
 <a name='ICCV2025'></a>
 ## ICCV 2025
@@ -539,8 +543,6 @@ A collection of papers related to data compression.
 **2025.05.30. 3DGS Compression with Sparsity-guided Hierarchical Transform Coding.** [Paper](https://arxiv.org/pdf/2505.22908)
 
 **2025.05.28.Generative Image Compression by Estimating Gradients of the Rate-variable Feature Distribution.** [Paper](https://arxiv.org/pdf/2505.20984) Shuhang Gu
-
-**2025.05.23. OSCAR: One-Step Diffusion Codec Across Multiple Bit-rates.** [Paper](https://arxiv.org/pdf/2505.16091) Yulun Zhang
 
 **2025.05.23. Generative Latent Coding for Ultra-Low Bitrate Image and Video Compression.** [Paper](https://arxiv.org/pdf/2505.16177) Yan Lu
 
