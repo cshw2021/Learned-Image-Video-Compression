@@ -474,6 +474,8 @@ A collection of papers related to data compression.
 
 <a name="other"></a>
 ## Other.
+**2025.09.25 Raw-JPEG Adapter: Efficient Raw Image Compression with JPEG.** [Paper](https://arxiv.org/pdf/2509.19624)
+
 **2025.09.25 SEEC: Segmentation-Assisted Multi-Entropy Models for Learned Lossless Image Compression.** [Paper](https://arxiv.org/pdf/2509.07704?)
 
 **2025.09.25 PORT: Perception-Oriented Image Compression with Real-Time Decoding.** [Paper](https://openreview.net/pdf?id=TcDugmwn6r)
