@@ -18,6 +18,8 @@ A collection of papers related to data compression.
 
 <a name='ICCV2025'></a>
 ## ICCV 2025
+**DLF: Extreme Image Compression with Dual-generative Latent Fusion.** [Paper](https://arxiv.org/pdf/2503.01428); [Code](https://github.com/dlfcodec/Dual-generative-Latent-Fusion)
+
 **Context Guided Transformer Entropy Modeling for Video Compression.** [Paper](https://arxiv.org/pdf/2508.01852); [Code](https://github.com/EIT-NLP/CGT)
 
 **StableCodec: Taming One-Step Diffusion for Extreme Image Compression.** [Paper](https://arxiv.org/pdf/2506.21977); [Code](https://github.com/LuizScarlet/StableCodec)
@@ -583,8 +585,6 @@ A collection of papers related to data compression.
 **FEDS: Feature and Entropy-Based Distillation Strategy for Efficient Learned Image Compression.** [Paper](https://arxiv.org/pdf/2503.06399)
 
 **UAR-NVC: A Unified AutoRegressive Framework for Memory-Efficient Neural Video Compression.** [Paper](https://arxiv.org/abs/2503.02733)
-
-**DLF: Extreme Image Compression with Dual-generative Latent Fusion.** [Paper](https://arxiv.org/pdf/2503.01428)
 
 **Pleno-Generation: A Scalable Generative Face Video Compression Framework with Bandwidth Intelligence.** [Paper](https://arxiv.org/pdf/2502.17085)
 
