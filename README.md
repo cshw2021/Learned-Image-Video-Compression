@@ -474,6 +474,8 @@ A collection of papers related to data compression.
 
 <a name="other"></a>
 ## Other.
+**A Lightweight Model for Perceptual Image Compression via Implicit Priors.** [Paper](https://arxiv.org/pdf/2502.13988)
+
 **2025.09.26 FlashGMM: Fast Gaussian Mixture Entropy Model for Learned Image Compression. VCIP 2025.** [Paper](https://arxiv.org/abs/2509.18815)
 
 **2025.09.25 Raw-JPEG Adapter: Efficient Raw Image Compression with JPEG.** [Paper](https://arxiv.org/pdf/2509.19624)
