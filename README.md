@@ -476,6 +476,8 @@ A collection of papers related to data compression.
 
 <a name="other"></a>
 ## Other.
+**Neural Image Compression With Multi-Type Feature Fusion and Multi-Distribution Mixture Likelihood. IEEE Transactions on Broadcasting.** [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11193732) 
+
 **Sliding Window Attention for Learned Video Compression.** [Paper](https://arxiv.org/pdf/2510.03926)
 
 **A Lightweight Model for Perceptual Image Compression via Implicit Priors.** [Paper](https://arxiv.org/pdf/2502.13988); [Code](https://github.com/cshw2021/ICISP)
