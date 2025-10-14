@@ -471,6 +471,7 @@ A collection of papers related to data compression.
 
 <a name="TMM"></a>
 ## IEEE TMM
+**One is All: A Unified Rate-Distortion-Complexity Framework for Learned Image Compression Under Energy Concentration Criteria. 2025.** [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10856443)
 
 **Uncertainty-Aware Deep Video Compression with Ensembles. 2024.** [Paper](https://arxiv.org/pdf/2403.19158.pdf)
 
