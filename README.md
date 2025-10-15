@@ -477,6 +477,7 @@ A collection of papers related to data compression.
 
 <a name="other"></a>
 ## Other
+**2025.10.14 JND-Guided Light-Weight Neural Pre-Filter for Perceptual Image Coding.** [Paper](https://arxiv.org/pdf/2510.10648)
 
 **2025.10.14 Generative Latent Video Compression.** [Paper](https://arxiv.org/pdf/2510.09987)
 
