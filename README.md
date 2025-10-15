@@ -476,7 +476,10 @@ A collection of papers related to data compression.
 **Uncertainty-Aware Deep Video Compression with Ensembles. 2024.** [Paper](https://arxiv.org/pdf/2403.19158.pdf)
 
 <a name="other"></a>
-## Other.
+## Other
+
+**2025.10.14 Generative Latent Video Compression.** [Paper](https://arxiv.org/pdf/2510.09987)
+
 **Neural Image Compression With Multi-Type Feature Fusion and Multi-Distribution Mixture Likelihood. IEEE Transactions on Broadcasting.** [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11193732) 
 
 **Sliding Window Attention for Learned Video Compression.** [Paper](https://arxiv.org/pdf/2510.03926)
