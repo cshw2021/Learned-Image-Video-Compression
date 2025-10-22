@@ -477,6 +477,8 @@ A collection of papers related to data compression.
 
 <a name="other"></a>
 ## Other
+**2025.10.22 Leveraging Learned Image Prior for 3D Gaussian Compression.** [Paper](https://arxiv.org/pdf/2510.14705)
+
 **2025.10.20 SANR: Scene-Aware Neural Representation for Light Field Image Compression with Rate-Distortion Optimization.** [Paper](https://arxiv.org/pdf/2510.15775)
 
 **2025.10.18 MH-LVC: Multi-Hypothesis Temporal Prediction for Learned Conditional Residual Video Coding.** [Paper](https://arxiv.org/pdf/2510.12479)
