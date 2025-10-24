@@ -18,6 +18,12 @@ A collection of papers related to data compression.
 
 <a name='ICCV2025'></a>
 ## ICCV 2025
+**Diffusion-based Compression Quality Tradeoffs without Retraining.** [Paper](https://openaccess.thecvf.com/content/ICCV2025W/AIM/papers/Brenig_Diffusion-based_Compression_Quality_Tradeoffs_without_Retraining_ICCVW_2025_paper.pdf)
+
+**Cross-Granularity Online Optimization with Masked Compensated Information for Learned Image Compression.** [Paper](https://openaccess.thecvf.com/content/ICCV2025/papers/Kuang_Cross-Granularity_Online_Optimization_with_Masked_Compensated_Information_for_Learned_Image_ICCV_2025_paper.pdf)
+
+**Cassic: Towards Content-Adaptive State-Space Models for Learned Image Compression.** [Paper](https://openaccess.thecvf.com/content/ICCV2025/papers/Qin_Cassic_Towards_Content-Adaptive_State-Space_Models_for_Learned_Image_Compression_ICCV_2025_paper.pdf)
+
 **DLF: Extreme Image Compression with Dual-generative Latent Fusion.** [Paper](https://arxiv.org/pdf/2503.01428); [Code](https://github.com/dlfcodec/Dual-generative-Latent-Fusion)
 
 **Context Guided Transformer Entropy Modeling for Video Compression.** [Paper](https://arxiv.org/pdf/2508.01852); [Code](https://github.com/EIT-NLP/CGT)
