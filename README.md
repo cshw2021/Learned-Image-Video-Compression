@@ -18,6 +18,14 @@ A collection of papers related to data compression.
 
 <a name='ICCV2025'></a>
 ## ICCV 2025
+**Beyond Perspective: Neural 360-Degree Video Compression.** [Paper](https://openaccess.thecvf.com/content/ICCV2025/papers/Regensky_Beyond_Perspective_Neural_360-Degree_Video_Compression_ICCV_2025_paper.pdf)
+
+**An Information-Theoretic Regularizer for Lossy Neural Image Compression.** [Paper](https://openaccess.thecvf.com/content/ICCV2025/papers/Zhang_An_Information-Theoretic_Regularizer_for_Lossy_Neural_Image_Compression_ICCV_2025_paper.pdf)
+
+**GIViC: Generative Implicit Video Compression.** [Paper](https://openaccess.thecvf.com/content/ICCV2025/papers/Gao_GIViC_Generative_Implicit_Video_Compression_ICCV_2025_paper.pdf)
+
+**LINR-PCGC: Lossless Implicit Neural Representations for Point Cloud Geometry Compression.** [Paper](https://openaccess.thecvf.com/content/ICCV2025/papers/Huang_LINR-PCGC_Lossless_Implicit_Neural_Representations_for_Point_Cloud_Geometry_Compression_ICCV_2025_paper.pdf)
+
 **Knowledge Distillation for Learned Image Compression.** [Paper](https://openaccess.thecvf.com/content/ICCV2025/papers/Chen_Knowledge_Distillation_for_Learned_Image_Compression_ICCV_2025_paper.pdf)
 
 **Diffusion-based Compression Quality Tradeoffs without Retraining.** [Paper](https://openaccess.thecvf.com/content/ICCV2025W/AIM/papers/Brenig_Diffusion-based_Compression_Quality_Tradeoffs_without_Retraining_ICCVW_2025_paper.pdf)
