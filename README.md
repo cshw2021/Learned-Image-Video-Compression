@@ -138,6 +138,8 @@ A collection of papers related to data compression.
 
 <a name='ICLR2025'></a>
 ## ICLR 2025
+**DiffPC: Diffusion-based High Perceptual Fidelity Image Compression with Semantic Refinement.** [Paper](https://openreview.net/pdf?id=RL7PycCtAO)
+
 **Once-for-All: Controllable Generative Image Compression with Dynamic Granularity Adaption.** [Paper](https://arxiv.org/pdf/2406.00758);[Code](https://github.com/lianqi1008/Control-GIC)
 
 **Fast Feedforward 3D Gaussian Splatting Compression.** [Paper](https://openreview.net/attachment?id=DCandSZ2F1&name=pdf)
