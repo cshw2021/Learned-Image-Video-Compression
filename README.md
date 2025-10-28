@@ -14,6 +14,8 @@ A collection of papers related to data compression.
 
 <a name='NeurIPS2025'></a>
 ## NeurIPS 2025
+**Switchable Token-Specific Codebook Quantization For Face Image Compression.**  [Paper](https://arxiv.org/pdf/2510.22943)
+
 **OSCAR: One-Step Diffusion Codec Across Multiple Bit-rates.** [Paper](https://arxiv.org/pdf/2505.16091); [Code](https://github.com/jp-guo/OSCAR)
 
 <a name='ICCV2025'></a>
