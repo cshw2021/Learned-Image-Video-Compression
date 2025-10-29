@@ -656,3 +656,5 @@ A collection of papers related to data compression.
 **Conditional Hallucinations for Image Compression.** [Paper](https://arxiv.org/abs/2410.19493)
 
 **Extreme Image Compression Using Fine-tuned VQGANs. DCC2024.** [Paper](https://ieeexplore.ieee.org/document/10533792); [Code](https://github.com/CUC-MIPG/VQGAN-Compression)
+
+**Deeply-Conditioned Image Compression via Self-Generated Priors.** [Paper](https://arxiv.org/pdf/2510.24437)
