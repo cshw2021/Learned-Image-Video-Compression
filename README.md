@@ -511,7 +511,7 @@ A collection of papers related to data compression.
 
 **Sliding Window Attention for Learned Video Compression.** [Paper](https://arxiv.org/pdf/2510.03926)
 
-**A Lightweight Model for Perceptual Image Compression via Implicit Priors.** [Paper](https://arxiv.org/pdf/2502.13988); [Code](https://github.com/cshw2021/ICISP)
+**A Lightweight Model for Perceptual Image Compression via Implicit Priors. NN 2025.** [Paper](https://arxiv.org/pdf/2502.13988); [Code](https://github.com/cshw2021/ICISP)
 
 **2025.09.26 FlashGMM: Fast Gaussian Mixture Entropy Model for Learned Image Compression. VCIP 2025.** [Paper](https://arxiv.org/abs/2509.18815)
 
