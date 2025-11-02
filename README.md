@@ -48,6 +48,14 @@ A collection of papers related to data compression.
 
 <a name='ACMMM2025'></a>
 ## ACMMM 2025
+**Unicorn: Unified Neural Image Compression with One Number Reconstruction.** [Paper](https://dl.acm.org/doi/pdf/10.1145/3746027.3755599)
+
+**3D Gaussian Splatting Data Compression with Mixture of Priors.** [Paper](https://dl.acm.org/doi/pdf/10.1145/3746027.3755432)
+
+**Activation and Weight Distribution Balancing for Optimal Post-Training Quantization in Learned Image Compression.** [Paper](https://dl.acm.org/doi/pdf/10.1145/3746027.3755218)
+
+**BiECVC: Gated Diversification of Bidirectional Contexts for Learned Video Compression.** [Paper](https://dl.acm.org/doi/pdf/10.1145/3746027.3754725)
+
 **MuCodec: Ultra Low-Bitrate Music Codec for Music Generation.** [Paper](https://dl.acm.org/doi/pdf/10.1145/3746027.3755710)
 
 **EHVC: Efficient Hierarchical Reference and Quality Structure for Neural Video Coding.** [Paper](https://arxiv.org/pdf/2509.04118); [Code](https://github.com/bytedance/NEVC)
