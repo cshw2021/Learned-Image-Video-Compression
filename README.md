@@ -48,6 +48,8 @@ A collection of papers related to data compression.
 
 <a name='ACMMM2025'></a>
 ## ACMMM 2025
+**Neural Video Compression with In-Loop Contextual Filtering and Out-of-Loop Reconstruction Enhancement.** [Paper](https://dl.acm.org/doi/pdf/10.1145/3746027.3755059)
+
 **How2Compress: Scalable and Efficient Edge Video Analytics via Adaptive Granular Video Compression.** [Paper](https://dl.acm.org/doi/pdf/10.1145/3746027.3754922)
 
 **Unicorn: Unified Neural Image Compression with One Number Reconstruction.** [Paper](https://dl.acm.org/doi/pdf/10.1145/3746027.3755599)
