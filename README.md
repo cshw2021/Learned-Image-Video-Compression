@@ -48,6 +48,8 @@ A collection of papers related to data compression.
 
 <a name='ACMMM2025'></a>
 ## ACMMM 2025
+**Reproducibility Companion Paper - NIF: A Fast Implicit Image Compression with Bottleneck Layers and Modulated Sinusoidal Activations.** [Paper](https://dl.acm.org/doi/pdf/10.1145/3746027.3759201)
+
 **SCID-Compress900: A Multi-Scene Dataset of 4K and 1080P Screen Content Images for Image Compression Research.** [Paper](https://dl.acm.org/doi/pdf/10.1145/3746027.3756883)
 
 **OpenMVC: An Open-Source Library for Learning-based Multi-view Compression.** [Paper](https://dl.acm.org/doi/pdf/10.1145/3746027.3756882)
