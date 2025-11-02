@@ -48,6 +48,10 @@ A collection of papers related to data compression.
 
 <a name='ACMMM2025'></a>
 ## ACMMM 2025
+**OpenMVC: An Open-Source Library for Learning-based Multi-view Compression.** [Paper](https://dl.acm.org/doi/pdf/10.1145/3746027.3756882)
+
+**Challenging Cases of Neural Image Compression: A Dataset of Visually Compelling Yet Semantically Incorrect Reconstructions.** [Paper](https://dl.acm.org/doi/pdf/10.1145/3746027.3758291)
+
 **Towards a New Paradigm of Visual Signal Compression.** [Paper](https://dl.acm.org/doi/pdf/10.1145/3746027.3758239)
 
 **VidIQ: Inference-Aware Neural Codecs for Quality-Enhanced, Real-Time Video Analytics.** [Paper](https://dl.acm.org/doi/pdf/10.1145/3746027.3755254)
