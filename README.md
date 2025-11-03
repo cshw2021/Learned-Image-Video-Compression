@@ -527,6 +527,8 @@ A collection of papers related to data compression. If we have missed your paper
 
 <a name="other"></a>
 ## Other
+**2025.11.03 Generative Semantic Coding for Ultra-Low Bitrate Visual Communication and Analysis.** [Paper](https://arxiv.org/pdf/2510.27324)
+
 **2025.10.22 Leveraging Learned Image Prior for 3D Gaussian Compression.** [Paper](https://arxiv.org/pdf/2510.14705)
 
 **2025.10.20 SANR: Scene-Aware Neural Representation for Light Field Image Compression with Rate-Distortion Optimization.** [Paper](https://arxiv.org/pdf/2510.15775)
