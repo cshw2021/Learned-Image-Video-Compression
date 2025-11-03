@@ -168,6 +168,8 @@ A collection of papers related to data compression. If we have missed your paper
 
 <a name='ICLR2025'></a>
 ## ICLR 2025
+**Adaptive length image tokenization via recurrent allocation.** [Paper](https://openreview.net/pdf?id=AgevIIF7LN); [Code](https://github.com/ShivamDuggal4/adaptive-length-tokenizer)
+
 **DiffPC: Diffusion-based High Perceptual Fidelity Image Compression with Semantic Refinement.** [Paper](https://openreview.net/pdf?id=RL7PycCtAO)
 
 **Once-for-All: Controllable Generative Image Compression with Dynamic Granularity Adaption.** [Paper](https://arxiv.org/pdf/2406.00758);[Code](https://github.com/lianqi1008/Control-GIC)
