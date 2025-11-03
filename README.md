@@ -1,5 +1,9 @@
 # Learned-Data-Compression
-A collection of papers related to data compression.
+A collection of papers related to data compression. If we have missed your paper, please contact me to add it！！！
+
+#### 🔥🔥🔥 News
+
+- **2025-11-02:** We have updated the papers accepted by ACMMM2025.
 
 ## Overview
 [AAAI 2025](#AAAI2025), [ICLR 2025](#ICLR2025), [CVPR 2025](#CVPR2025), [ICML 2025](#ICML2025), [ACMMM 2025](#ACMMM2025), [ICCV 2025](#ICCV2025), [NeurIPS 2025](#NeurIPS2025)
