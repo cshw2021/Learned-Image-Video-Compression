@@ -529,6 +529,8 @@ A collection of papers related to data compression. If we have missed your paper
 
 <a name="other"></a>
 ## Other
+**2025.11.04 T-MLA: A Targeted Multiscale Log--Exponential Attack Framework for Neural Image Compression.** [Paper](https://arxiv.org/pdf/2511.01079)
+
 **2025.11.03 Generative Semantic Coding for Ultra-Low Bitrate Visual Communication and Analysis.** [Paper](https://arxiv.org/pdf/2510.27324)
 
 **2025.10.22 Leveraging Learned Image Prior for 3D Gaussian Compression.** [Paper](https://arxiv.org/pdf/2510.14705)
