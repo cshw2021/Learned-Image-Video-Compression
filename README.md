@@ -1,9 +1,11 @@
 # Learned-Data-Compression
-A collection of papers related to data compression. If we have missed your paper, please contact me to add it！！！
+A collection of papers related to data compression. 
+
+We are also seeking collaboration in image/video compression. If you are interested, please contact me so we can work together to advance image/video compression.
 
 #### 🔥🔥🔥 News
 
-- **2025-11-04:** Our paper ICISP has been accepted by Neural Networks. [Please refer to it](https://github.com/cshw2021/ICISP).
+- **2025-11-04:** Our paper ICISP has been accepted by Neural Networks. [Please refer to it](https://github.com/cshw2021/ICISP). 
 - **2025-11-02:** We have updated the papers accepted by ACMMM2025.
 
 ## Overview
