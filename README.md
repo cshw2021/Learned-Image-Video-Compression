@@ -4,7 +4,7 @@ We are seeking collaboration in image/video compression. If you are interested, 
 
 #### 🔥🔥🔥 News
 
-- **2025-11-04:** Our paper ICISP has been accepted by Neural Networks. [Please refer to it](https://github.com/cshw2021/ICISP). 
+- **2025-11-04:** Our paper [ICISP](https://github.com/cshw2021/ICISP) has been accepted by Neural Networks. Our previous work [DiffEIC](https://github.com/cshw2021/DiffEIC) and [RDEIC](https://github.com/cshw2021/RDEIC) have been accepted by TCSVT.
 - **2025-11-02:** We have updated the papers accepted by ACMMM2025.
 
 ## Overview
