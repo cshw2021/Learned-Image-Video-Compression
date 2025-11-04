@@ -3,6 +3,7 @@ A collection of papers related to data compression. If we have missed your paper
 
 #### 🔥🔥🔥 News
 
+- **2025-11-04:** Our paper ICISP has been accepted by Neural Networks. [Please refer to it](https://github.com/cshw2021/ICISP).
 - **2025-11-02:** We have updated the papers accepted by ACMMM2025.
 
 ## Overview
