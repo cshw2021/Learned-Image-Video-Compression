@@ -20,6 +20,8 @@ We are seeking collaboration in image/video compression. If you are interested, 
 
 <a name='NeurIPS2025'></a>
 ## NeurIPS 2025
+**Diff-ICMH: Harmonizing Machine and Human Vision in Image Compression with Generative Prior.** [Paper](https://openreview.net/pdf/ec0550097480919223aec22e46279a02f3d45ca9.pdf)
+
 **Switchable Token-Specific Codebook Quantization For Face Image Compression.**  [Paper](https://arxiv.org/pdf/2510.22943)
 
 **OSCAR: One-Step Diffusion Codec Across Multiple Bit-rates.** [Paper](https://arxiv.org/pdf/2505.16091); [Code](https://github.com/jp-guo/OSCAR)
