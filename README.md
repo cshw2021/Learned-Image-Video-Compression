@@ -535,7 +535,11 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 
 <a name="other"></a>
 ## Other
-**2025。11.11 GFix: Perceptually Enhanced Gaussian Splatting Video Compression.** [Paper](https://arxiv.org/abs/2511.06953)
+**2025.11.11 Turbo-DDCM: Fast and Flexible Zero-Shot Diffusion-Based Image Compression.** [Paper](https://arxiv.org/pdf/2511.06424)
+
+**2025.11.11 Training-Free Adaptive Quantization for Variable Rate Image Coding for Machines.** [Paper](https://arxiv.org/pdf/2511.05836)
+
+**2025.11.11 GFix: Perceptually Enhanced Gaussian Splatting Video Compression.** [Paper](https://arxiv.org/abs/2511.06953)
 
 **2025.11.04 T-MLA: A Targeted Multiscale Log--Exponential Attack Framework for Neural Image Compression.** [Paper](https://arxiv.org/pdf/2511.01079)
 
