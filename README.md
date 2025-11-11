@@ -200,7 +200,7 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 
 <a name='AAAI2026'></a>
 ## AAAI 2026
-**2025.11.11 MRT: Learning Compact Representations with Mixed RWKV-Transformer for Extreme Image Compression.** [Paper](https://arxiv.org/pdf/2511.06717); [Code](https://github.com/luke1453lh/MRT)
+**MRT: Learning Compact Representations with Mixed RWKV-Transformer for Extreme Image Compression.** [Paper](https://arxiv.org/pdf/2511.06717); [Code](https://github.com/luke1453lh/MRT)
 
 <a name='NeurIPS2025'></a>
 ## NeurIPS 2025
