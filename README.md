@@ -10,6 +10,8 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 - **2025-11-02:** We have updated the papers accepted by ACMMM2025.
 
 ## Overview
+[AAAI 2026](#AAAI2026),
+
 [AAAI 2025](#AAAI2025), [ICLR 2025](#ICLR2025), [CVPR 2025](#CVPR2025), [ICML 2025](#ICML2025), [ACMMM 2025](#ACMMM2025), [ICCV 2025](#ICCV2025), [NeurIPS 2025](#NeurIPS2025)
 
 [ICLR 2024](#ICLR2024), [CVPR 2024](#CVPR2024), [ICML 2024](#ICML2024), [ECCV 2024](#ECCV2024), [ACMMM 2024](#ACMMM2024), [NeurIPS 2024](#NeurIPS2024), [AAAI 2024](#AAAI2024),
@@ -22,8 +24,6 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 
 <a name="arxiv"></a>
 ## Arxiv
-**2025.11.11 MRT: Learning Compact Representations with Mixed RWKV-Transformer for Extreme Image Compression.** [Paper](https://arxiv.org/pdf/2511.06717)
-
 **2025.11.11 Turbo-DDCM: Fast and Flexible Zero-Shot Diffusion-Based Image Compression.** [Paper](https://arxiv.org/pdf/2511.06424)
 
 **2025.11.11 Training-Free Adaptive Quantization for Variable Rate Image Coding for Machines.** [Paper](https://arxiv.org/pdf/2511.05836)
@@ -197,6 +197,10 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 **Deeply-Conditioned Image Compression via Self-Generated Priors.** [Paper](https://arxiv.org/pdf/2510.24437)
 
 **Resi-VidTok: An Efficient and Decomposed Progressive Tokenization Framework for Ultra-Low-Rate and Lightweight Video Transmission.** [Paper](https://arxiv.org/pdf/2510.25002)
+
+<a name='AAAI2026'></a>
+## AAAI 2026
+**2025.11.11 MRT: Learning Compact Representations with Mixed RWKV-Transformer for Extreme Image Compression.** [Paper](https://arxiv.org/pdf/2511.06717); [Code](https://github.com/luke1453lh/MRT)
 
 <a name='NeurIPS2025'></a>
 ## NeurIPS 2025
