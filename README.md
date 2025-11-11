@@ -535,6 +535,8 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 
 <a name="other"></a>
 ## Other
+**2025.11.11 MRT: Learning Compact Representations with Mixed RWKV-Transformer for Extreme Image Compression.** [Paper](https://arxiv.org/pdf/2511.06717)
+
 **2025.11.11 Turbo-DDCM: Fast and Flexible Zero-Shot Diffusion-Based Image Compression.** [Paper](https://arxiv.org/pdf/2511.06424)
 
 **2025.11.11 Training-Free Adaptive Quantization for Variable Rate Image Coding for Machines.** [Paper](https://arxiv.org/pdf/2511.05836)
