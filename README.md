@@ -202,7 +202,7 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 
 <a name='AAAI2026'></a>
 ## AAAI 2026
-**Steering One-Step Diffusion Model with Fidelity-Rich Decoder for Fast Image Compression.** [Paper](https://arxiv.org/pdf/2508.04979); [Code](https://github.com/zhengchen1999/SODEC)
+**Steering One-Step Diffusion Model with Fidelity-Rich Decoder for Fast Image Compression.** [Paper](https://arxiv.org/pdf/2508.04979); [Supplementary File](https://zheng-chen.cn/SODEC/static/pdfs/SODEC_supplementary.pdf); [Code](https://github.com/zhengchen1999/SODEC)
 
 **DynaQuant: Dynamic Mixed-Precision Quantization for Learned Image Compression.** [Paper](https://arxiv.org/pdf/2511.07903); [Code](https://github.com/baoyu2020/DynaQuant)
 
