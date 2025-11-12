@@ -86,8 +86,6 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 
 **Multimodal-Guided Perceptual Image Compression via Joint Text and Audio.** [Paper](https://link.springer.com/chapter/10.1007/978-981-96-9869-1_15)
 
-**2025.08.08 Steering One-Step Diffusion Model with Fidelity-Rich Decoder for Fast Image Compression.** [Paper](https://arxiv.org/pdf/2508.04979); [Code](https://github.com/zhengchen1999/SODEC)
-
 **2025.08.06 HCF: Hierarchical Cascade Framework for Distributed Multi-Stage Image Compression.** [Paper](https://arxiv.org/pdf/2508.02051)
 
 **2025.08.06 CMIC: Content-Adaptive Mamba for Learned Image Compression.** [Paper](https://arxiv.org/abs/2508.02192)
@@ -204,6 +202,8 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 
 <a name='AAAI2026'></a>
 ## AAAI 2026
+**Steering One-Step Diffusion Model with Fidelity-Rich Decoder for Fast Image Compression.** [Paper](https://arxiv.org/pdf/2508.04979); [Code](https://github.com/zhengchen1999/SODEC)
+
 **DynaQuant: Dynamic Mixed-Precision Quantization for Learned Image Compression.** [Paper](https://arxiv.org/pdf/2511.07903); [Code](https://github.com/baoyu2020/DynaQuant)
 
 **MRT: Learning Compact Representations with Mixed RWKV-Transformer for Extreme Image Compression.** [Paper](https://arxiv.org/pdf/2511.06717); [Code](https://github.com/luke1453lh/MRT)
