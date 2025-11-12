@@ -24,6 +24,8 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 
 <a name="arxiv"></a>
 ## Arxiv
+**Variable-rate learned image compression with integer-arithmetic-only inference.** [Paper](https://www.sciencedirect.com/science/article/abs/pii/S1047320325002482)
+
 **2025.11.11 Turbo-DDCM: Fast and Flexible Zero-Shot Diffusion-Based Image Compression.** [Paper](https://arxiv.org/pdf/2511.06424)
 
 **2025.11.11 Training-Free Adaptive Quantization for Variable Rate Image Coding for Machines.** [Paper](https://arxiv.org/pdf/2511.05836)
