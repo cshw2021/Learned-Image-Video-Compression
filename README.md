@@ -24,6 +24,14 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 
 <a name="arxiv"></a>
 ## Arxiv
+**2025.11.13 ROI-based Deep Image Compression with Implicit Bit Allocation.** [Paper](https://arxiv.org/pdf/2511.08918)
+
+**2025.11.13 Machines Serve Human: A Novel Variable Human-machine Collaborative Compression Framework.** [Paper](https://arxiv.org/pdf/2511.08915)
+
+**2025.11.13 Neural B-frame Video Compression with Bi-directional Reference Harmonization.** [Paper](https://arxiv.org/pdf/2511.08938)
+
+**2025.11.13 GRACE: Designing Generative Face Video Codec via Agile Hardware-Centric Workflow.** [Paper](https://arxiv.org/pdf/2511.09272)
+
 **2025.11.12 From Noise to Latent: Generating Gaussian Latents for INR-Based Image Compression.** [Paper](https://arxiv.org/pdf/2511.08009)
 
 **Variable-rate learned image compression with integer-arithmetic-only inference.** [Paper](https://www.sciencedirect.com/science/article/abs/pii/S1047320325002482)
