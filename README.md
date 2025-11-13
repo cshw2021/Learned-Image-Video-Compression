@@ -324,7 +324,7 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 
 **DyCoke: Dynamic Compression of Tokens for Fast Video Large Language Model.** [Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Tao_DyCoke_Dynamic_Compression_of_Tokens_for_Fast_Video_Large_Language_CVPR_2025_paper.pdf)
 
-**FLAVC: Learned Video Compression with Feature Level Attention.** [Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Zhang_FLAVC_Learned_Video_Compression_with_Feature_Level_Attention_CVPR_2025_paper.pdf)
+**FLAVC: Learned Video Compression with Feature Level Attention.** [Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Zhang_FLAVC_Learned_Video_Compression_with_Feature_Level_Attention_CVPR_2025_paper.pdf); [Code](https://github.com/Z-CV-code/FLAVC)
 
 **WISE: A Framework for Gigapixel Whole-Slide-Image Lossless Compression.** [Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Mao_WISE_A_Framework_for_Gigapixel_Whole-Slide-Image_Lossless_Compression_CVPR_2025_paper.pdf)
 
