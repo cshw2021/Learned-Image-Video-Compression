@@ -24,6 +24,8 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 
 <a name="arxiv"></a>
 ## Arxiv
+**2025.11.17 Rethinking Autoregressive Models for Lossless Image Compression via Hierarchical Parallelism and Progressive Adaptation.** [Paper](https://arxiv.org/pdf/2511.10991)
+
 **2025.11.13 ROI-based Deep Image Compression with Implicit Bit Allocation.** [Paper](https://arxiv.org/pdf/2511.08918)
 
 **2025.11.13 Machines Serve Human: A Novel Variable Human-machine Collaborative Compression Framework.** [Paper](https://arxiv.org/pdf/2511.08915)
