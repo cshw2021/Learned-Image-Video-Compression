@@ -24,7 +24,7 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 
 <a name="arxiv"></a>
 ## Arxiv
-**Turbo principles meet compression: Rethinking nonlinear transformations in learned image compression.** [Paper](https://www.sciencedirect.com/science/article/pii/S1047320325002573)
+**Turbo principles meet compression: Rethinking nonlinear transformations in learned image compression. JVCIR 2025.** [Paper](https://www.sciencedirect.com/science/article/pii/S1047320325002573)
 
 **2025.11.18 SymGS : Leveraging Local Symmetries for 3D Gaussian Splatting Compression.** [Paper](https://arxiv.org/pdf/2511.13264)
 
