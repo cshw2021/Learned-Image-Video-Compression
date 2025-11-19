@@ -7,7 +7,6 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 #### 🔥🔥🔥 News
 
 - **2025-11-04:** Our paper [ICISP](https://github.com/cshw2021/ICISP) has been accepted by Neural Networks. Our previous work [VQIR](https://github.com/cshw2021/EIR), [DiffEIC](https://github.com/cshw2021/DiffEIC) and [RDEIC](https://github.com/cshw2021/RDEIC) have been accepted by TCSVT.
-- **2025-11-02:** We have updated the papers accepted by ACMMM2025.
 
 ## Overview
 [AAAI 2026](#AAAI2026),
