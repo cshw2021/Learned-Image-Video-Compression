@@ -23,6 +23,8 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 
 <a name="arxiv"></a>
 ## Arxiv
+**DiffVC-OSD: One-Step Diffusion-based Perceptual Neural Video Compression Framework. VCIP2025.** [Paper](https://arxiv.org/pdf/2508.07682?)
+
 **Turbo principles meet compression: Rethinking nonlinear transformations in learned image compression. JVCIR 2025.** [Paper](https://www.sciencedirect.com/science/article/pii/S1047320325002573)
 
 **2025.11.18 SymGS : Leveraging Local Symmetries for 3D Gaussian Splatting Compression.** [Paper](https://arxiv.org/pdf/2511.13264)
