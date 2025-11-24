@@ -19,17 +19,43 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
  
 [IEEE TPAMI](#TPAMI), [IEEE TCSVT](#TCSVT), [IEEE TIP](#TIP), [IEEE TMM](#TMM), [IF](#IF)
 
-[Arxiv](#arxiv)
+[Other](#other), [Arxiv](#arxiv)
+
+<a name='other'></a>
+## Other
+**A Lightweight Model for Perceptual Image Compression via Implicit Priors. Neural Networks 2025.** [Paper](https://arxiv.org/pdf/2502.13988); [Code](https://github.com/cshw2021/ICISP)
+
+**Turbo principles meet compression: Rethinking nonlinear transformations in learned image compression. JVCIR 2025.** [Paper](https://www.sciencedirect.com/science/article/pii/S1047320325002573)
+
+**DiffVC-OSD: One-Step Diffusion-based Perceptual Neural Video Compression Framework. VCIP2025.** [Paper](https://arxiv.org/pdf/2508.07682?)
+
+**Neural Image Compression With Multi-Type Feature Fusion and Multi-Distribution Mixture Likelihood. IEEE Transactions on Broadcasting.** [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11193732) 
+
+**FlashGMM: Fast Gaussian Mixture Entropy Model for Learned Image Compression. VCIP 2025.** [Paper](https://arxiv.org/abs/2509.18815)
+
+**Audio-Visual Driven Compression for Low-Bitrate Talking Head Videos. ICMR2025.** [Paper](https://arxiv.org/pdf/2506.13419)
+
+**Semantics-Guided Generative Image Compression. ICIP 2025.** [Paper](https://arxiv.org/pdf/2505.24015)
+
+**Learned Compression for Compressed Learning. DCC2025.** [Paper](https://arxiv.org/pdf/2412.09405)
+
+**DeepFGS: Fine-Grained Scalable Coding for Learned Image Compression. DCC2024.** [Paper](https://arxiv.org/pdf/2412.00437)
+
+**Hybrid Local-Global Context Learning for Neural Video Compression. DCC2024.** [Paper](https://arxiv.org/pdf/2412.00446)
+
+**LMM-driven Semantic Image-Text Coding for Ultra Low-bitrate Learned Image Compression. VCIP2024.** [Paper](https://arxiv.org/pdf/2411.13033); [Code](https://github.com/tokkiwa/ImageTextCoding)
+
+**Efficient Progressive Image Compression with Variance-aware Masking. WACV2025.** [Paper](https://arxiv.org/abs/2411.10185)
+
+**L-LBVC: Long-Term Motion Estimation and Prediction for Learned Bi-Directional Video Compression. DCC 2025** [Paper](https://arxiv.org/pdf/2504.02560)
+
+**Extreme Image Compression Using Fine-tuned VQGANs. DCC2024.** [Paper](https://ieeexplore.ieee.org/document/10533792); [Code](https://github.com/CUC-MIPG/VQGAN-Compression)
 
 <a name="arxiv"></a>
 ## Arxiv
 **A Multi-Stage Optimization Framework for Deploying Learned Image Compression on FPGAs.** [Paper](https://arxiv.org/pdf/2511.17135)
 
 **Generative Coding: Promise and Challenges.** [Paper](https://www.nowpublishers.com/article/Details/SIP-20250056)
-
-**DiffVC-OSD: One-Step Diffusion-based Perceptual Neural Video Compression Framework. VCIP2025.** [Paper](https://arxiv.org/pdf/2508.07682?)
-
-**Turbo principles meet compression: Rethinking nonlinear transformations in learned image compression. JVCIR 2025.** [Paper](https://www.sciencedirect.com/science/article/pii/S1047320325002573)
 
 **2025.11.18 SymGS : Leveraging Local Symmetries for 3D Gaussian Splatting Compression.** [Paper](https://arxiv.org/pdf/2511.13264)
 
@@ -67,13 +93,7 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 
 **2025.10.14 Generative Latent Video Compression.** [Paper](https://arxiv.org/pdf/2510.09987)
 
-**Neural Image Compression With Multi-Type Feature Fusion and Multi-Distribution Mixture Likelihood. IEEE Transactions on Broadcasting.** [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11193732) 
-
 **Sliding Window Attention for Learned Video Compression.** [Paper](https://arxiv.org/pdf/2510.03926)
-
-**A Lightweight Model for Perceptual Image Compression via Implicit Priors. Neural Networks 2025.** [Paper](https://arxiv.org/pdf/2502.13988); [Code](https://github.com/cshw2021/ICISP)
-
-**2025.09.26 FlashGMM: Fast Gaussian Mixture Entropy Model for Learned Image Compression. VCIP 2025.** [Paper](https://arxiv.org/abs/2509.18815)
 
 **2025.09.25 Raw-JPEG Adapter: Efficient Raw Image Compression with JPEG.** [Paper](https://arxiv.org/pdf/2509.19624)
 
@@ -96,8 +116,6 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 **2025.08.13 Adaptive High-Frequency Preprocessing for Video Coding.** [Paper](https://arxiv.org/abs/2508.08849)
 
 **2025.08.13 Scaling Learned Image Compression Models up to 1 Billion.** [Paper](https://arxiv.org/abs/2508.09075)
-
-**2025.08.12 DiffVC-OSD: One-Step Diffusion-based Perceptual Neural Video Compression Framework.** [Paper](https://arxiv.org/pdf/2508.07682)
 
 **Conditional Residual Coding with Explicit-Implicit Temporal Buffering for Learned Video Compression.** [Paper](https://arxiv.org/pdf/2508.01818)
 
@@ -129,11 +147,7 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 
 **Fast Training-free Perceptual Image Compression.** [Paper](https://arxiv.org/pdf/2506.16102)
 
-**Audio-Visual Driven Compression for Low-Bitrate Talking Head Videos. ICMR2025.** [Paper](https://arxiv.org/pdf/2506.13419)
-
 **Gumbel-max List Sampling for Distribution Coupling with Multiple Samples.** [Paper](https://arxiv.org/pdf/2506.05632)
-
-**Semantics-Guided Generative Image Compression. ICIP 2025.** [Paper](https://arxiv.org/pdf/2505.24015)
 
 **2025.06.03. Fourier-Modulated Implicit Neural Representation for Multispectral Satellite Image Compression.** [Paper](https://arxiv.org/pdf/2506.01234)
 
@@ -144,8 +158,6 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 **2025.05.30. 3DGS Compression with Sparsity-guided Hierarchical Transform Coding.** [Paper](https://arxiv.org/pdf/2505.22908)
 
 **2025.05.28. Generative Image Compression by Estimating Gradients of the Rate-variable Feature Distribution.** [Paper](https://arxiv.org/pdf/2505.20984); [Code](https://github.com/LabShuHangGU/VCD)
-
-**2025.05.23. Generative Latent Coding for Ultra-Low Bitrate Image and Video Compression.** [Paper](https://arxiv.org/pdf/2505.16177) Yan Lu
 
 **2025.05.23. DualComp: End-to-End Learning of a Unified Dual-Modality Lossless Compressor.** [Paper](https://arxiv.org/pdf/2505.16256)
 
@@ -160,8 +172,6 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 **2025.04.08. 3DM-WeConvene: Learned Image Compression with 3D Multi-Level Wavelet-Domain Convolution and Entropy Model.** [Paper](https://arxiv.org/pdf/2504.04658)
 
 **2025.04.04. Image Coding for Machines via Feature-Preserving Rate-Distortion Optimization.** [Paper](https://arxiv.org/pdf/2504.02216)
-
-**L-LBVC: Long-Term Motion Estimation and Prediction for Learned Bi-Directional Video Compression. DCC 2025** [Paper](https://arxiv.org/pdf/2504.02560)
 
 **2025.03.30. Embedding Compression Distortion in Video Coding for Machines.** [Paper](https://arxiv.org/pdf/2503.21469)
 
@@ -201,19 +211,7 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 
 **CoordFlow: Coordinate Flow for Pixel-wise Neural Video Representation.**[Paper](https://arxiv.org/pdf/2501.00975); [Code](https://github.com/Slivliver/CoordFlow)
 
-**Learned Compression for Compressed Learning. DCC2025.** [Paper](https://arxiv.org/pdf/2412.09405)
-
-**DeepFGS: Fine-Grained Scalable Coding for Learned Image Compression. DCC2024.** [Paper](https://arxiv.org/pdf/2412.00437)
-
-**Hybrid Local-Global Context Learning for Neural Video Compression. DCC2024.** [Paper](https://arxiv.org/pdf/2412.00446)
-
-**LMM-driven Semantic Image-Text Coding for Ultra Low-bitrate Learned Image Compression. VCIP2024.** [Paper](https://arxiv.org/pdf/2411.13033); [Code](https://github.com/tokkiwa/ImageTextCoding)
-
-**Efficient Progressive Image Compression with Variance-aware Masking. WACV2025.** [Paper](https://arxiv.org/abs/2411.10185)
-
 **Conditional Hallucinations for Image Compression.** [Paper](https://arxiv.org/abs/2410.19493)
-
-**Extreme Image Compression Using Fine-tuned VQGANs. DCC2024.** [Paper](https://ieeexplore.ieee.org/document/10533792); [Code](https://github.com/CUC-MIPG/VQGAN-Compression)
 
 **Deeply-Conditioned Image Compression via Self-Generated Priors.** [Paper](https://arxiv.org/pdf/2510.24437)
 
@@ -692,6 +690,8 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 
 <a name="TCSVT"></a>
 ## IEEE TCSVT
+**Generative Latent Coding for Ultra-Low Bitrate Image and Video Compression. 2025.** [Paper](https://arxiv.org/pdf/2505.16177)
+
 **High Accuracy Rate Control for Neural Video Coding Based on Rate-Distortion Modeling.** [Paper](https://ieeexplore.ieee.org/abstract/document/11168923)
 
 **RDEIC: Accelerating Diffusion-Based Extreme Image Compression with Relay Residual Diffusion.** [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11029044)
