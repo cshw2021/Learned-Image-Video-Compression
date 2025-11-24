@@ -23,6 +23,8 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 
 <a name="arxiv"></a>
 ## Arxiv
+**A Multi-Stage Optimization Framework for Deploying Learned Image Compression on FPGAs.** [Paper](https://arxiv.org/pdf/2511.17135)
+
 **Generative Coding: Promise and Challenges.** [Paper](https://www.nowpublishers.com/article/Details/SIP-20250056)
 
 **DiffVC-OSD: One-Step Diffusion-based Perceptual Neural Video Compression Framework. VCIP2025.** [Paper](https://arxiv.org/pdf/2508.07682?)
