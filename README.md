@@ -53,6 +53,8 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 
 <a name="arxiv"></a>
 ## Arxiv
+**2025.11.25 CoD: A Diffusion Foundation Model for Image Compression.** [Paper](https://arxiv.org/pdf/2511.18706)
+
 **A Multi-Stage Optimization Framework for Deploying Learned Image Compression on FPGAs.** [Paper](https://arxiv.org/pdf/2511.17135)
 
 **Generative Coding: Promise and Challenges.** [Paper](https://www.nowpublishers.com/article/Details/SIP-20250056)
