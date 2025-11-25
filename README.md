@@ -11,7 +11,7 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 ## Overview
 [AAAI 2026](#AAAI2026),
 
-[AAAI 2025](#AAAI2025), [ICLR 2025](#ICLR2025), [CVPR 2025](#CVPR2025), [ICML 2025](#ICML2025), [ACMMM 2025](#ACMMM2025), [ICCV 2025](#ICCV2025), [NeurIPS 2025](#NeurIPS2025)
+[AAAI 2025](#AAAI2025), [ICLR 2025](#ICLR2025), [CVPR 2025](#CVPR2025), [ICML 2025](#ICML2025), [ACMMM 2025](#ACMMM2025), [ICCV 2025](#ICCV2025), [NeurIPS 2025](#NeurIPS2025), [IJCAI 2025](#IJCAI2025)
 
 [ICLR 2024](#ICLR2024), [CVPR 2024](#CVPR2024), [ICML 2024](#ICML2024), [ECCV 2024](#ECCV2024), [ACMMM 2024](#ACMMM2024), [NeurIPS 2024](#NeurIPS2024), [AAAI 2024](#AAAI2024),
 
@@ -226,6 +226,10 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 **DynaQuant: Dynamic Mixed-Precision Quantization for Learned Image Compression.** [Paper](https://arxiv.org/pdf/2511.07903); [Code](https://github.com/baoyu2020/DynaQuant)
 
 **MRT: Learning Compact Representations with Mixed RWKV-Transformer for Extreme Image Compression.** [Paper](https://arxiv.org/pdf/2511.06717); [Code](https://github.com/luke1453lh/MRT)
+
+<a name='IJCAI2025'></a>
+## IJCAI 2025
+**Emerging Advances in Learned Video Compression: Models, Systems and Beyond.** [Paper](https://www.ijcai.org/proceedings/2025/1165.pdf)
 
 <a name='NeurIPS2025'></a>
 ## NeurIPS 2025
