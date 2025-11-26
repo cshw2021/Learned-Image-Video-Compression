@@ -167,8 +167,6 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 
 **2025.05.23. DualComp: End-to-End Learning of a Unified Dual-Modality Lossless Compressor.** [Paper](https://arxiv.org/pdf/2505.16256)
 
-**2025.05.23. One-Step Diffusion-Based Image Compression with Semantic Distillation.** [Paper](https://arxiv.org/pdf/2505.16687) Yan Lu
-
 **2025.05.16. High Quality Underwater Image Compression with Adaptive Correction and Codebook-based Augmentation.** [Paper](https://arxiv.org/pdf/2505.09986)
 
 **2025.05.15. Neural Video Compression using 2D Gaussian Splatting.** [Paper](https://arxiv.org/pdf/2505.09324)
@@ -242,6 +240,8 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 **Switchable Token-Specific Codebook Quantization For Face Image Compression.**  [Paper](https://arxiv.org/pdf/2510.22943)
 
 **OSCAR: One-Step Diffusion Codec Across Multiple Bit-rates.** [Paper](https://arxiv.org/pdf/2505.16091); [Code](https://github.com/jp-guo/OSCAR)
+
+**One-Step Diffusion-Based Image Compression with Semantic Distillation.** [Paper](https://arxiv.org/pdf/2505.16687)
 
 <a name='ICCV2025'></a>
 ## ICCV 2025
