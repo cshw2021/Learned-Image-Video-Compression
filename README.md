@@ -53,6 +53,10 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 
 <a name="arxiv"></a>
 ## Arxiv
+**2025.11.26 FLaTEC: Frequency-Disentangled Latent Triplanes for Efficient Compression of LiDAR Point Clouds.** [Paper](https://arxiv.org/pdf/2511.20065)
+
+**2025.11.26 Hybrid Convolution and Frequency State Space Network for Image Compression.** [Paper](https://arxiv.org/pdf/2511.20151)
+
 **2025.11.25 CoD: A Diffusion Foundation Model for Image Compression.** [Paper](https://arxiv.org/pdf/2511.18706)
 
 **A Multi-Stage Optimization Framework for Deploying Learned Image Compression on FPGAs.** [Paper](https://arxiv.org/pdf/2511.17135)
