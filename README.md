@@ -235,6 +235,10 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 
 <a name='NeurIPS2025'></a>
 ## NeurIPS 2025
+**FIPER: Factorized Features for Robust Image Super-Resolution and Compression.** [Paper](https://openreview.net/attachment?id=gcrDTxZTl0&name=pdf)
+
+**MoRIC: A Modular Region-based Implicit Codec for Image Compression.** [Paper](https://openreview.net/attachment?id=IFjjzfkC65&name=pdf)
+
 **Optimal Neural Compressors for the Rate-Distortion-Perception Tradeoff.** [Paper](https://openreview.net/attachment?id=ZAKpELpclI&name=pdf) 
 
 **Diff-ICMH: Harmonizing Machine and Human Vision in Image Compression with Generative Prior.** [Paper](https://openreview.net/pdf/ec0550097480919223aec22e46279a02f3d45ca9.pdf)
