@@ -53,6 +53,8 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 
 <a name="arxiv"></a>
 ## Arxiv
+**EV-NVC: Efficient Variable bitrate Neural Video Compression.** [Paper](https://arxiv.org/pdf/2511.01590)
+
 **2025.11.26 FLaTEC: Frequency-Disentangled Latent Triplanes for Efficient Compression of LiDAR Point Clouds.** [Paper](https://arxiv.org/pdf/2511.20065)
 
 **2025.11.26 Hybrid Convolution and Frequency State Space Network for Image Compression.** [Paper](https://arxiv.org/pdf/2511.20151)
