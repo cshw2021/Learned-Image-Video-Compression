@@ -249,7 +249,7 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 
 **OSCAR: One-Step Diffusion Codec Across Multiple Bit-rates.** [Paper](https://arxiv.org/pdf/2505.16091); [Code](https://github.com/jp-guo/OSCAR)
 
-**One-Step Diffusion-Based Image Compression with Semantic Distillation.** [Paper](https://arxiv.org/pdf/2505.16687)
+**One-Step Diffusion-Based Image Compression with Semantic Distillation.** [Paper](https://arxiv.org/pdf/2505.16687); [Code](https://github.com/onedc-codec/onedc)
 
 <a name='ICCV2025'></a>
 ## ICCV 2025
