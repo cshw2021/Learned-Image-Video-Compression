@@ -53,6 +53,8 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 
 <a name="arxiv"></a>
 ## Arxiv
+**Ultra-lightweight Neural Video Representation Compression.** [Paper](https://arxiv.org/pdf/2512.04019)
+
 **Joint Multi-scale Gated Transformer and Prior-guided Convolutional Network for Learned Image Compression.** [Paper](https://arxiv.org/pdf/2512.00744)
 
 **EV-NVC: Efficient Variable bitrate Neural Video Compression.** [Paper](https://arxiv.org/pdf/2511.01590)
