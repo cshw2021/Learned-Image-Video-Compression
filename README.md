@@ -53,6 +53,8 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 
 <a name="arxiv"></a>
 ## Arxiv
+**Generative Neural Video Compression via Video Diffusion Prior.** [Paper](https://arxiv.org/pdf/2512.05016)
+
 **UniComp: Rethinking Video Compression Through Informational Uniqueness.** [Paper](https://arxiv.org/pdf/2512.03575)
 
 **Ultra-lightweight Neural Video Representation Compression.** [Paper](https://arxiv.org/pdf/2512.04019)
