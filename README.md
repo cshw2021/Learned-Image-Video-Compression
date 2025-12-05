@@ -53,7 +53,9 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 
 <a name="arxiv"></a>
 ## Arxiv
-**Generative Neural Video Compression via Video Diffusion Prior.** [Paper](https://arxiv.org/pdf/2512.05016)
+<ins>_**Generative Neural Video Compression via Video Diffusion Prior.**_</ins> [Paper](https://arxiv.org/pdf/2512.05016)
+
+<ins>_**2025.10.14 Generative Latent Video Compression.**_</ins> [Paper](https://arxiv.org/pdf/2510.09987)
 
 **UniComp: Rethinking Video Compression Through Informational Uniqueness.** [Paper](https://arxiv.org/pdf/2512.03575)
 
@@ -106,8 +108,6 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 **2025.10.18 MH-LVC: Multi-Hypothesis Temporal Prediction for Learned Conditional Residual Video Coding.** [Paper](https://arxiv.org/pdf/2510.12479)
 
 **2025.10.14 JND-Guided Light-Weight Neural Pre-Filter for Perceptual Image Coding.** [Paper](https://arxiv.org/pdf/2510.10648)
-
-**2025.10.14 Generative Latent Video Compression.** [Paper](https://arxiv.org/pdf/2510.09987)
 
 **Sliding Window Attention for Learned Video Compression.** [Paper](https://arxiv.org/pdf/2510.03926)
 
@@ -716,7 +716,7 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 
 <a name="TCSVT"></a>
 ## IEEE TCSVT
-**Generative Latent Coding for Ultra-Low Bitrate Image and Video Compression. 2025.** [Paper](https://arxiv.org/pdf/2505.16177)
+<ins>_**Generative Latent Coding for Ultra-Low Bitrate Image and Video Compression. 2025.**_ </ins> [Paper](https://arxiv.org/pdf/2505.16177)
 
 **High Accuracy Rate Control for Neural Video Coding Based on Rate-Distortion Modeling.** [Paper](https://ieeexplore.ieee.org/abstract/document/11168923)
 
