@@ -53,6 +53,12 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 
 <a name="arxiv"></a>
 ## Arxiv
+**HVQ-CGIC: Enabling Hyperprior Entropy Modeling for VQ-Based Controllable Generative Image Compression.** [Paper](https://arxiv.org/pdf/2512.07192)
+
+**Beyond Hallucinations: A Multimodal-Guided Task-Aware Generative Image Compression for Ultra-Low Bitrate.** [Paper](https://arxiv.org/pdf/2512.06344)
+
+**Revisiting SVD and Wavelet Difference Reduction for Lossy Image Compression: A Reproducibility Study.** [Paper](https://arxiv.org/pdf/2512.06221)
+
 <ins>_**Generative Neural Video Compression via Video Diffusion Prior.**_</ins> [Paper](https://arxiv.org/pdf/2512.05016)
 
 <ins>_**2025.10.14 Generative Latent Video Compression.**_</ins> [Paper](https://arxiv.org/pdf/2510.09987)
