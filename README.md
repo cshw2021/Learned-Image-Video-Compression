@@ -57,8 +57,6 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 
 **Beyond Hallucinations: A Multimodal-Guided Task-Aware Generative Image Compression for Ultra-Low Bitrate.** [Paper](https://arxiv.org/pdf/2512.06344)
 
-**Revisiting SVD and Wavelet Difference Reduction for Lossy Image Compression: A Reproducibility Study.** [Paper](https://arxiv.org/pdf/2512.06221)
-
 <ins>_**Generative Neural Video Compression via Video Diffusion Prior.**_</ins> [Paper](https://arxiv.org/pdf/2512.05016)
 
 <ins>_**2025.10.14 Generative Latent Video Compression.**_</ins> [Paper](https://arxiv.org/pdf/2510.09987)
@@ -80,8 +78,6 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 **A Multi-Stage Optimization Framework for Deploying Learned Image Compression on FPGAs.** [Paper](https://arxiv.org/pdf/2511.17135)
 
 **Generative Coding: Promise and Challenges.** [Paper](https://www.nowpublishers.com/article/Details/SIP-20250056)
-
-**2025.11.18 SymGS : Leveraging Local Symmetries for 3D Gaussian Splatting Compression.** [Paper](https://arxiv.org/pdf/2511.13264)
 
 **2025.11.17 Rethinking Autoregressive Models for Lossless Image Compression via Hierarchical Parallelism and Progressive Adaptation.** [Paper](https://arxiv.org/pdf/2511.10991)
 
@@ -114,10 +110,6 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 **2025.10.18 MH-LVC: Multi-Hypothesis Temporal Prediction for Learned Conditional Residual Video Coding.** [Paper](https://arxiv.org/pdf/2510.12479)
 
 **2025.10.14 JND-Guided Light-Weight Neural Pre-Filter for Perceptual Image Coding.** [Paper](https://arxiv.org/pdf/2510.10648)
-
-**Sliding Window Attention for Learned Video Compression.** [Paper](https://arxiv.org/pdf/2510.03926)
-
-**2025.09.25 Raw-JPEG Adapter: Efficient Raw Image Compression with JPEG.** [Paper](https://arxiv.org/pdf/2509.19624)
 
 **2025.09.25 SEEC: Segmentation-Assisted Multi-Entropy Models for Learned Lossless Image Compression.** [Paper](https://arxiv.org/pdf/2509.07704?)
 
