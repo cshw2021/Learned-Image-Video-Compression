@@ -53,6 +53,8 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 
 <a name="arxiv"></a>
 ## Arxiv
+**Error-Propagation-Free Learned Video Compression With Dual-Domain Progressive Temporal Alignment.** [Paper](https://arxiv.org/pdf/2512.10450)
+
 **HVQ-CGIC: Enabling Hyperprior Entropy Modeling for VQ-Based Controllable Generative Image Compression.** [Paper](https://arxiv.org/pdf/2512.07192)
 
 **Beyond Hallucinations: A Multimodal-Guided Task-Aware Generative Image Compression for Ultra-Low Bitrate.** [Paper](https://arxiv.org/pdf/2512.06344)
