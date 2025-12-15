@@ -23,6 +23,8 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 
 <a name='other'></a>
 ## Other
+**Lightweight 3D Gaussian Splatting Compression via Video Codec. DCC 2026** [Paper](https://arxiv.org/pdf/2512.11186)
+
 **A Lightweight Model for Perceptual Image Compression via Implicit Priors. Neural Networks 2025.** [Paper](https://arxiv.org/pdf/2502.13988); [Code](https://github.com/cshw2021/ICISP)
 
 **Turbo principles meet compression: Rethinking nonlinear transformations in learned image compression. JVCIR 2025.** [Paper](https://www.sciencedirect.com/science/article/pii/S1047320325002573)
@@ -53,6 +55,8 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 
 <a name="arxiv"></a>
 ## Arxiv
+**Embodied Image Compression.** [Paper](https://arxiv.org/pdf/2512.11612)
+
 **Error-Propagation-Free Learned Video Compression With Dual-Domain Progressive Temporal Alignment.** [Paper](https://arxiv.org/pdf/2512.10450)
 
 **HVQ-CGIC: Enabling Hyperprior Entropy Modeling for VQ-Based Controllable Generative Image Compression.** [Paper](https://arxiv.org/pdf/2512.07192)
