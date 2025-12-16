@@ -23,6 +23,8 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 
 <a name='other'></a>
 ## Other
+**Content Adaptive based Motion Alignment Framework for Learned Video Compression. DCC 2026** [Paper](https://arxiv.org/pdf/2512.12936)
+
 **Lightweight 3D Gaussian Splatting Compression via Video Codec. DCC 2026** [Paper](https://arxiv.org/pdf/2512.11186)
 
 **A Lightweight Model for Perceptual Image Compression via Implicit Priors. Neural Networks 2025.** [Paper](https://arxiv.org/pdf/2502.13988); [Code](https://github.com/cshw2021/ICISP)
@@ -55,6 +57,8 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 
 <a name="arxiv"></a>
 ## Arxiv
+**Ultra-Low Bitrate Perceptual Image Compression with Shallow Encoder.**  [Paper](https://arxiv.org/pdf/2512.12229)
+
 **Embodied Image Compression.** [Paper](https://arxiv.org/pdf/2512.11612)
 
 **Error-Propagation-Free Learned Video Compression With Dual-Domain Progressive Temporal Alignment.** [Paper](https://arxiv.org/pdf/2512.10450)
