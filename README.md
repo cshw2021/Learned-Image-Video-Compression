@@ -37,8 +37,6 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 
 **FlashGMM: Fast Gaussian Mixture Entropy Model for Learned Image Compression. VCIP 2025.** [Paper](https://arxiv.org/abs/2509.18815)
 
-**Audio-Visual Driven Compression for Low-Bitrate Talking Head Videos. ICMR2025.** [Paper](https://arxiv.org/pdf/2506.13419)
-
 **Semantics-Guided Generative Image Compression. ICIP 2025.** [Paper](https://arxiv.org/pdf/2505.24015)
 
 **Learned Compression for Compressed Learning. DCC2025.** [Paper](https://arxiv.org/pdf/2412.09405)
@@ -78,8 +76,6 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 **Joint Multi-scale Gated Transformer and Prior-guided Convolutional Network for Learned Image Compression.** [Paper](https://arxiv.org/pdf/2512.00744)
 
 **EV-NVC: Efficient Variable bitrate Neural Video Compression.** [Paper](https://arxiv.org/pdf/2511.01590)
-
-**2025.11.26 FLaTEC: Frequency-Disentangled Latent Triplanes for Efficient Compression of LiDAR Point Clouds.** [Paper](https://arxiv.org/pdf/2511.20065)
 
 **2025.11.26 Hybrid Convolution and Frequency State Space Network for Image Compression.** [Paper](https://arxiv.org/pdf/2511.20151)
 
