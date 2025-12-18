@@ -23,6 +23,10 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 
 <a name='other'></a>
 ## Other
+**A Preprocessing Framework for Video Machine Vision under Compression. DCC** [Paper](https://arxiv.org/pdf/2512.15331)
+
+**Generative Preprocessing for Image Compression with Pre-trained Diffusion Models. DCC 2026.** [Paper](https://arxiv.org/pdf/2512.15270)
+
 **Content Adaptive based Motion Alignment Framework for Learned Video Compression. DCC 2026** [Paper](https://arxiv.org/pdf/2512.12936)
 
 **Lightweight 3D Gaussian Splatting Compression via Video Codec. DCC 2026** [Paper](https://arxiv.org/pdf/2512.11186)
