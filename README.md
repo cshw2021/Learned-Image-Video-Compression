@@ -61,6 +61,8 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 
 <a name="arxiv"></a>
 ## Arxiv
+**TreeNet: A Light Weight Model for Low Bitrate Image Compression.** [Paper](https://arxiv.org/pdf/2512.16743)
+
 **VLIC: Vision-Language Models As Perceptual Judges for Human-Aligned Image Compression.** [Paper](https://arxiv.org/pdf/2512.15701)
 
 **Ultra-Low Bitrate Perceptual Image Compression with Shallow Encoder.**  [Paper](https://arxiv.org/pdf/2512.12229)
