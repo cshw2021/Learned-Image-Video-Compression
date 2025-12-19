@@ -23,6 +23,8 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 
 <a name='other'></a>
 ## Other
+**A Tri-Dynamic Preprocessing Framework for UGC Video Compression. ICASSP 2024.** [Paper](https://arxiv.org/pdf/2512.16101)
+
 **A Preprocessing Framework for Video Machine Vision under Compression. DCC** [Paper](https://arxiv.org/pdf/2512.15331)
 
 **Generative Preprocessing for Image Compression with Pre-trained Diffusion Models. DCC 2026.** [Paper](https://arxiv.org/pdf/2512.15270)
