@@ -61,6 +61,10 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 
 <a name="arxiv"></a>
 ## Arxiv
+**L-STEC: Learned Video Compression with Long-term Spatio-Temporal Enhanced Context.** [Paper](https://arxiv.org/pdf/2512.12790) Siwei Ma
+
+**Content Adaptive based Motion Alignment Framework for Learned Video Compression.** [Paper](https://arxiv.org/pdf/2512.12936) Siwei Ma
+
 **TreeNet: A Light Weight Model for Low Bitrate Image Compression.** [Paper](https://arxiv.org/pdf/2512.16743)
 
 **VLIC: Vision-Language Models As Perceptual Judges for Human-Aligned Image Compression.** [Paper](https://arxiv.org/pdf/2512.15701)
