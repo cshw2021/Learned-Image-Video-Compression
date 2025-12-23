@@ -61,6 +61,8 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 
 <a name="arxiv"></a>
 ## Arxiv
+**SLIM: Semantic-based Low-bitrate Image compression for Machines by leveraging diffusion.** [Paper](https://arxiv.org/pdf/2512.18200)
+
 **L-STEC: Learned Video Compression with Long-term Spatio-Temporal Enhanced Context.** [Paper](https://arxiv.org/pdf/2512.12790) Siwei Ma
 
 **Content Adaptive based Motion Alignment Framework for Learned Video Compression.** [Paper](https://arxiv.org/pdf/2512.12936) Siwei Ma
