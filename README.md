@@ -61,6 +61,8 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 
 <a name="arxiv"></a>
 ## Arxiv
+**Hierarchical Vector-Quantized Latents for Perceptual Low-Resolution Video Compression.** [Paper](https://arxiv.org/pdf/2512.24547)
+
 **Progressive Learned Image Compression for Machine Perception.** [Paper](https://arxiv.org/pdf/2512.20070)
 
 **SLIM: Semantic-based Low-bitrate Image compression for Machines by leveraging diffusion.** [Paper](https://arxiv.org/pdf/2512.18200)
