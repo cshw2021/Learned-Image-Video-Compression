@@ -61,6 +61,8 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 
 <a name="arxiv"></a>
 ## Arxiv
+**YODA: Yet Another One-step Diffusion-based Video Compressor.** [Paper](https://arxiv.org/pdf/2601.01141)
+
 **Hierarchical Vector-Quantized Latents for Perceptual Low-Resolution Video Compression.** [Paper](https://arxiv.org/pdf/2512.24547)
 
 **Progressive Learned Image Compression for Machine Perception.** [Paper](https://arxiv.org/pdf/2512.20070)
