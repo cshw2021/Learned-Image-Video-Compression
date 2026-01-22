@@ -61,9 +61,17 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 
 <a name="arxiv"></a>
 ## Arxiv
-**Towards Efficient Low-rate Image Compression with Frequency-aware Diffusion Prior Refinement.** [Paper](https://arxiv.org/pdf/2601.10373)
+<ins>_**Generative Video Compression: Towards 0.01% Compression Rate for Video Transmission.**_</ins> [Paper](https://arxiv.org/pdf/2512.24300)
 
-<ins>_**YODA: Yet Another One-step Diffusion-based Video Compressor.**_<ins> [Paper](https://arxiv.org/pdf/2601.01141); [Code](https://github.com/NJUVISION/YODA)
+<ins>_**Generative Neural Video Compression via Video Diffusion Prior.**_</ins> [Paper](https://arxiv.org/pdf/2512.05016)
+
+<ins>_**Generative Latent Video Compression.**_</ins> [Paper](https://arxiv.org/pdf/2510.09987)
+
+<ins>_**YODA: Yet Another One-step Diffusion-based Video Compressor.**_</ins> [Paper](https://arxiv.org/pdf/2601.01141); [Code](https://github.com/NJUVISION/YODA)
+
+<ins>_**Diffusion-based Perceptual Neural Video Compression with Temporal Diffusion Information Reuse.**_</ins> [Paper](https://arxiv.org/pdf/2501.13528)
+
+**Towards Efficient Low-rate Image Compression with Frequency-aware Diffusion Prior Refinement.** [Paper](https://arxiv.org/pdf/2601.10373)
 
 **Hierarchical Vector-Quantized Latents for Perceptual Low-Resolution Video Compression.** [Paper](https://arxiv.org/pdf/2512.24547)
 
@@ -88,10 +96,6 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 **HVQ-CGIC: Enabling Hyperprior Entropy Modeling for VQ-Based Controllable Generative Image Compression.** [Paper](https://arxiv.org/pdf/2512.07192)
 
 **Beyond Hallucinations: A Multimodal-Guided Task-Aware Generative Image Compression for Ultra-Low Bitrate.** [Paper](https://arxiv.org/pdf/2512.06344)
-
-<ins>_**Generative Neural Video Compression via Video Diffusion Prior.**_</ins> [Paper](https://arxiv.org/pdf/2512.05016)
-
-<ins>_**2025.10.14 Generative Latent Video Compression.**_</ins> [Paper](https://arxiv.org/pdf/2510.09987)
 
 **UniComp: Rethinking Video Compression Through Informational Uniqueness.** [Paper](https://arxiv.org/pdf/2512.03575)
 
@@ -242,8 +246,6 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 **CANeRV: Content Adaptive Neural Representation for Video Compression.** [Paper](https://arxiv.org/pdf/2502.06181)
 
 **CMamba: Learned Image Compression with State Space Models.** [Paper](https://arxiv.org/pdf/2502.04988)
-
-**Diffusion-based Perceptual Neural Video Compression with Temporal Diffusion Information Reuse.** [Paper](https://arxiv.org/pdf/2501.13528)
 
 **RL-RC-DoT: A Block-level RL agent for Task-Aware Video Compression.** [Paper](https://arxiv.org/pdf/2501.12216)
 
