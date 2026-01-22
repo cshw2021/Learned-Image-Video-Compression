@@ -63,7 +63,7 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 ## Arxiv
 **Towards Efficient Low-rate Image Compression with Frequency-aware Diffusion Prior Refinement.** [Paper](https://arxiv.org/pdf/2601.10373)
 
-**YODA: Yet Another One-step Diffusion-based Video Compressor.** [Paper](https://arxiv.org/pdf/2601.01141); [Code](https://github.com/NJUVISION/YODA)
+<ins>_**YODA: Yet Another One-step Diffusion-based Video Compressor.**_<ins> [Paper](https://arxiv.org/pdf/2601.01141); [Code](https://github.com/NJUVISION/YODA)
 
 **Hierarchical Vector-Quantized Latents for Perceptual Low-Resolution Video Compression.** [Paper](https://arxiv.org/pdf/2512.24547)
 
