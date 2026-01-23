@@ -23,6 +23,10 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 
 <a name='other'></a>
 ## Other
+<ins>_**Diffusion-based Perceptual Neural Video Compression with Temporal Diffusion Information Reuse. ACM Transactions on Multimedia Computing, Communications and Applications.**_</ins> [Paper](https://arxiv.org/pdf/2501.13528)
+
+<ins>_**DiffVC-OSD: One-Step Diffusion-based Perceptual Neural Video Compression Framework. VCIP2025.**_</ins> [Paper](https://arxiv.org/pdf/2508.07682?)
+
 **A Tri-Dynamic Preprocessing Framework for UGC Video Compression. ICASSP 2024.** [Paper](https://arxiv.org/pdf/2512.16101)
 
 **A Preprocessing Framework for Video Machine Vision under Compression. DCC** [Paper](https://arxiv.org/pdf/2512.15331)
@@ -36,8 +40,6 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 **A Lightweight Model for Perceptual Image Compression via Implicit Priors. Neural Networks 2025.** [Paper](https://arxiv.org/pdf/2502.13988); [Code](https://github.com/cshw2021/ICISP)
 
 **Turbo principles meet compression: Rethinking nonlinear transformations in learned image compression. JVCIR 2025.** [Paper](https://www.sciencedirect.com/science/article/pii/S1047320325002573)
-
-<ins>_**DiffVC-OSD: One-Step Diffusion-based Perceptual Neural Video Compression Framework. VCIP2025.**_</ins> [Paper](https://arxiv.org/pdf/2508.07682?)
 
 **Neural Image Compression With Multi-Type Feature Fusion and Multi-Distribution Mixture Likelihood. IEEE Transactions on Broadcasting.** [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11193732) 
 
@@ -68,8 +70,6 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 <ins>_**Generative Latent Video Compression.**_</ins> [Paper](https://arxiv.org/pdf/2510.09987)
 
 <ins>_**YODA: Yet Another One-step Diffusion-based Video Compressor.**_</ins> [Paper](https://arxiv.org/pdf/2601.01141); [Code](https://github.com/NJUVISION/YODA)
-
-<ins>_**Diffusion-based Perceptual Neural Video Compression with Temporal Diffusion Information Reuse.**_</ins> [Paper](https://arxiv.org/pdf/2501.13528)
 
 **Towards Efficient Low-rate Image Compression with Frequency-aware Diffusion Prior Refinement.** [Paper](https://arxiv.org/pdf/2601.10373)
 
