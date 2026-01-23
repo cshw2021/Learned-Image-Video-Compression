@@ -25,7 +25,9 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 ## Other
 <ins>_**Diffusion-based Perceptual Neural Video Compression with Temporal Diffusion Information Reuse. ACM Transactions on Multimedia Computing, Communications and Applications.**_</ins> [Paper](https://arxiv.org/pdf/2501.13528)
 
-<ins>_**DiffVC-OSD: One-Step Diffusion-based Perceptual Neural Video Compression Framework. VCIP2025.**_</ins> [Paper](https://arxiv.org/pdf/2508.07682?)
+<ins>_**DiffVC-OSD: One-Step Diffusion-based Perceptual Neural Video Compression Framework. VCIP 2025.**_</ins> [Paper](https://arxiv.org/pdf/2508.07682?)
+
+<ins>_**Extreme Video Compression with Prediction Using Pre-trained Diffusion Models. WCSP 2024.**_</ins> [Paper](https://ieeexplore.ieee.org/abstract/document/10827256)
 
 **A Tri-Dynamic Preprocessing Framework for UGC Video Compression. ICASSP 2024.** [Paper](https://arxiv.org/pdf/2512.16101)
 
