@@ -37,7 +37,7 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 
 **Turbo principles meet compression: Rethinking nonlinear transformations in learned image compression. JVCIR 2025.** [Paper](https://www.sciencedirect.com/science/article/pii/S1047320325002573)
 
-**DiffVC-OSD: One-Step Diffusion-based Perceptual Neural Video Compression Framework. VCIP2025.** [Paper](https://arxiv.org/pdf/2508.07682?)
+<ins>_**DiffVC-OSD: One-Step Diffusion-based Perceptual Neural Video Compression Framework. VCIP2025.**_</ins> [Paper](https://arxiv.org/pdf/2508.07682?)
 
 **Neural Image Compression With Multi-Type Feature Fusion and Multi-Distribution Mixture Likelihood. IEEE Transactions on Broadcasting.** [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11193732) 
 
