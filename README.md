@@ -29,6 +29,8 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 
 <ins>_**Extreme Video Compression with Prediction Using Pre-trained Diffusion Models. WCSP 2024.**_</ins> [Paper](https://ieeexplore.ieee.org/abstract/document/10827256)
 
+**REMAC: Reference-Based Martian Asymmetrical Image Compression. TGRS 2026.** [Paper](https://arxiv.org/pdf/2601.18547)
+
 **A Tri-Dynamic Preprocessing Framework for UGC Video Compression. ICASSP 2024.** [Paper](https://arxiv.org/pdf/2512.16101)
 
 **A Preprocessing Framework for Video Machine Vision under Compression. DCC** [Paper](https://arxiv.org/pdf/2512.15331)
@@ -72,6 +74,8 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 <ins>_**Generative Latent Video Compression.**_</ins> [Paper](https://arxiv.org/pdf/2510.09987)
 
 <ins>_**YODA: Yet Another One-step Diffusion-based Video Compressor.**_</ins> [Paper](https://arxiv.org/pdf/2601.01141); [Code](https://github.com/NJUVISION/YODA)
+
+**Video Compression with Hierarchical Temporal Neural Representation.** [Paper](https://arxiv.org/pdf/2601.17743)
 
 **Towards Efficient Low-rate Image Compression with Frequency-aware Diffusion Prior Refinement.** [Paper](https://arxiv.org/pdf/2601.10373)
 
