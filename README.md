@@ -750,6 +750,8 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 ## IEEE TCSVT
 <ins>_**Generative Latent Coding for Ultra-Low Bitrate Image and Video Compression. 2025.**_ </ins> [Paper](https://arxiv.org/pdf/2505.16177)
 
+**QARV++: An Improved Hierarchical VAE for Learned Image Compression. 2026.** [Paper](https://ieeexplore.ieee.org/abstract/document/11359722)
+
 **High Accuracy Rate Control for Neural Video Coding Based on Rate-Distortion Modeling.** [Paper](https://ieeexplore.ieee.org/abstract/document/11168923)
 
 **RDEIC: Accelerating Diffusion-Based Extreme Image Compression with Relay Residual Diffusion.** [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11029044)
@@ -796,6 +798,8 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 
 <a name="TMM"></a>
 ## IEEE TMM
+**Learned Image Compression Via Local-to-Global Cross-Component Prior. 2026.** [Paper](https://ieeexplore.ieee.org/abstract/document/11341895)
+
 **One is All: A Unified Rate-Distortion-Complexity Framework for Learned Image Compression Under Energy Concentration Criteria. 2025.** [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10856443)
 
 **Uncertainty-Aware Deep Video Compression with Ensembles. 2024.** [Paper](https://arxiv.org/pdf/2403.19158.pdf)
