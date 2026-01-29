@@ -75,6 +75,8 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 
 <ins>_**YODA: Yet Another One-step Diffusion-based Video Compressor.**_</ins> [Paper](https://arxiv.org/pdf/2601.01141); [Code](https://github.com/NJUVISION/YODA)
 
+**Compression Tells Intelligence: Visual Coding, Visual Token Technology, and the Unification.** [Paper](https://arxiv.org/pdf/2601.20742)
+
 **Video Compression with Hierarchical Temporal Neural Representation.** [Paper](https://arxiv.org/pdf/2601.17743)
 
 **Towards Efficient Low-rate Image Compression with Frequency-aware Diffusion Prior Refinement.** [Paper](https://arxiv.org/pdf/2601.10373)
