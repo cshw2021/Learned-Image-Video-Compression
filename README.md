@@ -77,6 +77,8 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 
 <ins>_**DiffVC-RT: Towards Practical Real-Time Diffusion-based Perceptual Neural Video Compression.**_</ins> [Paper](https://arxiv.org/pdf/2601.20564)
 
+**Lightweight High-Fidelity Low-Bitrate Talking Face Compression for 3D Video Conference.** [Paper](https://arxiv.org/pdf/2601.21269)
+
 **Compression Tells Intelligence: Visual Coding, Visual Token Technology, and the Unification.** [Paper](https://arxiv.org/pdf/2601.20742)
 
 **Video Compression with Hierarchical Temporal Neural Representation.** [Paper](https://arxiv.org/pdf/2601.17743)
