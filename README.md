@@ -24,6 +24,7 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 
 <a name='other'></a>
 ## Other
+
 <ins>_**Diffusion-based Perceptual Neural Video Compression with Temporal Diffusion Information Reuse. ACM Transactions on Multimedia Computing, Communications and Applications.**_</ins> [Paper](https://arxiv.org/pdf/2501.13528)
 
 <ins>_**DiffVC-OSD: One-Step Diffusion-based Perceptual Neural Video Compression Framework. VCIP 2025.**_</ins> [Paper](https://arxiv.org/pdf/2508.07682?)
