@@ -67,6 +67,8 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 
 <a name="arxiv"></a>
 ## Arxiv
+**Reinforced Rate Control for Neural Video Compression via Inter-Frame Rate-Distortion Awareness.** [Paper](https://arxiv.org/pdf/2601.19293)
+
 <ins>_**Generative Video Compression: Towards 0.01% Compression Rate for Video Transmission.**_</ins> [Paper](https://arxiv.org/pdf/2512.24300)
 
 <ins>_**Generative Neural Video Compression via Video Diffusion Prior.**_</ins> [Paper](https://arxiv.org/pdf/2512.05016)
@@ -76,6 +78,8 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 <ins>_**YODA: Yet Another One-step Diffusion-based Video Compressor.**_</ins> [Paper](https://arxiv.org/pdf/2601.01141); [Code](https://github.com/NJUVISION/YODA)
 
 <ins>_**DiffVC-RT: Towards Practical Real-Time Diffusion-based Perceptual Neural Video Compression.**_</ins> [Paper](https://arxiv.org/pdf/2601.20564)
+
+**Leveraging Second-Order Curvature for Efficient Learned Image Compression: Theory and Empirical Evidence.** [Paper](https://arxiv.org/pdf/2601.20769)
 
 **Lightweight High-Fidelity Low-Bitrate Talking Face Compression for 3D Video Conference.** [Paper](https://arxiv.org/pdf/2601.21269)
 
