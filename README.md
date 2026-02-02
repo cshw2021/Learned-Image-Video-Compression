@@ -812,6 +812,8 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 
 <a name="TMM"></a>
 ## IEEE TMM
+**C-CTX: Cubic-Checkerboard Context Entropy Model for Learned Image Compression.** [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11303924)
+
 **Learned Image Compression Via Local-to-Global Cross-Component Prior. 2026.** [Paper](https://ieeexplore.ieee.org/abstract/document/11341895)
 
 **One is All: A Unified Rate-Distortion-Complexity Framework for Learned Image Compression Under Energy Concentration Criteria. 2025.** [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10856443)
