@@ -6,7 +6,7 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 
 #### 🔥🔥🔥 News
 
-- **2026-02-02:** Our paper [OSDiff](https://github.com/cheesejiang/OSDiff) has been accepted as a poster at **VCIP 2025**.
+- **2026-02-02:** Our paper [OSDiff](https://github.com/cheesejiang/OSDiff) has been accepted as a poster at **VCIP 2025**. Please refer to the [arXiv version of the paper](https://arxiv.org/pdf/2602.01570) for details.
 - **2025-11-04:** Our paper [ICISP](https://github.com/cshw2021/ICISP) has been accepted by **Neural Networks**. Our previous work [VQIR](https://github.com/cshw2021/EIR), [DiffEIC](https://github.com/cshw2021/DiffEIC) and [RDEIC](https://github.com/cshw2021/RDEIC) have been accepted by **IEEE TCSVT**.
 
 ## Overview
