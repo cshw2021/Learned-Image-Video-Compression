@@ -69,6 +69,8 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 
 <a name="arxiv"></a>
 ## Arxiv
+<ins>_**Single-step Diffusion-based Video Coding with Semantic-Temporal Guidance.**_</ins> [Paper](https://arxiv.org/pdf/2512.07480)
+
 **Dual-Representation Image Compression at Ultra-Low Bitrates via Explicit Semantics and Implicit Textures.** [Paper](https://arxiv.org/pdf/2602.05213)
 
 **Reinforced Rate Control for Neural Video Compression via Inter-Frame Rate-Distortion Awareness.** [Paper](https://arxiv.org/pdf/2601.19293)
