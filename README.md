@@ -195,8 +195,6 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 
 **2025.08.06 HCF: Hierarchical Cascade Framework for Distributed Multi-Stage Image Compression.** [Paper](https://arxiv.org/pdf/2508.02051)
 
-**2025.08.06 CMIC: Content-Adaptive Mamba for Learned Image Compression.** [Paper](https://arxiv.org/abs/2508.02192)
-
 **2025.08.01 JPEG Processing Neural Operator for Backward-Compatible Coding.** [Paper](https://arxiv.org/pdf/2507.23521)
 
 **2025.07.22 Conditional Video Generation for High-Efficiency Video Compression.** [Paper](https://arxiv.org/pdf/2507.15269)
@@ -285,6 +283,8 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 
 <a name='ICLR2026'></a>
 ## ICLR 2026
+**Content-Aware Mamba for Learned Image Compression.** [Paper](https://openreview.net/attachment?id=WwDNiisZQm&name=pdf); [Arxiv Paper](https://arxiv.org/pdf/2508.02192)
+
 **Turbo-DDCM: Fast and Flexible Zero-Shot Diffusion-Based Image Compression.** [Paper](https://openreview.net/attachment?id=eIF1QvC94Z&name=pdf)
 
 **Autoregressive-based Progressive Coding for Ultra-Low Bitrate Image Compression.** [Paper](https://openreview.net/attachment?id=FXu4G5T5QZ&name=pdf)
