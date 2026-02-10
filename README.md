@@ -10,7 +10,7 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 - **2025-11-04:** Our paper [ICISP](https://github.com/cshw2021/ICISP) has been accepted by **Neural Networks**. Our previous work [VQIR](https://github.com/cshw2021/EIR), [DiffEIC](https://github.com/cshw2021/DiffEIC) and [RDEIC](https://github.com/cshw2021/RDEIC) have been accepted by **IEEE TCSVT**.
 
 ## Overview
-[AAAI 2026](#AAAI2026),
+[AAAI 2026](#AAAI2026), [ICLR 2026](#ILCR2026),
 
 [AAAI 2025](#AAAI2025), [ICLR 2025](#ICLR2025), [CVPR 2025](#CVPR2025), [ICML 2025](#ICML2025), [ACMMM 2025](#ACMMM2025), [ICCV 2025](#ICCV2025), [NeurIPS 2025](#NeurIPS2025), [IJCAI 2025](#IJCAI2025)
 
@@ -282,6 +282,10 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 **Deeply-Conditioned Image Compression via Self-Generated Priors.** [Paper](https://arxiv.org/pdf/2510.24437)
 
 **Resi-VidTok: An Efficient and Decomposed Progressive Tokenization Framework for Ultra-Low-Rate and Lightweight Video Transmission.** [Paper](https://arxiv.org/pdf/2510.25002)
+
+<a name='ICLR2026'></a>
+## ICLR 2026
+**Autoregressive-based Progressive Coding for Ultra-Low Bitrate Image Compression.** [Paper](https://openreview.net/attachment?id=FXu4G5T5QZ&name=pdf)
 
 <a name='AAAI2026'></a>
 ## AAAI 2026
