@@ -24,6 +24,8 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 
 <a name='other'></a>
 ## Other
+**Rethinking Latent Variable in Learned Image Compression. WACV 2026.** [Paper](https://arxiv.org/pdf/2502.07160)
+
 **Audio-Visual Cross-Modal Compression for Generative Face Video Coding. DCC 2026.** [Paper](https://arxiv.org/pdf/2512.15262v1.pdf)
 
 <ins>_**Diffusion-based Perceptual Neural Video Compression with Temporal Diffusion Information Reuse. ACM Transactions on Multimedia Computing, Communications and Applications.**_</ins> [Paper](https://arxiv.org/pdf/2501.13528)
