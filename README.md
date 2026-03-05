@@ -72,6 +72,8 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 
 <a name="arxiv"></a>
 ## Arxiv
+**TextBoost: Boosting Scene Text Fidelity in Ultra-low Bitrate Image Compression.** [Paper](https://arxiv.org/pdf/2603.04115)
+
 **ProGIC: Progressive and Lightweight Generative Image Compression with Residual Vector Quantization.** [Paper](https://arxiv.org/pdf/2603.02897)
 
 **High-Fidelity Causal Video Diffusion Models for Real-Time Ultra-Low-Bitrate Semantic Communication.** [Paper](https://arxiv.org/pdf/2602.13837)
@@ -294,6 +296,8 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 
 <a name='CVPR2026'></a>
 ## CVPR 2026
+**Parallax to Align Them All: An OmniParallax Attention Mechanism for Distributed Multi-View Image Compression.** [Paper](https://arxiv.org/pdf/2603.03615)
+
 **CADC: Content Adaptive Diffusion-Based Generative Image Compression.** [Paper](https://arxiv.org/pdf/2602.21591)
 
 <a name='ICLR2026'></a>
