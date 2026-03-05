@@ -72,6 +72,8 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 
 <a name="arxiv"></a>
 ## Arxiv
+**ProGIC: Progressive and Lightweight Generative Image Compression with Residual Vector Quantization.** [Paper](https://arxiv.org/pdf/2603.02897)
+
 **High-Fidelity Causal Video Diffusion Models for Real-Time Ultra-Low-Bitrate Semantic Communication.** [Paper](https://arxiv.org/pdf/2602.13837)
 
 <ins>_**Free-GVC: Towards Training-Free Extreme Generative Video Compression with Temporal Coherence.**_</ins> [Paper](https://arxiv.org/pdf/2602.09868)
