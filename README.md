@@ -72,6 +72,12 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 
 <a name="arxiv"></a>
 ## Arxiv
+**Conditional Video Generation for High-Efficiency Video Compression.** [Paper](https://arxiv.org/pdf/2507.15269) Xuelong Li
+
+**Enhancing Neural Video Compression of Static Scenes with Positive-Incentive Noise.** [Paper](https://arxiv.org/pdf/2603.06095) Xuelong Li
+
+**Uni-LVC: A Unified Method for Intra- and Inter-Mode Learned Video Compression.** [Paper](https://arxiv.org/pdf/2603.05756)
+
 **TextBoost: Boosting Scene Text Fidelity in Ultra-low Bitrate Image Compression.** [Paper](https://arxiv.org/pdf/2603.04115)
 
 **ProGIC: Progressive and Lightweight Generative Image Compression with Residual Vector Quantization.** [Paper](https://arxiv.org/pdf/2603.02897)
