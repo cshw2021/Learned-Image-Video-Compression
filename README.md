@@ -72,6 +72,10 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 
 <a name="arxiv"></a>
 ## Arxiv
+**HiDE: Hierarchical Dictionary-Based Entropy Modeling for Learned Image Compression.** [Paper](https://arxiv.org/pdf/2603.06766)
+
+**Compression as Adaptation: Implicit Visual Representation with Diffusion Foundation Models.** [Paper](https://arxiv.org/pdf/2603.07615) Yan Lu
+
 **Geometric Transformation-Embedded Mamba for Learned Video Compression.** [Paper](https://arxiv.org/pdf/2603.07912)
 
 **Conditional Video Generation for High-Efficiency Video Compression.** [Paper](https://arxiv.org/pdf/2507.15269) Xuelong Li
