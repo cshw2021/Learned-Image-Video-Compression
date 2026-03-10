@@ -10,7 +10,7 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 - **2025-11-04:** Our paper [ICISP](https://github.com/cshw2021/ICISP) has been accepted by **Neural Networks**. Our previous work [VQIR](https://github.com/cshw2021/EIR), [DiffEIC](https://github.com/cshw2021/DiffEIC) and [RDEIC](https://github.com/cshw2021/RDEIC) have been accepted by **IEEE TCSVT**.
 
 ## Overview
-[AAAI 2026](#AAAI2026), [ICLR 2026](#ILCR2026), [CVPR 2026](#CVPR2026)
+[AAAI 2026](#AAAI2026), [ICLR 2026](#ICLR2026), [CVPR 2026](#CVPR2026)
 
 [AAAI 2025](#AAAI2025), [ICLR 2025](#ICLR2025), [CVPR 2025](#CVPR2025), [ICML 2025](#ICML2025), [ACMMM 2025](#ACMMM2025), [ICCV 2025](#ICCV2025), [NeurIPS 2025](#NeurIPS2025), [IJCAI 2025](#IJCAI2025)
 
@@ -28,11 +28,11 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 
 **Audio-Visual Cross-Modal Compression for Generative Face Video Coding. DCC 2026.** [Paper](https://arxiv.org/pdf/2512.15262v1.pdf)
 
-<ins>_**Diffusion-based Perceptual Neural Video Compression with Temporal Diffusion Information Reuse. ACM Transactions on Multimedia Computing, Communications and Applications.**_</ins> [Paper](https://arxiv.org/pdf/2501.13528)
+**Diffusion-based Perceptual Neural Video Compression with Temporal Diffusion Information Reuse. ACM Transactions on Multimedia Computing, Communications and Applications.** [Paper](https://arxiv.org/pdf/2501.13528)
 
-<ins>_**DiffVC-OSD: One-Step Diffusion-based Perceptual Neural Video Compression Framework. VCIP 2025.**_</ins> [Paper](https://arxiv.org/pdf/2508.07682?)
+**DiffVC-OSD: One-Step Diffusion-based Perceptual Neural Video Compression Framework. VCIP 2025.** [Paper](https://arxiv.org/pdf/2508.07682?)
 
-<ins>_**Extreme Video Compression with Prediction Using Pre-trained Diffusion Models. WCSP 2024.**_</ins> [Paper](https://ieeexplore.ieee.org/abstract/document/10827256)
+**Extreme Video Compression with Prediction Using Pre-trained Diffusion Models. WCSP 2024.** [Paper](https://ieeexplore.ieee.org/abstract/document/10827256)
 
 **REMAC: Reference-Based Martian Asymmetrical Image Compression. TGRS 2026.** [Paper](https://arxiv.org/pdf/2601.18547)
 
@@ -72,6 +72,8 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 
 <a name="arxiv"></a>
 ## Arxiv
+**Geometric Transformation-Embedded Mamba for Learned Video Compression.** [Paper](https://arxiv.org/pdf/2603.07912)
+
 **Conditional Video Generation for High-Efficiency Video Compression.** [Paper](https://arxiv.org/pdf/2507.15269) Xuelong Li
 
 **Enhancing Neural Video Compression of Static Scenes with Positive-Incentive Noise.** [Paper](https://arxiv.org/pdf/2603.06095) Xuelong Li
@@ -84,25 +86,25 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 
 **High-Fidelity Causal Video Diffusion Models for Real-Time Ultra-Low-Bitrate Semantic Communication.** [Paper](https://arxiv.org/pdf/2602.13837)
 
-<ins>_**Free-GVC: Towards Training-Free Extreme Generative Video Compression with Temporal Coherence.**_</ins> [Paper](https://arxiv.org/pdf/2602.09868)
+**Free-GVC: Towards Training-Free Extreme Generative Video Compression with Temporal Coherence.** [Paper](https://arxiv.org/pdf/2602.09868)
 
-<ins>_**Diffusion-aided Extreme Video Compression with Lightweight Semantics Guidance.**_</ins> [Paper](https://arxiv.org/pdf/2602.05201)
+**Diffusion-aided Extreme Video Compression with Lightweight Semantics Guidance.** [Paper](https://arxiv.org/pdf/2602.05201)
 
-<ins>_**Single-step Diffusion-based Video Coding with Semantic-Temporal Guidance.**_</ins> [Paper](https://arxiv.org/pdf/2512.07480)
+**Single-step Diffusion-based Video Coding with Semantic-Temporal Guidance.** [Paper](https://arxiv.org/pdf/2512.07480)
 
 **Dual-Representation Image Compression at Ultra-Low Bitrates via Explicit Semantics and Implicit Textures.** [Paper](https://arxiv.org/pdf/2602.05213)
 
 **Reinforced Rate Control for Neural Video Compression via Inter-Frame Rate-Distortion Awareness.** [Paper](https://arxiv.org/pdf/2601.19293)
 
-<ins>_**Generative Video Compression: Towards 0.01% Compression Rate for Video Transmission.**_</ins> [Paper](https://arxiv.org/pdf/2512.24300)
+**Generative Video Compression: Towards 0.01% Compression Rate for Video Transmission.** [Paper](https://arxiv.org/pdf/2512.24300)
 
-<ins>_**Generative Neural Video Compression via Video Diffusion Prior.**_</ins> [Paper](https://arxiv.org/pdf/2512.05016)
+**Generative Neural Video Compression via Video Diffusion Prior.** [Paper](https://arxiv.org/pdf/2512.05016)
 
-<ins>_**Generative Latent Video Compression.**_</ins> [Paper](https://arxiv.org/pdf/2510.09987)
+**Generative Latent Video Compression.** [Paper](https://arxiv.org/pdf/2510.09987)
 
-<ins>_**YODA: Yet Another One-step Diffusion-based Video Compressor.**_</ins> [Paper](https://arxiv.org/pdf/2601.01141); [Code](https://github.com/NJUVISION/YODA)
+**YODA: Yet Another One-step Diffusion-based Video Compressor.** [Paper](https://arxiv.org/pdf/2601.01141); [Code](https://github.com/NJUVISION/YODA)
 
-<ins>_**DiffVC-RT: Towards Practical Real-Time Diffusion-based Perceptual Neural Video Compression.**_</ins> [Paper](https://arxiv.org/pdf/2601.20564)
+**DiffVC-RT: Towards Practical Real-Time Diffusion-based Perceptual Neural Video Compression.** [Paper](https://arxiv.org/pdf/2601.20564)
 
 **Leveraging Second-Order Curvature for Efficient Learned Image Compression: Theory and Empirical Evidence.** [Paper](https://arxiv.org/pdf/2601.20769)
 
