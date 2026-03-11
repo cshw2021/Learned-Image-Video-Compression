@@ -805,7 +805,9 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 
 <a name="TCSVT"></a>
 ## IEEE TCSVT
-<ins>_**Generative Latent Coding for Ultra-Low Bitrate Image and Video Compression. 2025.**_ </ins> [Paper](https://arxiv.org/pdf/2505.16177)
+**Distilling Complexity-Scalable Learned Image Compression Models via Neural Architecture Search. 2026.** [Paper](https://ieeexplore.ieee.org/abstract/document/11421658)
+
+**Generative Latent Coding for Ultra-Low Bitrate Image and Video Compression. 2025.** [Paper](https://arxiv.org/pdf/2505.16177)
 
 **QARV++: An Improved Hierarchical VAE for Learned Image Compression. 2026.** [Paper](https://ieeexplore.ieee.org/abstract/document/11359722)
 
