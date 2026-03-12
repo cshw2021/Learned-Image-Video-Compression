@@ -10,7 +10,7 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 - **2025-11-04:** Our paper [ICISP](https://github.com/cshw2021/ICISP) has been accepted by **Neural Networks**. Our previous work [VQIR](https://github.com/cshw2021/EIR), [DiffEIC](https://github.com/cshw2021/DiffEIC) and [RDEIC](https://github.com/cshw2021/RDEIC) have been accepted by **IEEE TCSVT**.
 
 ## Overview
-[AAAI 2026](#AAAI2026), [ICLR 2026](#ICLR2026), [CVPR 2026](#CVPR2026)
+[AAAI 2026](#AAAI2026), [ICLR 2026](#ICLR2026), [CVPR 2026](#CVPR2026), [WACV 2026](#WACV2026),
 
 [AAAI 2025](#AAAI2025), [ICLR 2025](#ICLR2025), [CVPR 2025](#CVPR2025), [ICML 2025](#ICML2025), [ACMMM 2025](#ACMMM2025), [ICCV 2025](#ICCV2025), [NeurIPS 2025](#NeurIPS2025), [IJCAI 2025](#IJCAI2025)
 
@@ -24,8 +24,6 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 
 <a name='other'></a>
 ## Other
-**Rethinking Latent Variable in Learned Image Compression. WACV 2026.** [Paper](https://openaccess.thecvf.com/content/WACV2026/papers/Yi_Rethinking_Latent_Variable_in_Learned_Image_Compression_WACV_2026_paper.pdf)
-
 **Audio-Visual Cross-Modal Compression for Generative Face Video Coding. DCC 2026.** [Paper](https://arxiv.org/pdf/2512.15262v1.pdf)
 
 **Diffusion-based Perceptual Neural Video Compression with Temporal Diffusion Information Reuse. ACM Transactions on Multimedia Computing, Communications and Applications.** [Paper](https://arxiv.org/pdf/2501.13528)
@@ -228,8 +226,6 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 
 **Customizable ROI-Based Deep Image Compression.** [Paper](https://arxiv.org/pdf/2507.00373)
 
-**How to Design and Train Your Implicit Neural Representation for Video Compression.** [Paper](https://arxiv.org/pdf/2506.24127)
-
 **LLaVA-Scissor: Token Compression with Semantic Connected Components for Video LLMs.** [Paper](https://arxiv.org/pdf/2506.21862)
 
 **End-to-End RGB-IR Joint Image Compression With Channel-wise Cross-modality Entropy Model.** [Paper](https://arxiv.org/pdf/2506.21851)
@@ -305,6 +301,13 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 **Deeply-Conditioned Image Compression via Self-Generated Priors.** [Paper](https://arxiv.org/pdf/2510.24437)
 
 **Resi-VidTok: An Efficient and Decomposed Progressive Tokenization Framework for Ultra-Low-Rate and Lightweight Video Transmission.** [Paper](https://arxiv.org/pdf/2510.25002)
+<a name='WACV2026'></a>
+## WACV 2026
+**Single-step Diffusion for Image Compression at Ultra-Low Bitrates.** [Paper](https://openaccess.thecvf.com/content/WACV2026/papers/Park_Single-step_Diffusion_for_Image_Compression_at_Ultra-Low_Bitrates_WACV_2026_paper.pdf)
+
+**How to Design and Train Your Implicit Neural Representation for Video Compression.** [Paper](https://openaccess.thecvf.com/content/WACV2026/papers/Gwilliam_How_to_Design_and_Train_Your_Implicit_Neural_Representation_for_WACV_2026_paper.pdf)
+
+**Rethinking Latent Variable in Learned Image Compression. WACV 2026.** [Paper](https://openaccess.thecvf.com/content/WACV2026/papers/Yi_Rethinking_Latent_Variable_in_Learned_Image_Compression_WACV_2026_paper.pdf)
 
 <a name='CVPR2026'></a>
 ## CVPR 2026
