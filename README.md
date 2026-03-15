@@ -28,6 +28,8 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 
 **Diffusion-based Perceptual Neural Video Compression with Temporal Diffusion Information Reuse. ACM Transactions on Multimedia Computing, Communications and Applications.** [Paper](https://arxiv.org/pdf/2501.13528)
 
+**Dual-Scale Transformer with Variable Bitrate Synchronization for Neural Video Compression. ACM Transactions on Multimedia Computing, Communications and Applications.** [Paper](https://dl.acm.org/doi/pdf/10.1145/3801159)
+
 **DiffVC-OSD: One-Step Diffusion-based Perceptual Neural Video Compression Framework. VCIP 2025.** [Paper](https://arxiv.org/pdf/2508.07682?)
 
 **Extreme Video Compression with Prediction Using Pre-trained Diffusion Models. WCSP 2024.** [Paper](https://ieeexplore.ieee.org/abstract/document/10827256)
