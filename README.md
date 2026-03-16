@@ -72,8 +72,6 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 
 <a name="arxiv"></a>
 ## Arxiv
-**DiT-IC: Aligned Diffusion Transformer for Efficient Image Compression.** [Paper](https://arxiv.org/pdf/2603.13162) Zhan Ma
-
 **HiDE: Hierarchical Dictionary-Based Entropy Modeling for Learned Image Compression.** [Paper](https://arxiv.org/pdf/2603.06766)
 
 **Compression as Adaptation: Implicit Visual Representation with Diffusion Foundation Models.** [Paper](https://arxiv.org/pdf/2603.07615) Yan Lu
@@ -315,6 +313,8 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 
 <a name='CVPR2026'></a>
 ## CVPR 2026
+**DiT-IC: Aligned Diffusion Transformer for Efficient Image Compression.** [Paper](https://arxiv.org/pdf/2603.13162); [Code](https://github.com/Eric-qi/DiT-IC) Zhan Ma
+
 **Parallax to Align Them All: An OmniParallax Attention Mechanism for Distributed Multi-View Image Compression.** [Paper](https://arxiv.org/pdf/2603.03615)
 
 **CADC: Content Adaptive Diffusion-Based Generative Image Compression.** [Paper](https://arxiv.org/pdf/2602.21591)
