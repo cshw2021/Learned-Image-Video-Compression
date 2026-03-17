@@ -72,6 +72,8 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 
 <a name="arxiv"></a>
 ## Arxiv
+**Next-Frame Decoding for Ultra-Low-Bitrate Image Compression with Video Diffusion Priors.** [Paper](https://arxiv.org/pdf/2603.15129)
+
 **HiDE: Hierarchical Dictionary-Based Entropy Modeling for Learned Image Compression.** [Paper](https://arxiv.org/pdf/2603.06766)
 
 **Compression as Adaptation: Implicit Visual Representation with Diffusion Foundation Models.** [Paper](https://arxiv.org/pdf/2603.07615) Yan Lu
