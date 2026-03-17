@@ -104,8 +104,6 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 
 **Generative Video Compression: Towards 0.01% Compression Rate for Video Transmission.** [Paper](https://arxiv.org/pdf/2512.24300)
 
-**Generative Neural Video Compression via Video Diffusion Prior.** [Paper](https://arxiv.org/pdf/2512.05016)
-
 **Generative Latent Video Compression.** [Paper](https://arxiv.org/pdf/2510.09987)
 
 **YODA: Yet Another One-step Diffusion-based Video Compressor.** [Paper](https://arxiv.org/pdf/2601.01141); [Code](https://github.com/NJUVISION/YODA)
@@ -135,8 +133,6 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 **TreeNet: A Light Weight Model for Low Bitrate Image Compression.** [Paper](https://arxiv.org/pdf/2512.16743)
 
 **VLIC: Vision-Language Models As Perceptual Judges for Human-Aligned Image Compression.** [Paper](https://arxiv.org/pdf/2512.15701)
-
-**Ultra-Low Bitrate Perceptual Image Compression with Shallow Encoder.**  [Paper](https://arxiv.org/pdf/2512.12229)
 
 **Embodied Image Compression.** [Paper](https://arxiv.org/pdf/2512.11612)
 
@@ -236,8 +232,6 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 
 **Video Compression for Spatiotemporal Earth System Data.** [Paper](https://arxiv.org/pdf/2506.19656)
 
-**DiffO: Single-step Diffusion for Image Compression at Ultra-Low Bitrates.** [Paper](https://arxiv.org/pdf/2506.16572); [Code](https://github.com/Freemasti/DiffO)
-
 **Fast Training-free Perceptual Image Compression.** [Paper](https://arxiv.org/pdf/2506.16102)
 
 **Gumbel-max List Sampling for Distribution Coupling with Multiple Samples.** [Paper](https://arxiv.org/pdf/2506.05632)
@@ -315,13 +309,19 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 
 <a name='CVPR2026'></a>
 ## CVPR 2026
+**Ultra-Low Bitrate Perceptual Image Compression with Shallow Encoder.**  [Paper](https://arxiv.org/pdf/2512.12229)
+
+**Generative Neural Video Compression via Video Diffusion Prior.** [Paper](https://arxiv.org/pdf/2512.05016)
+
 **Generative Video Compression with One-Dimensional Latent Representation.** [Paper](https://arxiv.org/pdf/2603.15302) Yan Lu
 
 **DiT-IC: Aligned Diffusion Transformer for Efficient Image Compression.** [Paper](https://arxiv.org/pdf/2603.13162); [Code](https://github.com/Eric-qi/DiT-IC) Zhan Ma
 
+**CADC: Content Adaptive Diffusion-Based Generative Image Compression.** [Paper](https://arxiv.org/pdf/2602.21591)
+
 **Parallax to Align Them All: An OmniParallax Attention Mechanism for Distributed Multi-View Image Compression.** [Paper](https://arxiv.org/pdf/2603.03615)
 
-**CADC: Content Adaptive Diffusion-Based Generative Image Compression.** [Paper](https://arxiv.org/pdf/2602.21591)
+**OmniZip: Learning a Unified and Lightweight Lossless Compressor for Multi-Modal Data.** [Paper](https://arxiv.org/abs/2602.22286)
 
 <a name='ICLR2026'></a>
 ## ICLR 2026
