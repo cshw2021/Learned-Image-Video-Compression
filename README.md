@@ -313,6 +313,8 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 
 <a name='CVPR2026'></a>
 ## CVPR 2026
+**Generative Video Compression with One-Dimensional Latent Representation.** [Paper](https://arxiv.org/pdf/2603.15302) Yan Lu
+
 **DiT-IC: Aligned Diffusion Transformer for Efficient Image Compression.** [Paper](https://arxiv.org/pdf/2603.13162); [Code](https://github.com/Eric-qi/DiT-IC) Zhan Ma
 
 **Parallax to Align Them All: An OmniParallax Attention Mechanism for Distributed Multi-View Image Compression.** [Paper](https://arxiv.org/pdf/2603.03615)
