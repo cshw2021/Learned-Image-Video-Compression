@@ -315,7 +315,7 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 ## CVPR 2026
 **AdaRadar: Rate Adaptive Spectral Compression for Radar-based Perception.** [Paper](https://arxiv.org/pdf/2603.17979); [Code](https://github.com/jp4327/adaradar)
 
-**Ultra-Low Bitrate Perceptual Image Compression with Shallow Encoder.**  [Paper](https://arxiv.org/pdf/2512.12229)
+**Ultra-Low Bitrate Perceptual Image Compression with Shallow Encoder.**  [Paper](https://arxiv.org/pdf/2512.12229); [Code](https://github.com/LuizScarlet/AEIC)
 
 **Generative Neural Video Compression via Video Diffusion Prior.** [Paper](https://arxiv.org/pdf/2512.05016)
 
@@ -327,7 +327,7 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 
 **Parallax to Align Them All: An OmniParallax Attention Mechanism for Distributed Multi-View Image Compression.** [Paper](https://arxiv.org/pdf/2603.03615)
 
-**OmniZip: Learning a Unified and Lightweight Lossless Compressor for Multi-Modal Data.** [Paper](https://arxiv.org/abs/2602.22286)
+**OmniZip: Learning a Unified and Lightweight Lossless Compressor for Multi-Modal Data.** [Paper](https://arxiv.org/abs/2602.22286); [Code](https://github.com/adminasmi/OmniZip-CVPR2026)
 
 <a name='ICLR2026'></a>
 ## ICLR 2026
