@@ -24,6 +24,8 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 
 <a name='other'></a>
 ## Other
+**Joint Degradation-Aware Arbitrary-Scale Super-Resolution for Variable-Rate Extreme Image Compression. IEEE Transactions on BroadCasting.** [Paper](https://arxiv.org/pdf/2603.17408)
+
 **Audio-Visual Cross-Modal Compression for Generative Face Video Coding. DCC 2026.** [Paper](https://arxiv.org/pdf/2512.15262v1.pdf)
 
 **Diffusion-based Perceptual Neural Video Compression with Temporal Diffusion Information Reuse. ACM Transactions on Multimedia Computing, Communications and Applications.** [Paper](https://arxiv.org/pdf/2501.13528)
@@ -72,6 +74,8 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 
 <a name="arxiv"></a>
 ## Arxiv
+**ProGVC: Progressive-based Generative Video Compression via Auto-Regressive Context Modeling.** [Paper](https://arxiv.org/pdf/2603.17546)
+
 **Next-Frame Decoding for Ultra-Low-Bitrate Image Compression with Video Diffusion Priors.** [Paper](https://arxiv.org/pdf/2603.15129)
 
 **HiDE: Hierarchical Dictionary-Based Entropy Modeling for Learned Image Compression.** [Paper](https://arxiv.org/pdf/2603.06766)
@@ -309,6 +313,8 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 
 <a name='CVPR2026'></a>
 ## CVPR 2026
+**AdaRadar: Rate Adaptive Spectral Compression for Radar-based Perception.** [Paper](https://arxiv.org/pdf/2603.17979); [Code](https://github.com/jp4327/adaradar)
+
 **Ultra-Low Bitrate Perceptual Image Compression with Shallow Encoder.**  [Paper](https://arxiv.org/pdf/2512.12229)
 
 **Generative Neural Video Compression via Video Diffusion Prior.** [Paper](https://arxiv.org/pdf/2512.05016)
