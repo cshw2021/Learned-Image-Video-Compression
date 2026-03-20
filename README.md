@@ -74,6 +74,10 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 
 <a name="arxiv"></a>
 ## Arxiv
+**LRConv-NeRV: Low Rank Convolution for Efficient Neural Video Compression.** [Paper](https://arxiv.org/pdf/2603.18261)
+
+**Efficient Video Diffusion with Sparse Information Transmission for Video Compression.** [Paper](https://arxiv.org/pdf/2603.18501); [Code](https://github.com/MingdeZhou/Diff-SIT) Yulun Zhang
+
 **ProGVC: Progressive-based Generative Video Compression via Auto-Regressive Context Modeling.** [Paper](https://arxiv.org/pdf/2603.17546)
 
 **Next-Frame Decoding for Ultra-Low-Bitrate Image Compression with Video Diffusion Priors.** [Paper](https://arxiv.org/pdf/2603.15129)
