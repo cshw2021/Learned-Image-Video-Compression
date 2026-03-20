@@ -323,6 +323,8 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 
 **Generative Neural Video Compression via Video Diffusion Prior.** [Paper](https://arxiv.org/pdf/2512.05016)
 
+**UniComp: Rethinking Video Compression Through Informational Uniqueness.** [Paper](https://arxiv.org/abs/2512.03575); [Code](https://github.com/TimeMarker-LLM/UniComp)
+
 **Generative Video Compression with One-Dimensional Latent Representation.** [Paper](https://arxiv.org/pdf/2603.15302); [Code](https://gvc1d.github.io/) Yan Lu
 
 **DiT-IC: Aligned Diffusion Transformer for Efficient Image Compression.** [Paper](https://arxiv.org/pdf/2603.13162); [Code](https://github.com/Eric-qi/DiT-IC) Zhan Ma
