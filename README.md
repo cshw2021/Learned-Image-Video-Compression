@@ -345,6 +345,10 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 
 <a name='AAAI2026'></a>
 ## AAAI 2026
+**Codebook-Empowered Analysis-Friendly Extreme Underwater Image Compression.**
+
+**Correcting Quantization-Induced Gradient Mismatch in Neural Image Compression.**
+
 **Neural Video Compression with Reference Hierarchy.**
 
 **SSCL: Adversarially Guided Image Compression via Semantic and Spectral Consistency Learning.** 
