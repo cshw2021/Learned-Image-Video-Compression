@@ -74,6 +74,8 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 
 <a name="arxiv"></a>
 ## Arxiv
+**DepthTCM: High Efficient Depth Compression via Physics-aware Transformer-CNN Mixed Architecture.** [Paper](https://arxiv.org/pdf/2603.21233)
+
 **LRConv-NeRV: Low Rank Convolution for Efficient Neural Video Compression.** [Paper](https://arxiv.org/pdf/2603.18261)
 
 **Efficient Video Diffusion with Sparse Information Transmission for Video Compression.** [Paper](https://arxiv.org/pdf/2603.18501); [Code](https://github.com/MingdeZhou/Diff-SIT) Yulun Zhang
