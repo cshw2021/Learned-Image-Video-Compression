@@ -319,6 +319,8 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 
 <a name='CVPR2026'></a>
 ## CVPR 2026
+**Adaptive Learned Image Compression with Graph Neural Networks.** [Paper](https://arxiv.org/pdf/2603.25316)
+
 **AdaRadar: Rate Adaptive Spectral Compression for Radar-based Perception.** [Paper](https://arxiv.org/pdf/2603.17979); [Code](https://github.com/jp4327/adaradar)
 
 **Ultra-Low Bitrate Perceptual Image Compression with Shallow Encoder.**  [Paper](https://arxiv.org/pdf/2512.12229); [Code](https://github.com/LuizScarlet/AEIC)
