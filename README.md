@@ -24,6 +24,8 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 
 <a name='other'></a>
 ## Other
+**End-to-End Image Compression with Segmentation Guided Dual Coding for Wind Turbines. IEEE TNNLS.**  [Paper](https://arxiv.org/pdf/2603.29927)
+
 **Joint Degradation-Aware Arbitrary-Scale Super-Resolution for Variable-Rate Extreme Image Compression. IEEE Transactions on BroadCasting.** [Paper](https://arxiv.org/pdf/2603.17408)
 
 **Audio-Visual Cross-Modal Compression for Generative Face Video Coding. DCC 2026.** [Paper](https://arxiv.org/pdf/2512.15262v1.pdf)
