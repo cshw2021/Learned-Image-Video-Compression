@@ -323,7 +323,7 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 
 <a name='CVPR2026'></a>
 ## CVPR 2026
-**Adaptive Learned Image Compression with Graph Neural Networks.** [Paper](https://arxiv.org/pdf/2603.25316)
+**Adaptive Learned Image Compression with Graph Neural Networks.** [Paper](https://arxiv.org/pdf/2603.25316);  [Code](https://github.com/UnoC-727/GLIC)
 
 **AdaRadar: Rate Adaptive Spectral Compression for Radar-based Perception.** [Paper](https://arxiv.org/pdf/2603.17979); [Code](https://github.com/jp4327/adaradar)
 
@@ -345,7 +345,7 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 
 <a name='ICLR2026'></a>
 ## ICLR 2026
-**Content-Aware Mamba for Learned Image Compression.** [Paper](https://openreview.net/attachment?id=WwDNiisZQm&name=pdf); [Arxiv Paper](https://arxiv.org/pdf/2508.02192)
+**Content-Aware Mamba for Learned Image Compression.** [Paper](https://openreview.net/attachment?id=WwDNiisZQm&name=pdf); [Arxiv Paper](https://arxiv.org/pdf/2508.02192); [Code](https://github.com/UnoC-727/CMIC)
 
 **Turbo-DDCM: Fast and Flexible Zero-Shot Diffusion-Based Image Compression.** [Paper](https://openreview.net/attachment?id=eIF1QvC94Z&name=pdf)
 
