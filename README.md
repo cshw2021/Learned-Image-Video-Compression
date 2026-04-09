@@ -24,6 +24,8 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 
 <a name='other'></a>
 ## Other
+**A Noise Constrained Diffusion (NC-Diffusion) Framework for High Fidelity Image Compression. IEEE TCSVT.** [Paper](https://arxiv.org/pdf/2604.06568)
+
 **End-to-End Image Compression with Segmentation Guided Dual Coding for Wind Turbines. IEEE TNNLS.**  [Paper](https://arxiv.org/pdf/2603.29927)
 
 **Joint Degradation-Aware Arbitrary-Scale Super-Resolution for Variable-Rate Extreme Image Compression. IEEE Transactions on BroadCasting.** [Paper](https://arxiv.org/pdf/2603.17408)
@@ -76,6 +78,8 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 
 <a name="arxiv"></a>
 ## Arxiv
+**Controllable Generative Video Compression.** [Paper](https://arxiv.org/pdf/2604.06655)
+
 **Region-Adaptive Generative Compression with Spatially Varying Diffusion Models.** [Paper](https://arxiv.org/pdf/2604.01122)
 
 **Generation Is Compression: Zero-Shot Video Coding via Stochastic Rectified Flow.** [Paper](https://arxiv.org/pdf/2603.26571)
