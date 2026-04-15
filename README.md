@@ -78,6 +78,8 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 
 <a name="arxiv"></a>
 ## Arxiv
+**CoD-Lite: Real-Time Diffusion-Based Generative Image Compression.** [Paper](https://arxiv.org/pdf/2604.12525) Yan Lu
+
 **Controllable Generative Video Compression.** [Paper](https://arxiv.org/pdf/2604.06655)
 
 **Region-Adaptive Generative Compression with Spatially Varying Diffusion Models.** [Paper](https://arxiv.org/pdf/2604.01122)
