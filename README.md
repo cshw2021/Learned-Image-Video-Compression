@@ -361,6 +361,8 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 
 <a name='AAAI2026'></a>
 ## AAAI 2026
+**Towards Efficient Low-rate Image Compression with Frequency-aware Diffusion Prior Refinement.** [Paper](https://arxiv.org/pdf/2601.10373);[Code](https://github.com/Darc8-sun/DiffCR)
+
 **Codebook-Empowered Analysis-Friendly Extreme Underwater Image Compression.**
 
 **Correcting Quantization-Induced Gradient Mismatch in Neural Image Compression.**
