@@ -331,6 +331,8 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 
 <a name='CVPR2026'></a>
 ## CVPR 2026
+**Differentiable Vector Quantization for Rate-Distortion Optimization of Generative Image Compression.** [Paper](https://arxiv.org/pdf/2604.10546); [Code](https://github.com/CVL-UESTC/RDVQ)
+
 **Adaptive Learned Image Compression with Graph Neural Networks.** [Paper](https://arxiv.org/pdf/2603.25316);  [Code](https://github.com/UnoC-727/GLIC)
 
 **AdaRadar: Rate Adaptive Spectral Compression for Radar-based Perception.** [Paper](https://arxiv.org/pdf/2603.17979); [Code](https://github.com/jp4327/adaradar)
