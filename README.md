@@ -244,8 +244,6 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 
 **2025.07.22 Conditional Video Generation for High-Efficiency Video Compression.** [Paper](https://arxiv.org/pdf/2507.15269)
 
-**T-GVC: Trajectory-Guided Generative Video Coding at Ultra-Low Bitrates.** [Paper](https://arxiv.org/pdf/2507.07633)
-
 **Customizable ROI-Based Deep Image Compression.** [Paper](https://arxiv.org/pdf/2507.00373)
 
 **LLaVA-Scissor: Token Compression with Semantic Connected Components for Video LLMs.** [Paper](https://arxiv.org/pdf/2506.21862)
