@@ -20,7 +20,7 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
  
 [IEEE TPAMI](#TPAMI), [IEEE TCSVT](#TCSVT), [IEEE TIP](#TIP), [IEEE TMM](#TMM), [IF](#IF)
 
-[Other](#other), [Arxiv](#arxiv)
+[Other](#other)
 
 <a name='other'></a>
 ## Other
@@ -76,249 +76,6 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 
 **Extreme Image Compression Using Fine-tuned VQGANs. DCC2024.** [Paper](https://ieeexplore.ieee.org/document/10533792); [Code](https://github.com/CUC-MIPG/VQGAN-Compression)
 
-<a name="arxiv"></a>
-## Arxiv
-**CoD-Lite: Real-Time Diffusion-Based Generative Image Compression.** [Paper](https://arxiv.org/pdf/2604.12525) Yan Lu
-
-**Controllable Generative Video Compression.** [Paper](https://arxiv.org/pdf/2604.06655)
-
-**Region-Adaptive Generative Compression with Spatially Varying Diffusion Models.** [Paper](https://arxiv.org/pdf/2604.01122)
-
-**Generation Is Compression: Zero-Shot Video Coding via Stochastic Rectified Flow.** [Paper](https://arxiv.org/pdf/2603.26571)
-
-**DepthTCM: High Efficient Depth Compression via Physics-aware Transformer-CNN Mixed Architecture.** [Paper](https://arxiv.org/pdf/2603.21233)
-
-**LRConv-NeRV: Low Rank Convolution for Efficient Neural Video Compression.** [Paper](https://arxiv.org/pdf/2603.18261)
-
-**Efficient Video Diffusion with Sparse Information Transmission for Video Compression.** [Paper](https://arxiv.org/pdf/2603.18501); [Code](https://github.com/MingdeZhou/Diff-SIT) Yulun Zhang
-
-**ProGVC: Progressive-based Generative Video Compression via Auto-Regressive Context Modeling.** [Paper](https://arxiv.org/pdf/2603.17546)
-
-**Next-Frame Decoding for Ultra-Low-Bitrate Image Compression with Video Diffusion Priors.** [Paper](https://arxiv.org/pdf/2603.15129)
-
-**HiDE: Hierarchical Dictionary-Based Entropy Modeling for Learned Image Compression.** [Paper](https://arxiv.org/pdf/2603.06766)
-
-**Compression as Adaptation: Implicit Visual Representation with Diffusion Foundation Models.** [Paper](https://arxiv.org/pdf/2603.07615) Yan Lu
-
-**Geometric Transformation-Embedded Mamba for Learned Video Compression.** [Paper](https://arxiv.org/pdf/2603.07912)
-
-**Conditional Video Generation for High-Efficiency Video Compression.** [Paper](https://arxiv.org/pdf/2507.15269) Xuelong Li
-
-**Enhancing Neural Video Compression of Static Scenes with Positive-Incentive Noise.** [Paper](https://arxiv.org/pdf/2603.06095) Xuelong Li
-
-**Uni-LVC: A Unified Method for Intra- and Inter-Mode Learned Video Compression.** [Paper](https://arxiv.org/pdf/2603.05756)
-
-**TextBoost: Boosting Scene Text Fidelity in Ultra-low Bitrate Image Compression.** [Paper](https://arxiv.org/pdf/2603.04115)
-
-**ProGIC: Progressive and Lightweight Generative Image Compression with Residual Vector Quantization.** [Paper](https://arxiv.org/pdf/2603.02897)
-
-**High-Fidelity Causal Video Diffusion Models for Real-Time Ultra-Low-Bitrate Semantic Communication.** [Paper](https://arxiv.org/pdf/2602.13837)
-
-**Free-GVC: Towards Training-Free Extreme Generative Video Compression with Temporal Coherence.** [Paper](https://arxiv.org/pdf/2602.09868)
-
-**Diffusion-aided Extreme Video Compression with Lightweight Semantics Guidance.** [Paper](https://arxiv.org/pdf/2602.05201)
-
-**Single-step Diffusion-based Video Coding with Semantic-Temporal Guidance.** [Paper](https://arxiv.org/pdf/2512.07480)
-
-**Dual-Representation Image Compression at Ultra-Low Bitrates via Explicit Semantics and Implicit Textures.** [Paper](https://arxiv.org/pdf/2602.05213)
-
-**Reinforced Rate Control for Neural Video Compression via Inter-Frame Rate-Distortion Awareness.** [Paper](https://arxiv.org/pdf/2601.19293)
-
-**Generative Video Compression: Towards 0.01% Compression Rate for Video Transmission.** [Paper](https://arxiv.org/pdf/2512.24300)
-
-**Generative Latent Video Compression.** [Paper](https://arxiv.org/pdf/2510.09987)
-
-**YODA: Yet Another One-step Diffusion-based Video Compressor.** [Paper](https://arxiv.org/pdf/2601.01141); [Code](https://github.com/NJUVISION/YODA)
-
-**DiffVC-RT: Towards Practical Real-Time Diffusion-based Perceptual Neural Video Compression.** [Paper](https://arxiv.org/pdf/2601.20564)
-
-**Leveraging Second-Order Curvature for Efficient Learned Image Compression: Theory and Empirical Evidence.** [Paper](https://arxiv.org/pdf/2601.20769)
-
-**Lightweight High-Fidelity Low-Bitrate Talking Face Compression for 3D Video Conference.** [Paper](https://arxiv.org/pdf/2601.21269)
-
-**Compression Tells Intelligence: Visual Coding, Visual Token Technology, and the Unification.** [Paper](https://arxiv.org/pdf/2601.20742)
-
-**Video Compression with Hierarchical Temporal Neural Representation.** [Paper](https://arxiv.org/pdf/2601.17743)
-
-**Towards Efficient Low-rate Image Compression with Frequency-aware Diffusion Prior Refinement.** [Paper](https://arxiv.org/pdf/2601.10373)
-
-**Hierarchical Vector-Quantized Latents for Perceptual Low-Resolution Video Compression.** [Paper](https://arxiv.org/pdf/2512.24547)
-
-**Progressive Learned Image Compression for Machine Perception.** [Paper](https://arxiv.org/pdf/2512.20070)
-
-**SLIM: Semantic-based Low-bitrate Image compression for Machines by leveraging diffusion.** [Paper](https://arxiv.org/pdf/2512.18200)
-
-**L-STEC: Learned Video Compression with Long-term Spatio-Temporal Enhanced Context.** [Paper](https://arxiv.org/pdf/2512.12790) Siwei Ma
-
-**Content Adaptive based Motion Alignment Framework for Learned Video Compression.** [Paper](https://arxiv.org/pdf/2512.12936) Siwei Ma
-
-**TreeNet: A Light Weight Model for Low Bitrate Image Compression.** [Paper](https://arxiv.org/pdf/2512.16743)
-
-**VLIC: Vision-Language Models As Perceptual Judges for Human-Aligned Image Compression.** [Paper](https://arxiv.org/pdf/2512.15701)
-
-**Embodied Image Compression.** [Paper](https://arxiv.org/pdf/2512.11612)
-
-**Error-Propagation-Free Learned Video Compression With Dual-Domain Progressive Temporal Alignment.** [Paper](https://arxiv.org/pdf/2512.10450)
-
-**HVQ-CGIC: Enabling Hyperprior Entropy Modeling for VQ-Based Controllable Generative Image Compression.** [Paper](https://arxiv.org/pdf/2512.07192)
-
-**Beyond Hallucinations: A Multimodal-Guided Task-Aware Generative Image Compression for Ultra-Low Bitrate.** [Paper](https://arxiv.org/pdf/2512.06344)
-
-**UniComp: Rethinking Video Compression Through Informational Uniqueness.** [Paper](https://arxiv.org/pdf/2512.03575)
-
-**Ultra-lightweight Neural Video Representation Compression.** [Paper](https://arxiv.org/pdf/2512.04019)
-
-**Joint Multi-scale Gated Transformer and Prior-guided Convolutional Network for Learned Image Compression.** [Paper](https://arxiv.org/pdf/2512.00744)
-
-**EV-NVC: Efficient Variable bitrate Neural Video Compression.** [Paper](https://arxiv.org/pdf/2511.01590)
-
-**2025.11.26 Hybrid Convolution and Frequency State Space Network for Image Compression.** [Paper](https://arxiv.org/pdf/2511.20151)
-
-**2025.11.25 CoD: A Diffusion Foundation Model for Image Compression.** [Paper](https://arxiv.org/pdf/2511.18706)
-
-**A Multi-Stage Optimization Framework for Deploying Learned Image Compression on FPGAs.** [Paper](https://arxiv.org/pdf/2511.17135)
-
-**Generative Coding: Promise and Challenges.** [Paper](https://www.nowpublishers.com/article/Details/SIP-20250056)
-
-**2025.11.17 Rethinking Autoregressive Models for Lossless Image Compression via Hierarchical Parallelism and Progressive Adaptation.** [Paper](https://arxiv.org/pdf/2511.10991)
-
-**2025.11.13 ROI-based Deep Image Compression with Implicit Bit Allocation.** [Paper](https://arxiv.org/pdf/2511.08918)
-
-**2025.11.13 Machines Serve Human: A Novel Variable Human-machine Collaborative Compression Framework.** [Paper](https://arxiv.org/pdf/2511.08915)
-
-**2025.11.13 Neural B-frame Video Compression with Bi-directional Reference Harmonization.** [Paper](https://arxiv.org/pdf/2511.08938)
-
-**2025.11.13 GRACE: Designing Generative Face Video Codec via Agile Hardware-Centric Workflow.** [Paper](https://arxiv.org/pdf/2511.09272)
-
-**2025.11.12 From Noise to Latent: Generating Gaussian Latents for INR-Based Image Compression.** [Paper](https://arxiv.org/pdf/2511.08009)
-
-**Variable-rate learned image compression with integer-arithmetic-only inference.** [Paper](https://www.sciencedirect.com/science/article/abs/pii/S1047320325002482)
-
-**2025.11.11 Turbo-DDCM: Fast and Flexible Zero-Shot Diffusion-Based Image Compression.** [Paper](https://arxiv.org/pdf/2511.06424)
-
-**2025.11.11 Training-Free Adaptive Quantization for Variable Rate Image Coding for Machines.** [Paper](https://arxiv.org/pdf/2511.05836)
-
-**2025.11.11 GFix: Perceptually Enhanced Gaussian Splatting Video Compression.** [Paper](https://arxiv.org/abs/2511.06953)
-
-**2025.11.04 T-MLA: A Targeted Multiscale Log--Exponential Attack Framework for Neural Image Compression.** [Paper](https://arxiv.org/pdf/2511.01079)
-
-**2025.11.03 Generative Semantic Coding for Ultra-Low Bitrate Visual Communication and Analysis.** [Paper](https://arxiv.org/pdf/2510.27324)
-
-**2025.10.22 Leveraging Learned Image Prior for 3D Gaussian Compression.** [Paper](https://arxiv.org/pdf/2510.14705)
-
-**2025.10.20 SANR: Scene-Aware Neural Representation for Light Field Image Compression with Rate-Distortion Optimization.** [Paper](https://arxiv.org/pdf/2510.15775)
-
-**2025.10.18 MH-LVC: Multi-Hypothesis Temporal Prediction for Learned Conditional Residual Video Coding.** [Paper](https://arxiv.org/pdf/2510.12479)
-
-**2025.10.14 JND-Guided Light-Weight Neural Pre-Filter for Perceptual Image Coding.** [Paper](https://arxiv.org/pdf/2510.10648)
-
-**2025.09.25 SEEC: Segmentation-Assisted Multi-Entropy Models for Learned Lossless Image Compression.** [Paper](https://arxiv.org/pdf/2509.07704?)
-
-**2025.09.25 PORT: Perception-Oriented Image Compression with Real-Time Decoding.** [Paper](https://openreview.net/pdf?id=TcDugmwn6r)
-
-**2025.09.23 ISCS: Parameter-Guided Channel Ordering and Grouping for Learned Image Compression.** [Paper](https://arxiv.org/pdf/2509.16853)
-
-**2025.09.18 Generative Image Coding with Diffusion Prior.** [Paper](https://arxiv.org/pdf/2509.13768)
-
-**2025.09.15 Efficient Learned Image Compression Through Knowledge Distillation.** [Paper](https://arxiv.org/pdf/2509.10366)
-
-**2025.09.12 In-Loop Filtering Using Learned Look-Up Tables for Video Coding.** [Paper](https://arxiv.org/pdf/2509.09494)
-
-**2025.09.09 Histogram Driven Amplitude Embedding for Qubit Efficient Quantum Image Compression.** [Paper](https://arxiv.org/pdf/2509.04849)
-
-**2025.09.05 LMVC: An End-to-End Learned Multiview Video Coding Framework.** [Paper](https://arxiv.org/pdf/2509.03922)
-
-**2025.08.13 Adaptive High-Frequency Preprocessing for Video Coding.** [Paper](https://arxiv.org/abs/2508.08849)
-
-**2025.08.13 Scaling Learned Image Compression Models up to 1 Billion.** [Paper](https://arxiv.org/abs/2508.09075)
-
-**Conditional Residual Coding with Explicit-Implicit Temporal Buffering for Learned Video Compression.** [Paper](https://arxiv.org/pdf/2508.01818)
-
-**HyTIP: Hybrid Temporal Information Propagation for Masked Conditional Residual Video Coding.** [Paper](https://arxiv.org/pdf/2508.02072)
-
-**Multimodal-Guided Perceptual Image Compression via Joint Text and Audio.** [Paper](https://link.springer.com/chapter/10.1007/978-981-96-9869-1_15)
-
-**2025.08.06 HCF: Hierarchical Cascade Framework for Distributed Multi-Stage Image Compression.** [Paper](https://arxiv.org/pdf/2508.02051)
-
-**2025.08.01 JPEG Processing Neural Operator for Backward-Compatible Coding.** [Paper](https://arxiv.org/pdf/2507.23521)
-
-**2025.07.22 Conditional Video Generation for High-Efficiency Video Compression.** [Paper](https://arxiv.org/pdf/2507.15269)
-
-**Customizable ROI-Based Deep Image Compression.** [Paper](https://arxiv.org/pdf/2507.00373)
-
-**LLaVA-Scissor: Token Compression with Semantic Connected Components for Video LLMs.** [Paper](https://arxiv.org/pdf/2506.21862)
-
-**End-to-End RGB-IR Joint Image Compression With Channel-wise Cross-modality Entropy Model.** [Paper](https://arxiv.org/pdf/2506.21851)
-
-**Video Compression for Spatiotemporal Earth System Data.** [Paper](https://arxiv.org/pdf/2506.19656)
-
-**Fast Training-free Perceptual Image Compression.** [Paper](https://arxiv.org/pdf/2506.16102)
-
-**Gumbel-max List Sampling for Distribution Coupling with Multiple Samples.** [Paper](https://arxiv.org/pdf/2506.05632)
-
-**2025.06.03. Fourier-Modulated Implicit Neural Representation for Multispectral Satellite Image Compression.** [Paper](https://arxiv.org/pdf/2506.01234)
-
-**2025.05.30. Towards Facial Image Compression with Consistency Preserving Diffusion Prior.** [Paper](https://arxiv.org/pdf/2505.05870?)
-
-**2025.05.30. High Quality Underwater Image Compression with Adaptive Correction and Codebook-based Augmentation.** [Paper](https://arxiv.org/pdf/2505.09986?)
-
-**2025.05.30. 3DGS Compression with Sparsity-guided Hierarchical Transform Coding.** [Paper](https://arxiv.org/pdf/2505.22908)
-
-**2025.05.28. Generative Image Compression by Estimating Gradients of the Rate-variable Feature Distribution.** [Paper](https://arxiv.org/pdf/2505.20984); [Code](https://github.com/LabShuHangGU/VCD)
-
-**2025.05.23. DualComp: End-to-End Learning of a Unified Dual-Modality Lossless Compressor.** [Paper](https://arxiv.org/pdf/2505.16256)
-
-**2025.05.16. High Quality Underwater Image Compression with Adaptive Correction and Codebook-based Augmentation.** [Paper](https://arxiv.org/pdf/2505.09986)
-
-**2025.05.15. Neural Video Compression using 2D Gaussian Splatting.** [Paper](https://arxiv.org/pdf/2505.09324)
-
-**2025.05.15. BiECVC: Gated Diversification of Bidirectional Contexts for Learned Video Compression.** [Paper](https://arxiv.org/pdf/2505.09193)
-
-**2025.04.08. 3DM-WeConvene: Learned Image Compression with 3D Multi-Level Wavelet-Domain Convolution and Entropy Model.** [Paper](https://arxiv.org/pdf/2504.04658)
-
-**2025.04.04. Image Coding for Machines via Feature-Preserving Rate-Distortion Optimization.** [Paper](https://arxiv.org/pdf/2504.02216)
-
-**2025.03.30. Embedding Compression Distortion in Video Coding for Machines.** [Paper](https://arxiv.org/pdf/2503.21469)
-
-**2025.03.26. GIViC: Generative Implicit Video Compression.** [Paper](https://arxiv.org/pdf/2503.19604)
-
-**2025.03.22. Leveraging Diffusion Knowledge for Generative Image Compression with Fractal Frequency-Aware Band Learning.** [Paper](https://arxiv.org/pdf/2503.11321)
-
-**PerCoV2: Improved Ultra-Low Bit-Rate Perceptual Image Compression with Implicit Hierarchical Masked Image Modeling.** [Paper](https://arxiv.org/pdf/2503.09368); [Code](https://github.com/Nikolai10/PerCoV2)
-
-**Residual Learning and Filtering Networks for End-to-End Lossless Video Compression.** [Paper](https://arxiv.org/pdf/2503.08819)
-
-**Integrating Adaptive Sampling for Optimal Learned Video Compression.** [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10888457)
-
-**FEDS: Feature and Entropy-Based Distillation Strategy for Efficient Learned Image Compression.** [Paper](https://arxiv.org/pdf/2503.06399)
-
-**UAR-NVC: A Unified AutoRegressive Framework for Memory-Efficient Neural Video Compression.** [Paper](https://arxiv.org/abs/2503.02733)
-
-**Pleno-Generation: A Scalable Generative Face Video Compression Framework with Bandwidth Intelligence.** [Paper](https://arxiv.org/pdf/2502.17085)
-
-**Continuous Patch Stitching for Block-wise Image Compression.** [Paper](https://arxiv.org/pdf/2502.16795)
-
-**S2CFormer: Reorienting Learned Image Compression from Spatial Interaction to Channel Aggregation.** [Paper](https://arxiv.org/pdf/2502.00700)
-
-**HDCompression: Hybrid-Diffusion Image Compression for Ultra-Low Bitrates.** [Paper](https://arxiv.org/pdf/2502.07160)
-
-**CANeRV: Content Adaptive Neural Representation for Video Compression.** [Paper](https://arxiv.org/pdf/2502.06181)
-
-**CMamba: Learned Image Compression with State Space Models.** [Paper](https://arxiv.org/pdf/2502.04988)
-
-**RL-RC-DoT: A Block-level RL agent for Task-Aware Video Compression.** [Paper](https://arxiv.org/pdf/2501.12216)
-
-**GaussianVideo: Efficient Video Representation Through 2D Gaussian Splatting.** [Paper](https://arxiv.org/pdf/2501.12060)
-
-**Locality-aware Gaussian Compression for Fast and High-quality Rendering.** [Paper](https://arxiv.org/pdf/2501.05757)
-
-**CoordFlow: Coordinate Flow for Pixel-wise Neural Video Representation.**[Paper](https://arxiv.org/pdf/2501.00975); [Code](https://github.com/Slivliver/CoordFlow)
-
-**Conditional Hallucinations for Image Compression.** [Paper](https://arxiv.org/abs/2410.19493)
-
-**Deeply-Conditioned Image Compression via Self-Generated Priors.** [Paper](https://arxiv.org/pdf/2510.24437)
-
-**Resi-VidTok: An Efficient and Decomposed Progressive Tokenization Framework for Ultra-Low-Rate and Lightweight Video Transmission.** [Paper](https://arxiv.org/pdf/2510.25002)
 <a name='WACV2026'></a>
 ## WACV 2026
 **Single-step Diffusion for Image Compression at Ultra-Low Bitrates.** [Paper](https://openaccess.thecvf.com/content/WACV2026/papers/Park_Single-step_Diffusion_for_Image_Compression_at_Ultra-Low_Bitrates_WACV_2026_paper.pdf)
@@ -361,6 +118,14 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 
 <a name='AAAI2026'></a>
 ## AAAI 2026
+**The Last Byte: Learning Just Enough for Machine-Oriented Image Compression.** [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/38635)
+
+**Reinforced Rate Control for Neural Video Compression via Inter-Frame Rate–Distortion Awareness.** [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/38480)
+
+**Transform-Free Feature Coding via Entropy-Constrained Vector Quantization.** [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/38474)
+
+**HCF: Hierarchical Cascade Framework for Distributed Multi-Stage Image Compression.** [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/38467)
+
 **T-GVC: Trajectory-Guided Generative Video Coding at Ultra-Low Bitrates.** [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/38014)
 
 **SmartSplat: Feature-Smart Gaussians for Scalable Compression of Ultra-High-Resolution Images.** [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/37558)
@@ -377,7 +142,7 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 
 **Steering One-Step Diffusion Model with Fidelity-Rich Decoder for Fast Image Compression.** [Paper](https://arxiv.org/pdf/2508.04979); [Supplementary File](https://zheng-chen.cn/SODEC/static/pdfs/SODEC_supplementary.pdf); [Code](https://github.com/zhengchen1999/SODEC)
 
-**DynaQuant: Dynamic Mixed-Precision Quantization for Learned Image Compression.** [Paper](https://arxiv.org/pdf/2511.07903); [Code](https://github.com/baoyu2020/DynaQuant)
+**DynaQuant: Dynamic Mixed-Precision Quantization for Learned Image Compression.** [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/38464); [Code](https://github.com/baoyu2020/DynaQuant)
 
 **MRT: Learning Compact Representations with Mixed RWKV-Transformer for Extreme Image Compression.** [Paper](https://arxiv.org/pdf/2511.06717); [Code](https://github.com/luke1453lh/MRT)
 
