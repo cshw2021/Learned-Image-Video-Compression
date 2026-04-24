@@ -369,7 +369,7 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 
 **Codebook-Empowered Analysis-Friendly Extreme Underwater Image Compression.**
 
-**Correcting Quantization-Induced Gradient Mismatch in Neural Image Compression.**
+**Correcting Quantization-Induced Gradient Mismatch in Neural Image Compression.** [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/37782)
 
 **Neural Video Compression with Reference Hierarchy.**
 
