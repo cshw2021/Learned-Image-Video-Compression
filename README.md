@@ -363,6 +363,8 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 
 <a name='AAAI2026'></a>
 ## AAAI 2026
+**SmartSplat: Feature-Smart Gaussians for Scalable Compression of Ultra-High-Resolution Images.** [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/37558)
+
 **Towards Efficient Low-rate Image Compression with Frequency-aware Diffusion Prior Refinement.** [Paper](https://arxiv.org/pdf/2601.10373);[Code](https://github.com/Darc8-sun/DiffCR)
 
 **Codebook-Empowered Analysis-Friendly Extreme Underwater Image Compression.**
