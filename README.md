@@ -118,6 +118,8 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 
 <a name='AAAI2026'></a>
 ## AAAI 2026
+**SACodec: Asymmetric Quantization with Semantic Anchoring for Low-Bitrate High-Fidelity Neural Speech Codecs.** [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/40308)
+
 **The Last Byte: Learning Just Enough for Machine-Oriented Image Compression.** [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/38635)
 
 **Reinforced Rate Control for Neural Video Compression via Inter-Frame Rate–Distortion Awareness.** [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/38480)
