@@ -24,7 +24,13 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 
 <a name='other'></a>
 ## Other
-**Semantic Token-Guided Generative Latent Coding for Ultra-Low Bitrate Image Compression. ICASSP** [Paper](https://ieeexplore.ieee.org/abstract/document/11461744) 
+**Fc-Former: Efficient Feature Coding For Machines Via A Hybrid Cnn-Transformer Architecture. ICASSP 2026.** [Paper](https://ieeexplore.ieee.org/abstract/document/11461422)
+
+**Fusion of Transformer and CNN Attention Networks for Learned Image Compression. ICASSP 2026.** [Paper](https://ieeexplore.ieee.org/abstract/document/11463057)
+
+**Content Adaptive Switchable Hyperprior Networks for Learned Image Compression. ICASSP 2026.** [Paper](https://ieeexplore.ieee.org/abstract/document/11461986)
+
+**Semantic Token-Guided Generative Latent Coding for Ultra-Low Bitrate Image Compression. ICASSP 2026.** [Paper](https://ieeexplore.ieee.org/abstract/document/11461744) 
 
 **A Noise Constrained Diffusion (NC-Diffusion) Framework for High Fidelity Image Compression. IEEE TCSVT.** [Paper](https://arxiv.org/pdf/2604.06568)
 
