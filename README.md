@@ -24,6 +24,8 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 
 <a name='other'></a>
 ## Other
+**Semantic Token-Guided Generative Latent Coding for Ultra-Low Bitrate Image Compression. ICASSP** [Paper](https://ieeexplore.ieee.org/abstract/document/11461744) 
+
 **A Noise Constrained Diffusion (NC-Diffusion) Framework for High Fidelity Image Compression. IEEE TCSVT.** [Paper](https://arxiv.org/pdf/2604.06568)
 
 **End-to-End Image Compression with Segmentation Guided Dual Coding for Wind Turbines. IEEE TNNLS.**  [Paper](https://arxiv.org/pdf/2603.29927)
