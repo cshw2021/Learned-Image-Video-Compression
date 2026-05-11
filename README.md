@@ -18,7 +18,7 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 
 [ICLR 2023](#ICLR2023), [ICML 2023](#ICML2023), [NeurIPS 2023](#NeurIPS2023), [AAAI 2023](#AAAI2023), [ICCV 2023](#ICCV2023), [CVPR 2023](#CVPR2023), [ACMMM 2023](#ACMMM2023),
  
-[IEEE TPAMI](#TPAMI), [IEEE TCSVT](#TCSVT), [IEEE TIP](#TIP), [IEEE TMM](#TMM), [IF](#IF)
+[IEEE TCSVT](#TCSVT), [IEEE TIP](#TIP), [IEEE TMM](#TMM), [IF](#IF)
 
 [Other](#other)
 
@@ -626,16 +626,6 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 **Toward Scalable Image Feature Compression: A Content-Adaptive and Diffusion-Based Approach.** [Paper](https://dl.acm.org/doi/pdf/10.1145/3581783.3611851)
 
 **MLIC: Multi-Reference Entropy Model for Learned Image Compression.** [Paper](https://dl.acm.org/doi/pdf/10.1145/3581783.3611694); [Code](https://github.com/JiangWeibeta/MLIC)
-
-<a name="TPAMI"></a>
-## IEEE TPAMI
-**Robust and Transferable Backdoor Attacks Against Deep Image Compression With Selective Frequency Prior. 2024.** [Paper](https://arxiv.org/pdf/2412.01646)
-
-**Deep Lossy Plus Residual Coding for Lossless and Near-lossless Image Compression. 2024.** [Paper](https://ieeexplore.ieee.org/document/10378746)
-
-**I2C: Invertible Continuous Codec for High-Fidelity Variable-Rate Image Compression. 2024.** [Paper](https://ieeexplore.ieee.org/document/10411123)
-
-**Insights from Generative Modeling for Neural Video Compression. 2023.** [Paper](https://arxiv.org/pdf/2107.13136.pdf)
 
 <a name="TCSVT"></a>
 ## IEEE TCSVT
