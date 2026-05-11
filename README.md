@@ -24,6 +24,8 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 
 <a name='other'></a>
 ## Other
+**Faithful and Realistic Image Compression At Extreme-Low Bitrate Via Pretrained Discrete Priors. IEEE Signal Processing Letters 2026.** [Paper](https://ieeexplore.ieee.org/abstract/document/11503399)
+
 **Implicit Degradation Representation and Adaptive Dictionary Learning for Underwater Image Compression. ICASSP 2026.** [Paper](https://ieeexplore.ieee.org/abstract/document/11460669)
 
 **Fc-Former: Efficient Feature Coding For Machines Via A Hybrid Cnn-Transformer Architecture. ICASSP 2026.** [Paper](https://ieeexplore.ieee.org/abstract/document/11461422)
