@@ -20,7 +20,11 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
  
 [IEEE TCSVT](#TCSVT), [IEEE TIP](#TIP), [IEEE TMM](#TMM), [IF](#IF)
 
-[Other](#other)
+[Other](#other), [Arxiv](#arxiv)
+
+<a name='arxiv'></a>
+## Arxiv
+**Dual-Latent Collaborative Decoding for Fidelity–Perception Balanced Image Compression.** [Paper](https://arxiv.org/pdf/2605.14391) Siwei Ma
 
 <a name='other'></a>
 ## Other
