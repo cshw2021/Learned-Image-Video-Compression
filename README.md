@@ -26,8 +26,22 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 ## Arxiv
 **Dual-Latent Collaborative Decoding for Fidelity–Perception Balanced Image Compression.** [Paper](https://arxiv.org/pdf/2605.14391) Siwei Ma
 
+**Neural Video Compression with Domain Transfer.** [Paper](https://arxiv.org/pdf/2605.13476)
+
 <a name='other'></a>
 ## Other
+**Efficient Feedforward Human-Centric Video Compression via 3D Gaussian Generation. DCC 2026.** [Paper](https://ieeexplore.ieee.org/abstract/document/11510430)
+
+**Lightweight CNN-Based In-Loop Filtering for Video Coding with Hardware-Aware Optimizations. DCC 2026.** [Paper](https://ieeexplore.ieee.org/abstract/document/11510412)
+
+**An Information-Guided Learned Framework for Free-View Image Coding. DCC 2026.** [Paper](https://ieeexplore.ieee.org/abstract/document/11510417)
+
+**Virtual Reference Frame Synthesis for Video Coding via Local–Global Spatiotemporal Context Modeling. DCC 2026.** [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11510447)
+
+**Rethink Feature Coding for Machine Under Ultra-Low Bitrate: Framework and Optimization. DCC 2026.** [Paper](https://ieeexplore.ieee.org/abstract/document/11510446)
+
+**Prompt-Optimization with Contextual Mining for Cross-Modal Image Compression. DCC 2026.** [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11510393)
+
 **TVRN: Invertible Neural Networks for Compression-Aware Temporal Video Rescaling. IEEE TIP 2026.** [Paper](https://arxiv.org/pdf/2605.15579)
 
 **NVC-1B: Scaling up Neural Video Coding Models. IEEE TPAMI 2026.** [Paper](https://ieeexplore.ieee.org/abstract/document/11505036)
