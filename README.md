@@ -18,7 +18,7 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 
 [ICLR 2023](#ICLR2023), [ICML 2023](#ICML2023), [NeurIPS 2023](#NeurIPS2023), [AAAI 2023](#AAAI2023), [ICCV 2023](#ICCV2023), [CVPR 2023](#CVPR2023), [ACMMM 2023](#ACMMM2023),
  
-[IEEE TCSVT](#TCSVT), [IEEE TIP](#TIP), [IEEE TMM](#TMM), [IF](#IF)
+[IEEE TCSVT](#TCSVT), [IEEE TMM](#TMM), [IF](#IF)
 
 [Other](#other), [Arxiv](#arxiv)
 
@@ -28,6 +28,8 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 
 <a name='other'></a>
 ## Other
+**TVRN: Invertible Neural Networks for Compression-Aware Temporal Video Rescaling. IEEE TIP 2026.** [Paper](https://arxiv.org/pdf/2605.15579)
+
 **NVC-1B: Scaling up Neural Video Coding Models. IEEE TPAMI 2026.** [Paper](https://ieeexplore.ieee.org/abstract/document/11505036)
 
 **Faithful and Realistic Image Compression At Extreme-Low Bitrate Via Pretrained Discrete Priors. IEEE Signal Processing Letters 2026.** [Paper](https://ieeexplore.ieee.org/abstract/document/11503399)
@@ -93,6 +95,26 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 **L-LBVC: Long-Term Motion Estimation and Prediction for Learned Bi-Directional Video Compression. DCC 2025** [Paper](https://arxiv.org/pdf/2504.02560)
 
 **Extreme Image Compression Using Fine-tuned VQGANs. DCC2024.** [Paper](https://ieeexplore.ieee.org/document/10533792); [Code](https://github.com/CUC-MIPG/VQGAN-Compression)
+
+**Saliency Segmentation Oriented Deep Image Compression With Novel Bit Allocation. IEEE TIP 2025.** [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10770160)
+
+**Exploring Multimodal Knowledge for Image Compression via Large Foundation Models. IEEE TIP 2025.** [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11164569)
+
+**MISC: Ultra-Low Bitrate Image Semantic Compression Driven by Large Multimodal Model. IEEE TIP 2025.**[Paper](https://ieeexplore.ieee.org/abstract/document/10816592?casa_token=2xA-RPc6xpsAAAAA:dI9bmo3pCy7g_zPVRA_0Ww5XM0GkXE-tZB617OdkIr9191zOK9e3qQKcm_xYO52rX3lmHTbl); [Code](https://github.com/lcysyzxdxc/MISC)
+
+**Linearly transformed color guide for low-bitrate diffusion based image compression.  IEEE TIP 2024.** [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10818510)
+
+**Exploiting Latent Properties to Optimize Neural Codecs. IEEE TIP.** [Paper](https://arxiv.org/pdf/2501.01231)
+
+**Exploring Long- and Short-Range Temporal Information for Learned Video Compression. IEEE TIP 2024.** [Paper](https://ieeexplore.ieee.org/abstract/document/10388053)
+
+**Learned Video Compression With Efficient Temporal Context Learning. IEEE TIP 2023.** [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10129217) 
+
+**Scalable Face Image Coding via StyleGAN Prior: Toward Compression for Human-Machine Collaborative Vision. IEEE TIP 2023.** [Paper](https://arxiv.org/pdf/2312.15622.pdf)
+
+**Learned Image Compression With Gaussian-Laplacian-Logistic Mixture Model and Concatenated Residual Modules. IEEE TIP 2023.** [Paper](https://ieeexplore.ieee.org/abstract/document/10091784)
+
+**Learning Cross-Scale Weighted Prediction for Efficient Neural Video Compression. IEEE TIP 2023.** [Paper](https://ieeexplore.ieee.org/abstract/document/10159648)
 
 <a name='WACV2026'></a>
 ## WACV 2026
@@ -660,28 +682,6 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 **Extremely Low Bit-rate Image Compression via Invertible Image Generation. 2023.** [Paper](https://ieeexplore.ieee.org/abstract/document/10256132)
 
 **DMVC: Decomposed Motion Modeling for Learned Video Compression. 2023.** [Paper](https://ieeexplore.ieee.org/abstract/document/10003249)
-
-<a name="TIP"></a>
-## IEEE TIP
-**Saliency Segmentation Oriented Deep Image Compression With Novel Bit Allocation. 2025** [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10770160)
-
-**Exploring Multimodal Knowledge for Image Compression via Large Foundation Models. 2025** [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11164569)
-
-**MISC: Ultra-Low Bitrate Image Semantic Compression Driven by Large Multimodal Model. 2025.**[Paper](https://ieeexplore.ieee.org/abstract/document/10816592?casa_token=2xA-RPc6xpsAAAAA:dI9bmo3pCy7g_zPVRA_0Ww5XM0GkXE-tZB617OdkIr9191zOK9e3qQKcm_xYO52rX3lmHTbl); [Code](https://github.com/lcysyzxdxc/MISC)
-
-**Linearly transformed color guide for low-bitrate diffusion based image compression. 2024.** [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10818510)
-
-**Exploiting Latent Properties to Optimize Neural Codecs.** [Paper](https://arxiv.org/pdf/2501.01231)
-
-**Exploring Long- and Short-Range Temporal Information for Learned Video Compression. 2024.** [Paper](https://ieeexplore.ieee.org/abstract/document/10388053)
-
-**Learned Video Compression With Efficient Temporal Context Learning. 2023** [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10129217) 
-
-**Scalable Face Image Coding via StyleGAN Prior: Toward Compression for Human-Machine Collaborative Vision. 2023.** [Paper](https://arxiv.org/pdf/2312.15622.pdf)
-
-**Learned Image Compression With Gaussian-Laplacian-Logistic Mixture Model and Concatenated Residual Modules. 2023.** [Paper](https://ieeexplore.ieee.org/abstract/document/10091784)
-
-**Learning Cross-Scale Weighted Prediction for Efficient Neural Video Compression. 2023.** [Paper](https://ieeexplore.ieee.org/abstract/document/10159648)
 
 <a name="TMM"></a>
 ## IEEE TMM
