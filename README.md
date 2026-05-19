@@ -24,6 +24,10 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 
 <a name='arxiv'></a>
 ## Arxiv
+**Inter-LPCM: Learning-based Inter-Frame Predictive Coding for LiDAR Point Cloud Compression.** [Paper](https://arxiv.org/abs/2605.18006)
+
+**Adaptive Fused Prior Transfer for Controllable Generative Image Compression.** [Paper](https://arxiv.org/pdf/2605.16817)
+
 **Dual-Latent Collaborative Decoding for Fidelity–Perception Balanced Image Compression.** [Paper](https://arxiv.org/pdf/2605.14391) Siwei Ma
 
 **Neural Video Compression with Domain Transfer.** [Paper](https://arxiv.org/pdf/2605.13476)
