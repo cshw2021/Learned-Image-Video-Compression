@@ -152,7 +152,7 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 
 **Ultra-Low Bitrate Perceptual Image Compression with Shallow Encoder.**  [Paper](https://arxiv.org/pdf/2512.12229); [Code](https://github.com/LuizScarlet/AEIC)
 
-**Generative Neural Video Compression via Video Diffusion Prior.** [Paper](https://arxiv.org/pdf/2512.05016)
+**Generative Neural Video Compression via Video Diffusion Prior.** [Paper](https://arxiv.org/pdf/2512.05016); [Code](https://github.com/CUC-MIPG/GNVC-VD)
 
 **UniComp: Rethinking Video Compression Through Informational Uniqueness.** [Paper](https://arxiv.org/abs/2512.03575); [Code](https://github.com/TimeMarker-LLM/UniComp)
 
