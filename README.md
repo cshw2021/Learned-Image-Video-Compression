@@ -144,6 +144,8 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 
 <a name='CVPR2026'></a>
 ## CVPR 2026
+**Distributed Image Compression with Multimodal Side Information at Extremely Low Bitrates.** [Paper](https://arxiv.org/pdf/2605.22061) 
+
 **Differentiable Vector Quantization for Rate-Distortion Optimization of Generative Image Compression.** [Paper](https://arxiv.org/pdf/2604.10546); [Code](https://github.com/CVL-UESTC/RDVQ) Shuhang Gu
 
 **Adaptive Learned Image Compression with Graph Neural Networks.** [Paper](https://arxiv.org/pdf/2603.25316);  [Code](https://github.com/UnoC-727/GLIC)
