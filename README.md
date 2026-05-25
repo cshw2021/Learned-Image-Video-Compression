@@ -10,7 +10,7 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 - **2025-11-04:** Our paper [ICISP](https://github.com/cshw2021/ICISP) has been accepted by **Neural Networks**. Our previous work [VQIR](https://github.com/cshw2021/EIR), [DiffEIC](https://github.com/cshw2021/DiffEIC) and [RDEIC](https://github.com/cshw2021/RDEIC) have been accepted by **IEEE TCSVT**.
 
 ## Overview
-[AAAI 2026](#AAAI2026), [ICLR 2026](#ICLR2026), [CVPR 2026](#CVPR2026), [WACV 2026](#WACV2026),
+[AAAI 2026](#AAAI2026), [ICLR 2026](#ICLR2026), [CVPR 2026](#CVPR2026), [WACV 2026](#WACV2026), [ICML 2026](#ICML2026),
 
 [AAAI 2025](#AAAI2025), [ICLR 2025](#ICLR2025), [CVPR 2025](#CVPR2025), [ICML 2025](#ICML2025), [ACMMM 2025](#ACMMM2025), [ICCV 2025](#ICCV2025), [NeurIPS 2025](#NeurIPS2025), [IJCAI 2025](#IJCAI2025)
 
@@ -133,6 +133,10 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 **Learned Image Compression With Gaussian-Laplacian-Logistic Mixture Model and Concatenated Residual Modules. IEEE TIP 2023.** [Paper](https://ieeexplore.ieee.org/abstract/document/10091784)
 
 **Learning Cross-Scale Weighted Prediction for Efficient Neural Video Compression. IEEE TIP 2023.** [Paper](https://ieeexplore.ieee.org/abstract/document/10159648)
+
+<a name='ICML2026'></a>
+## ICML 2026
+**Efficient Learned Image Compression without Entropy Coding.** [Paper](https://arxiv.org/pdf/2605.23323)
 
 <a name='WACV2026'></a>
 ## WACV 2026
