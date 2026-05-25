@@ -136,7 +136,7 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 
 <a name='ICML2026'></a>
 ## ICML 2026
-**Efficient Learned Image Compression without Entropy Coding.** [Paper](https://arxiv.org/pdf/2605.23323)
+**Efficient Learned Image Compression without Entropy Coding.** [Paper](https://arxiv.org/pdf/2605.23323); [Code](https://github.com/SevenCTHU/EF-LIC)
 
 <a name='WACV2026'></a>
 ## WACV 2026
