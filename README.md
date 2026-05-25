@@ -144,7 +144,7 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 
 **How to Design and Train Your Implicit Neural Representation for Video Compression.** [Paper](https://openaccess.thecvf.com/content/WACV2026/papers/Gwilliam_How_to_Design_and_Train_Your_Implicit_Neural_Representation_for_WACV_2026_paper.pdf)
 
-**Rethinking Latent Variable in Learned Image Compression. WACV 2026.** [Paper](https://openaccess.thecvf.com/content/WACV2026/papers/Yi_Rethinking_Latent_Variable_in_Learned_Image_Compression_WACV_2026_paper.pdf)
+**Rethinking Latent Variable in Learned Image Compression.** [Paper](https://openaccess.thecvf.com/content/WACV2026/papers/Yi_Rethinking_Latent_Variable_in_Learned_Image_Compression_WACV_2026_paper.pdf)
 
 <a name='CVPR2026'></a>
 ## CVPR 2026
