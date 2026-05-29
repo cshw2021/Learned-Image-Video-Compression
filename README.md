@@ -24,6 +24,8 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 
 <a name='arxiv'></a>
 ## Arxiv
+**BitC-3DGS: High-Capacity 3D Gaussian Splatting Watermarking via Bit Compression.** [Paper](https://arxiv.org/pdf/2605.29583)
+
 **Channel-wise Vector Quantization.** [Paper](https://arxiv.org/pdf/2605.26089)
 
 **Inter-LPCM: Learning-based Inter-Frame Predictive Coding for LiDAR Point Cloud Compression.** [Paper](https://arxiv.org/abs/2605.18006)
