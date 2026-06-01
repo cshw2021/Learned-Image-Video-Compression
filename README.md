@@ -152,11 +152,35 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 
 <a name='CVPR2026'></a>
 ## CVPR 2026
+**Adaptive Learned Image Compression with Graph Neural Networks.** [Paper](https://arxiv.org/pdf/2603.25316);  [Code](https://github.com/UnoC-727/GLIC)
+
+**CoD: A Diffusion Foundation Model for Image Compression.** [Paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Jia_CoD_A_Diffusion_Foundation_Model_for_Image_Compression_CVPR_2026_paper.pdf)
+
+**Block-based Learned Image Compression without Blocking Artifacts.** [Paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Kim_Block-based_Learned_Image_Compression_without_Blocking_Artifacts_CVPR_2026_paper.pdf)
+
+**MambaSIC: Mamba-based Stereo Image Compression with Bi-directional Multi-reference Entropy Model.** [Paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Qin_MambaSIC_Mamba-based_Stereo_Image_Compression_with_Bi-directional_Multi-reference_Entropy_Model_CVPR_2026_paper.pdf)
+
+**ELiC: Efficient LiDAR Geometry Compression via Cross-Bit-depth Feature Propagation and Bag-of-Encoders.** [Paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Kim_ELiC_Efficient_LiDAR_Geometry_Compression_via_Cross-Bit-depth_Feature_Propagation_and_CVPR_2026_paper.pdf)
+
+**Ultra-Fast Neural Video Compression.** [Paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Li_Ultra-Fast_Neural_Video_Compression_CVPR_2026_paper.pdf)
+
+**What Matters in Practical Learned Image Compression.** [Paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Tatwawadi_What_Matters_in_Practical_Learned_Image_Compression_CVPR_2026_paper.pdf)
+
+**FreqSIC: Frequency-aware Stereo Image Compression with Bi-directional Checkerboard Context Model.** [Paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Qin_FreqSIC_Frequency-aware_Stereo_Image_Compression_with_Bi-directional_Checkerboard_Context_Model_CVPR_2026_paper.pdf)
+
+**Real-Time Neural Video Compression with Unified Intra and Inter Coding.** [Paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Xiang_Real-Time_Neural_Video_Compression_with_Unified_Intra_and_Inter_Coding_CVPR_2026_paper.pdf)
+
+**VLIC: Vision-Language Models As Perceptual Judges for Human-Aligned Image Compression.** [Paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Sargent_VLIC_Vision-Language_Models_As_Perceptual_Judges_for_Human-Aligned_Image_Compression_CVPR_2026_paper.pdf)
+
+**Learned Image Compression via Sparse Attention and Adaptive Frequency.** [Paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Ma_Learned_Image_Compression_via_Sparse_Attention_and_Adaptive_Frequency_CVPR_2026_paper.pdf)
+
+**Perceptual Neural Video Compression with Color Separation and Rank Chain.** [Paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Liang_Perceptual_Neural_Video_Compression_with_Color_Separation_and_Rank_Chain_CVPR_2026_paper.pdf)
+
+**GauMVC: Generative Decoupled Gaussian Representation for Human-centric Multi-view Video Compression.** [Paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Yan_GauMVC_Generative_Decoupled_Gaussian_Representation_for_Human-centric_Multi-view_Video_Compression_CVPR_2026_paper.pdf)
+
 **Distributed Image Compression with Multimodal Side Information at Extremely Low Bitrates.** [Paper](https://arxiv.org/pdf/2605.22061) 
 
 **Differentiable Vector Quantization for Rate-Distortion Optimization of Generative Image Compression.** [Paper](https://arxiv.org/pdf/2604.10546); [Code](https://github.com/CVL-UESTC/RDVQ) Shuhang Gu
-
-**Adaptive Learned Image Compression with Graph Neural Networks.** [Paper](https://arxiv.org/pdf/2603.25316);  [Code](https://github.com/UnoC-727/GLIC)
 
 **AdaRadar: Rate Adaptive Spectral Compression for Radar-based Perception.** [Paper](https://arxiv.org/pdf/2603.17979); [Code](https://github.com/jp4327/adaradar)
 
