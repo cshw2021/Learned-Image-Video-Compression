@@ -24,6 +24,8 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 
 <a name='arxiv'></a>
 ## Arxiv
+**ChWDTA: Channel-wise Wavelet-Domain Transformer Attention and Entropy Modeling for Learned Image Compression.** [Paper](https://arxiv.org/pdf/2606.00111)
+
 **BitC-3DGS: High-Capacity 3D Gaussian Splatting Watermarking via Bit Compression.** [Paper](https://arxiv.org/pdf/2605.29583)
 
 **Channel-wise Vector Quantization.** [Paper](https://arxiv.org/pdf/2605.26089)
