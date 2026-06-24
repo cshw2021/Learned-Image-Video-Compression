@@ -40,6 +40,8 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 
 <a name='other'></a>
 ## Other
+**DiRIC: Diffusion Prior Refinement for Efficient Low-rate Image Compression. TPAMI 2026.** [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11569849)
+
 **Efficient Feedforward Human-Centric Video Compression via 3D Gaussian Generation. DCC 2026.** [Paper](https://ieeexplore.ieee.org/abstract/document/11510430)
 
 **Lightweight CNN-Based In-Loop Filtering for Video Coding with Hardware-Aware Optimizations. DCC 2026.** [Paper](https://ieeexplore.ieee.org/abstract/document/11510412)
