@@ -156,6 +156,8 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 
 <a name='CVPR2026'></a>
 ## CVPR 2026
+**ProGIC: Progressive and Lightweight Generative Image Compression with Residual Vector Quantization.** [Paper](https://openaccess.thecvf.com/content/CVPR2026F/papers/Cao_ProGIC_Progressive_and_Lightweight_Generative_Image_Compression_with_Residual_Vector_CVPRF_2026_paper.pdf)
+
 **Adaptive Learned Image Compression with Graph Neural Networks.** [Paper](https://arxiv.org/pdf/2603.25316);  [Code](https://github.com/UnoC-727/GLIC)
 
 **CoD: A Diffusion Foundation Model for Image Compression.** [Paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Jia_CoD_A_Diffusion_Foundation_Model_for_Image_Compression_CVPR_2026_paper.pdf)
