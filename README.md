@@ -150,6 +150,8 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 ## ACMMM 2026
 **Group-of-Latents: Perceptual Video Compression at Extreme Bitrates via Masked Latent Generative Modeling.** [Paper](https://arxiv.org/pdf/2607.19437)
 
+**GVC-RT: Towards Real-Time Generative Video Compression at Ultra-Low Bitrates.** [Paper](https://arxiv.org/pdf/2608.04891)
+
 <a name='ICML2026'></a>
 ## ICML 2026
 **Efficient Learned Image Compression without Entropy Coding.** [Paper](https://arxiv.org/pdf/2605.23323); [Code](https://github.com/SevenCTHU/EF-LIC)
