@@ -24,6 +24,12 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 
 <a name='arxiv'></a>
 ## Arxiv
+**FLM: Frequency-Aware Language Models for Generative Image Compression.** [Paper](https://arxiv.org/pdf/2608.28687)
+
+**VoRTeC: Taming Foundation Flow for One-step Real time Video Compression.** [Paper](https://arxiv.org/pdf/2609.02291)
+
+**Tree-Structured Vector Quantization For Efficient And Progressive Image Compression.** [Paper](https://arxiv.org/pdf/2609.03641)
+
 **ENCORE: Event-Assisted Complementary Motion Refinement for Learned Video Compression.** [Paper](https://arxiv.org/pdf/2607.28020)
 
 **ReGenVC: End-to-End Real-Time Generative Video Coding at Ultra-Low Bitrate.** [Paper](https://arxiv.org/pdf/2607.28144)
