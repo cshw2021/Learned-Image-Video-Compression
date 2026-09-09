@@ -10,7 +10,7 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 - **2025-11-04:** Our paper [ICISP](https://github.com/cshw2021/ICISP) has been accepted by **Neural Networks**. Our previous work [VQIR](https://github.com/cshw2021/EIR), [DiffEIC](https://github.com/cshw2021/DiffEIC) and [RDEIC](https://github.com/cshw2021/RDEIC) have been accepted by **IEEE TCSVT**.
 
 ## Overview
-[AAAI 2026](#AAAI2026), [ICLR 2026](#ICLR2026), [CVPR 2026](#CVPR2026), [WACV 2026](#WACV2026), [ICML 2026](#ICML2026), [ACMMM 2026](#ACMMM2026),
+[AAAI 2026](#AAAI2026), [ICLR 2026](#ICLR2026), [CVPR 2026](#CVPR2026), [WACV 2026](#WACV2026), [ICML 2026](#ICML2026), [ACMMM 2026](#ACMMM2026), [ECCV 2026](#ECCV2026)
 
 [AAAI 2025](#AAAI2025), [ICLR 2025](#ICLR2025), [CVPR 2025](#CVPR2025), [ICML 2025](#ICML2025), [ACMMM 2025](#ACMMM2025), [ICCV 2025](#ICCV2025), [NeurIPS 2025](#NeurIPS2025), [IJCAI 2025](#IJCAI2025)
 
@@ -24,6 +24,8 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 
 <a name='arxiv'></a>
 ## Arxiv
+**Video Compression with Graph-inspired Neural Representation.** [Paper](https://arxiv.org/pdf/2609.05541)
+
 **FLM: Frequency-Aware Language Models for Generative Image Compression.** [Paper](https://arxiv.org/pdf/2608.28687)
 
 **VoRTeC: Taming Foundation Flow for One-step Real time Video Compression.** [Paper](https://arxiv.org/pdf/2609.02291)
@@ -151,6 +153,10 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 **Learned Image Compression With Gaussian-Laplacian-Logistic Mixture Model and Concatenated Residual Modules. IEEE TIP 2023.** [Paper](https://ieeexplore.ieee.org/abstract/document/10091784)
 
 **Learning Cross-Scale Weighted Prediction for Efficient Neural Video Compression. IEEE TIP 2023.** [Paper](https://ieeexplore.ieee.org/abstract/document/10159648)
+
+<a name='ECCV2026'></a>
+## ECCV 2026
+**PIC: Revisiting INR for Image Coding with Fast Encoding and Sub-Millisecond Decoding.** [Paper](https://arxiv.org/pdf/2609.09020)
 
 <a name='ACMMM2026'></a>
 ## ACMMM 2026
