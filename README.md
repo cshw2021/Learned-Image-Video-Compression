@@ -24,6 +24,8 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 
 <a name='arxiv'></a>
 ## Arxiv
+**Deformable 2D Gaussian Splatting for Efficient 4K Video Compression.** [Paper](https://arxiv.org/pdf/2609.14129)
+
 **Video Compression with Graph-inspired Neural Representation.** [Paper](https://arxiv.org/pdf/2609.05541)
 
 **FLM: Frequency-Aware Language Models for Generative Image Compression.** [Paper](https://arxiv.org/pdf/2608.28687)
