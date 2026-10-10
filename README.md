@@ -160,6 +160,20 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 
 <a name='ECCV2026'></a>
 ## ECCV 2026
+**BitRIC: Efficient Neural Compression of LiDAR Range Images via Hierarchical Bitplanes.**
+
+**Controllable Generative Reference for Stereo Image Compression via Reliability-Aware Gating.**
+
+**MixCompress: Mixture of Experts for Variable Rate Learned Image Compression.** [Paper](https://arxiv.org/pdf/2607.14334)
+
+**Raw-JPEG Adapter: Efficient Raw Image Compression with JPEG.** [Paper](https://arxiv.org/pdf/2509.19624)
+
+**When the Teacher Has More Bits: Self-Teacher Latent Distillation for Learned Image Compression.**
+
+**Next-Frame Decoding for Ultra-Low-Bitrate Image Compression with Video Diffusion Priors.** [Paper](https://arxiv.org/pdf/2603.15129v3)
+
+**ProGVC: Progressive-based Generative Video Compression via Auto-Regressive Context Modeling.** [Paper](https://arxiv.org/pdf/2603.17546)
+
 **PIC: Revisiting INR for Image Coding with Fast Encoding and Sub-Millisecond Decoding.** [Paper](https://arxiv.org/pdf/2609.09020)
 
 <a name='ACMMM2026'></a>
