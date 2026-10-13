@@ -24,6 +24,8 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 
 <a name='arxiv'></a>
 ## Arxiv
+**Gen2-IC: Bridging Generative Models and Image Codecs through Latent Transport.** [Paper](https://arxiv.org/pdf/2606.21030)
+
 **Event-guided Neural Video Compression.** [Paper](https://arxiv.org/pdf/2610.02265)
 
 **Deformable 2D Gaussian Splatting for Efficient 4K Video Compression.** [Paper](https://arxiv.org/pdf/2609.14129)
