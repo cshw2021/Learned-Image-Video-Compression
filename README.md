@@ -24,6 +24,8 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 
 <a name='arxiv'></a>
 ## Arxiv
+**Recasting DiT for Extreme Image Compression with Hierarchical Visual Priors.** [Paper](https://arxiv.org/pdf/2610.18607)
+
 **Unified Generative Video Compression with Autoregressive and Bidirectional Video Diffusion.** [Paper](https://arxiv.org/pdf/2610.13023)
 
 **Video Codec-Guided Training-Free Token Compression for Video Large Language Models.** [Paper](https://arxiv.org/pdf/2610.12959)
