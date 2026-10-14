@@ -24,6 +24,8 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 
 <a name='arxiv'></a>
 ## Arxiv
+**Unified Generative Video Compression with Autoregressive and Bidirectional Video Diffusion.** [Paper](https://arxiv.org/pdf/2610.13023)
+
 **Video Codec-Guided Training-Free Token Compression for Video Large Language Models.** [Paper](https://arxiv.org/pdf/2610.12959)
 
 **Gen2-IC: Bridging Generative Models and Image Codecs through Latent Transport.** [Paper](https://arxiv.org/pdf/2606.21030)
