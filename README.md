@@ -24,6 +24,8 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 
 <a name='arxiv'></a>
 ## Arxiv
+**Joint Semantic-Channel Coding and Modulation for Generative Image Transmission.** [Paper](https://arxiv.org/pdf/2610.29643)
+
 **H-DDCM: Hadamard Codebooks for Fast Generative Image and Video Compression.** [Paper](https://arxiv.org/pdf/2610.18125)
 
 **Recasting DiT for Extreme Image Compression with Hierarchical Visual Priors.** [Paper](https://arxiv.org/pdf/2610.18607)
