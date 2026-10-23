@@ -24,6 +24,8 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 
 <a name='arxiv'></a>
 ## Arxiv
+**ResGVC: Residual Coding for High-fidelity Generative Video Compression.** [Paper](https://arxiv.org/pdf/2610.31039)
+
 **End-to-End Learned Image Coding: From Rate–Distortion Optimization to Practical Deployment.** [Paper](https://arxiv.org/pdf/2610.22421)
 
 **Joint Semantic-Channel Coding and Modulation for Generative Image Transmission.** [Paper](https://arxiv.org/pdf/2610.29643)
