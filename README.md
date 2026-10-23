@@ -17,8 +17,6 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 [ICLR 2024](#ICLR2024), [CVPR 2024](#CVPR2024), [ICML 2024](#ICML2024), [ECCV 2024](#ECCV2024), [ACMMM 2024](#ACMMM2024), [NeurIPS 2024](#NeurIPS2024), [AAAI 2024](#AAAI2024),
 
 [ICLR 2023](#ICLR2023), [ICML 2023](#ICML2023), [NeurIPS 2023](#NeurIPS2023), [AAAI 2023](#AAAI2023), [ICCV 2023](#ICCV2023), [CVPR 2023](#CVPR2023), [ACMMM 2023](#ACMMM2023),
- 
-[IEEE TCSVT](#TCSVT), [IEEE TMM](#TMM), [IF](#IF)
 
 [Other](#other), [Arxiv](#arxiv)
 
@@ -774,47 +772,3 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 **Toward Scalable Image Feature Compression: A Content-Adaptive and Diffusion-Based Approach.** [Paper](https://dl.acm.org/doi/pdf/10.1145/3581783.3611851)
 
 **MLIC: Multi-Reference Entropy Model for Learned Image Compression.** [Paper](https://dl.acm.org/doi/pdf/10.1145/3581783.3611694); [Code](https://github.com/JiangWeibeta/MLIC)
-
-<a name="TCSVT"></a>
-## IEEE TCSVT
-**Distilling Complexity-Scalable Learned Image Compression Models via Neural Architecture Search. 2026.** [Paper](https://ieeexplore.ieee.org/abstract/document/11421658)
-
-**Generative Latent Coding for Ultra-Low Bitrate Image and Video Compression. 2025.** [Paper](https://arxiv.org/pdf/2505.16177)
-
-**QARV++: An Improved Hierarchical VAE for Learned Image Compression. 2026.** [Paper](https://ieeexplore.ieee.org/abstract/document/11359722)
-
-**High Accuracy Rate Control for Neural Video Coding Based on Rate-Distortion Modeling.** [Paper](https://ieeexplore.ieee.org/abstract/document/11168923)
-
-**RDEIC: Accelerating Diffusion-Based Extreme Image Compression with Relay Residual Diffusion.** [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11029044)
-
-**Rethinking the Functionality of Latent Representation: A Logarithmic Rate-Distortion Model for Learned Image Compression.** [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11016813)
-
-**Sparse Point Clouds Assisted Learned Image Compression. 2024.** [Paper](https://arxiv.org/pdf/2412.15752)
-
-**Towards Extreme Image Compression with Latent Feature Guidance and Diffusion Prior. 2024.** [Paper](https://arxiv.org/pdf/2404.18820); [code](https://github.com/huai-chang/DiffEIC)
-
-**FDNet: Frequency Decomposition Network for Learned Image Compression. 2024.** [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10559830)
-
-**Conditional Residual Coding: A Remedy for Bottleneck Problems in Conditional Inter Frame Coding. 2024.** [Paper](https://ieeexplore.ieee.org/document/10416172)
-
-**Spatial Decomposition and Temporal Fusion based Inter Prediction for Learned Video Compression. 2024.** [Paper](https://arxiv.org/pdf/2401.15864.pdf)
-
-**Exploring Resolution Fields for Scalable Image Compression with Uncertainty Guidance. 2023.** [Paper](https://arxiv.org/pdf/2306.08941.pdf)
-
-**Extremely Low Bit-rate Image Compression via Invertible Image Generation. 2023.** [Paper](https://ieeexplore.ieee.org/abstract/document/10256132)
-
-**DMVC: Decomposed Motion Modeling for Learned Video Compression. 2023.** [Paper](https://ieeexplore.ieee.org/abstract/document/10003249)
-
-<a name="TMM"></a>
-## IEEE TMM
-**C-CTX: Cubic-Checkerboard Context Entropy Model for Learned Image Compression.** [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11303924)
-
-**Learned Image Compression Via Local-to-Global Cross-Component Prior. 2026.** [Paper](https://ieeexplore.ieee.org/abstract/document/11341895)
-
-**One is All: A Unified Rate-Distortion-Complexity Framework for Learned Image Compression Under Energy Concentration Criteria. 2025.** [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10856443)
-
-**Uncertainty-Aware Deep Video Compression with Ensembles. 2024.** [Paper](https://arxiv.org/pdf/2403.19158.pdf)
-
-<a name="IF"></a>
-## Information Fusion
-**Visual fidelity-oriented compression via representation fusion and diffusion reconstruction. 2025.** [Paper](https://www.sciencedirect.com/science/article/abs/pii/S1566253525010164)
