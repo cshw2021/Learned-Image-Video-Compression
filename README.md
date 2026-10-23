@@ -10,7 +10,7 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 - **2025-11-04:** Our paper [ICISP](https://github.com/cshw2021/ICISP) has been accepted by **Neural Networks**. Our previous work [VQIR](https://github.com/cshw2021/EIR), [DiffEIC](https://github.com/cshw2021/DiffEIC) and [RDEIC](https://github.com/cshw2021/RDEIC) have been accepted by **IEEE TCSVT**.
 
 ## Overview
-[AAAI 2026](#AAAI2026), [ICLR 2026](#ICLR2026), [CVPR 2026](#CVPR2026), [WACV 2026](#WACV2026), [ICML 2026](#ICML2026), [ACMMM 2026](#ACMMM2026), [ECCV 2026](#ECCV2026), [NeurIPS 2026](#NeurIPS2026)
+[AAAI 2026](#AAAI2026), [ICLR 2026](#ICLR2026), [CVPR 2026](#CVPR2026), [ICML 2026](#ICML2026), [ACMMM 2026](#ACMMM2026), [ECCV 2026](#ECCV2026), [NeurIPS 2026](#NeurIPS2026)
 
 [AAAI 2025](#AAAI2025), [ICLR 2025](#ICLR2025), [CVPR 2025](#CVPR2025), [ICML 2025](#ICML2025), [ACMMM 2025](#ACMMM2025), [ICCV 2025](#ICCV2025), [NeurIPS 2025](#NeurIPS2025), [IJCAI 2025](#IJCAI2025)
 
@@ -70,6 +70,12 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 
 <a name='other'></a>
 ## Other
+**Single-step Diffusion for Image Compression at Ultra-Low Bitrates. WACV 2026.** [Paper](https://openaccess.thecvf.com/content/WACV2026/papers/Park_Single-step_Diffusion_for_Image_Compression_at_Ultra-Low_Bitrates_WACV_2026_paper.pdf)
+
+**How to Design and Train Your Implicit Neural Representation for Video Compression. WACV 2026.** [Paper](https://openaccess.thecvf.com/content/WACV2026/papers/Gwilliam_How_to_Design_and_Train_Your_Implicit_Neural_Representation_for_WACV_2026_paper.pdf)
+
+**Rethinking Latent Variable in Learned Image Compression. WACV 2026.** [Paper](https://openaccess.thecvf.com/content/WACV2026/papers/Yi_Rethinking_Latent_Variable_in_Learned_Image_Compression_WACV_2026_paper.pdf)
+
 **Dual-Branch Learned Image Compression with Conditional Entropy Modeling and Deformable Convolution-based Attention. TCSVT 2026.** [Paper](https://ieeexplore.ieee.org/abstract/document/11733919)
 
 **DiRIC: Diffusion Prior Refinement for Efficient Low-rate Image Compression. TPAMI 2026.** [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11569849)
@@ -207,14 +213,6 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 <a name='ICML2026'></a>
 ## ICML 2026
 **Efficient Learned Image Compression without Entropy Coding.** [Paper](https://arxiv.org/pdf/2605.23323); [Code](https://github.com/SevenCTHU/EF-LIC)
-
-<a name='WACV2026'></a>
-## WACV 2026
-**Single-step Diffusion for Image Compression at Ultra-Low Bitrates.** [Paper](https://openaccess.thecvf.com/content/WACV2026/papers/Park_Single-step_Diffusion_for_Image_Compression_at_Ultra-Low_Bitrates_WACV_2026_paper.pdf)
-
-**How to Design and Train Your Implicit Neural Representation for Video Compression.** [Paper](https://openaccess.thecvf.com/content/WACV2026/papers/Gwilliam_How_to_Design_and_Train_Your_Implicit_Neural_Representation_for_WACV_2026_paper.pdf)
-
-**Rethinking Latent Variable in Learned Image Compression.** [Paper](https://openaccess.thecvf.com/content/WACV2026/papers/Yi_Rethinking_Latent_Variable_in_Learned_Image_Compression_WACV_2026_paper.pdf)
 
 <a name='CVPR2026'></a>
 ## CVPR 2026
