@@ -22,6 +22,8 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 
 <a name='arxiv'></a>
 ## Arxiv
+**BitFlat: Error-Localized Bitstream Design for Robust Diffusion Image Compression.** [Paper](https://arxiv.org/pdf/2610.25682)
+
 **ResGVC: Residual Coding for High-fidelity Generative Video Compression.** [Paper](https://arxiv.org/pdf/2610.31039)
 
 **End-to-End Learned Image Coding: From Rate–Distortion Optimization to Practical Deployment.** [Paper](https://arxiv.org/pdf/2610.22421)
@@ -70,6 +72,8 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 
 <a name='other'></a>
 ## Other
+**Learned Image Coding With Generative Reference of Conditional Latents. TPAMI 2026.** [Paper](https://ieeexplore.ieee.org/abstract/document/11740777)
+
 **Single-step Diffusion for Image Compression at Ultra-Low Bitrates. WACV 2026.** [Paper](https://openaccess.thecvf.com/content/WACV2026/papers/Park_Single-step_Diffusion_for_Image_Compression_at_Ultra-Low_Bitrates_WACV_2026_paper.pdf)
 
 **How to Design and Train Your Implicit Neural Representation for Video Compression. WACV 2026.** [Paper](https://openaccess.thecvf.com/content/WACV2026/papers/Gwilliam_How_to_Design_and_Train_Your_Implicit_Neural_Representation_for_WACV_2026_paper.pdf)
