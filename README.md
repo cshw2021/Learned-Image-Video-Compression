@@ -208,6 +208,8 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 
 <a name='ACMMM2026'></a>
 ## ACMMM 2026
+**Beyond Faces: Toward Interactive Generative Video Coding via Hybrid Priors.** [Paper](https://hal.science/hal-05820593v1/file/Beyond_Faces__Toward_Interactive_Generative_Video_Coding_via_Hybrid_Priors.pdf)
+
 **Group-of-Latents: Perceptual Video Compression at Extreme Bitrates via Masked Latent Generative Modeling.** [Paper](https://arxiv.org/pdf/2607.19437)
 
 **GVC-RT: Towards Real-Time Generative Video Compression at Ultra-Low Bitrates.** [Paper](https://arxiv.org/pdf/2608.04891)
