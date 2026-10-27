@@ -22,6 +22,8 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 
 <a name='arxiv'></a>
 ## Arxiv
+**Semantic-Guided Frequency Modulation for Learned Image Compression.** [Paper](https://arxiv.org/pdf/2610.33616)
+
 **High-Efficiency Lossy Image Coding Through Adaptive Neighborhood Information Aggregation.** [Paper](https://arxiv.org/pdf/2204.11448); [Code](https://github.com/lumingzzz/TinyLIC)
 
 **BitFlat: Error-Localized Bitstream Design for Robust Diffusion Image Compression.** [Paper](https://arxiv.org/pdf/2610.25682)
