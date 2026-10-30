@@ -2,7 +2,7 @@
 
 We are seeking collaboration in image/video compression. If you are interested, please contact me so we can work together to advance image/video compression.  
 
-Here is my e-mail: haowei@stu.xjtu.edu.cn.
+Here is my e-mail: cshaowei2021@gmail.com.
 
 #### 🔥🔥🔥 News
 
