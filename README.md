@@ -22,6 +22,8 @@ Here is my e-mail: haowei@stu.xjtu.edu.cn.
 
 <a name='arxiv'></a>
 ## Arxiv
+**SCOPE: Semantic COdec Pre-Editing for Object-Preserving Compression.** [Paper](https://arxiv.org/pdf/2610.39778)
+
 **Efficient Generative Image Compression with Quantized Latents Refinement.** [Paper](https://arxiv.org/pdf/2610.29691)
 
 **Semantic-Guided Frequency Modulation for Learned Image Compression.** [Paper](https://arxiv.org/pdf/2610.33616)
