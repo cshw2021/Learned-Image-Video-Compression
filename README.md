@@ -80,6 +80,8 @@ Here is my e-mail: cshaowei2021@gmail.com.
 
 <a name='other'></a>
 ## Other
+**DCIQA-17k: A Crowdsourced Image Quality Assessment Database for Learned Compression. TCSVT 2026.** [Paper](https://ieeexplore.ieee.org/abstract/document/11753883)
+
 **Learned Image Coding With Generative Reference of Conditional Latents. TPAMI 2026.** [Paper](https://ieeexplore.ieee.org/abstract/document/11740777)
 
 **Single-step Diffusion for Image Compression at Ultra-Low Bitrates. WACV 2026.** [Paper](https://openaccess.thecvf.com/content/WACV2026/papers/Park_Single-step_Diffusion_for_Image_Compression_at_Ultra-Low_Bitrates_WACV_2026_paper.pdf)
