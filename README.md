@@ -236,7 +236,7 @@ Here is my e-mail: cshaowei2021@gmail.com.
 
 **Adaptive Learned Image Compression with Graph Neural Networks.** [Paper](https://arxiv.org/pdf/2603.25316);  [Code](https://github.com/UnoC-727/GLIC)
 
-**CoD: A Diffusion Foundation Model for Image Compression.** [Paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Jia_CoD_A_Diffusion_Foundation_Model_for_Image_Compression_CVPR_2026_paper.pdf)
+**CoD: A Diffusion Foundation Model for Image Compression.** [Paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Jia_CoD_A_Diffusion_Foundation_Model_for_Image_Compression_CVPR_2026_paper.pdf); [Code](https://github.com/microsoft/GenCodec/tree/main/CoD)
 
 **Block-based Learned Image Compression without Blocking Artifacts.** [Paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Kim_Block-based_Learned_Image_Compression_without_Blocking_Artifacts_CVPR_2026_paper.pdf)
 
