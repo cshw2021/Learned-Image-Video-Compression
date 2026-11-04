@@ -22,6 +22,12 @@ Here is my e-mail: cshaowei2021@gmail.com.
 
 <a name='arxiv'></a>
 ## Arxiv
+**RIFT: Residual-Informed Flow Transfer for One-Step Generative Video Compression.** [Paper](https://arxiv.org/pdf/2611.01791)
+
+**An Agentic Framework for Quality-Aware and Scenario-Adaptive Image Compression.** [Paper](https://arxiv.org/pdf/2611.04960)
+
+**GSCV++: Lightweight 3D Gaussian Splatting Sequence Compression via Standard Video Codecs.** [Paper](https://arxiv.org/pdf/2611.05359)
+
 **SCOPE: Semantic COdec Pre-Editing for Object-Preserving Compression.** [Paper](https://arxiv.org/pdf/2610.39778)
 
 **Efficient Generative Image Compression with Quantized Latents Refinement.** [Paper](https://arxiv.org/pdf/2610.29691)
