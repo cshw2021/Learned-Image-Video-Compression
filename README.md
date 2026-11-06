@@ -22,6 +22,8 @@ Here is my e-mail: cshaowei2021@gmail.com.
 
 <a name='arxiv'></a>
 ## Arxiv
+**Towards Practical 20 kbps Generative Video Compression via Adaptive Tokenization and Entropy Modeling.** [Paper](https://arxiv.org/pdf/2611.08099)
+
 **RIFT: Residual-Informed Flow Transfer for One-Step Generative Video Compression.** [Paper](https://arxiv.org/pdf/2611.01791)
 
 **An Agentic Framework for Quality-Aware and Scenario-Adaptive Image Compression.** [Paper](https://arxiv.org/pdf/2611.04960)
