@@ -88,7 +88,7 @@ Here is my e-mail: cshaowei2021@gmail.com.
 
 <a name='other'></a>
 ## Other
-**Towards real-time practical image compression with lightweight attention. ESWA 2025.** [Paper](https://www.sciencedirect.com/science/article/pii/S095741742401008X); [Code](https://github.com/llsurreal919/LightweightLIC)
+**Towards real-time practical image compression with lightweight attention. ESWA 2024.** [Paper](https://www.sciencedirect.com/science/article/pii/S095741742401008X); [Code](https://github.com/llsurreal919/LightweightLIC)
 
 **DCIQA-17k: A Crowdsourced Image Quality Assessment Database for Learned Compression. TCSVT 2026.** [Paper](https://ieeexplore.ieee.org/abstract/document/11753883)
 
