@@ -22,6 +22,8 @@ Here is my e-mail: cshaowei2021@gmail.com.
 
 <a name='arxiv'></a>
 ## Arxiv
+**Source-Anchored Visual Autoregression for Extreme Image Compression.** [Paper](https://arxiv.org/pdf/2611.11200)
+
 **Towards Practical 20 kbps Generative Video Compression via Adaptive Tokenization and Entropy Modeling.** [Paper](https://arxiv.org/pdf/2611.08099)
 
 **RIFT: Residual-Informed Flow Transfer for One-Step Generative Video Compression.** [Paper](https://arxiv.org/pdf/2611.01791)
