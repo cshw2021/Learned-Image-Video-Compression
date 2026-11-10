@@ -22,6 +22,8 @@ Here is my e-mail: cshaowei2021@gmail.com.
 
 <a name='arxiv'></a>
 ## Arxiv
+**Benchmarking Neural Image Compression with DCT-Based Spectral Diagnostics.** [Paper](https://arxiv.org/pdf/2611.10000)
+
 **Source-Anchored Visual Autoregression for Extreme Image Compression.** [Paper](https://arxiv.org/pdf/2611.11200)
 
 **Towards Practical 20 kbps Generative Video Compression via Adaptive Tokenization and Entropy Modeling.** [Paper](https://arxiv.org/pdf/2611.08099)
@@ -208,6 +210,8 @@ Here is my e-mail: cshaowei2021@gmail.com.
 
 <a name='NeurIPS2026'></a>
 ## NeurIPS 2026
+**Noise-Regularized Training for Learned Image Compression.** [Paper](https://arxiv.org/pdf/2611.10073)
+
 **Bound-Conditioned Latent Inference for Progressive Image Compression.** [Paper](https://arxiv.org/pdf/2610.30966)
 
 <a name='ECCV2026'></a>
