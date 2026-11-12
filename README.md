@@ -22,6 +22,8 @@ Here is my e-mail: cshaowei2021@gmail.com.
 
 <a name='arxiv'></a>
 ## Arxiv
+**When to Start Denoising? Adaptive Denoising Entry for Generative Video Compression.** [Paper](https://arxiv.org/pdf/2611.13620)
+
 **Benchmarking Neural Image Compression with DCT-Based Spectral Diagnostics.** [Paper](https://arxiv.org/pdf/2611.10000)
 
 **Source-Anchored Visual Autoregression for Extreme Image Compression.** [Paper](https://arxiv.org/pdf/2611.11200)
