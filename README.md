@@ -236,6 +236,8 @@ Here is my e-mail: cshaowei2021@gmail.com.
 
 <a name='ACMMM2026'></a>
 ## ACMMM 2026
+**ADSEC: One-Step Adversarial Diffusion with Single-Stage Encoder for Extreme Image Compression.** [Paper](https://dl.acm.org/doi/abs/10.1145/3767308.3835394)
+
 **Semantic-Embedded Bitstream: An INR-based Image Compression Framework Supporting Instant Editing.** [Paper](https://dl.acm.org/doi/abs/10.1145/3767308.3835875)
 
 **Beyond Faces: Toward Interactive Generative Video Coding via Hybrid Priors.** [Paper](https://hal.science/hal-05820593v1/file/Beyond_Faces__Toward_Interactive_Generative_Video_Coding_via_Hybrid_Priors.pdf)
