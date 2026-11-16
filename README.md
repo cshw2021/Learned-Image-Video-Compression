@@ -252,6 +252,8 @@ Here is my e-mail: cshaowei2021@gmail.com.
 
 <a name='ICML2026'></a>
 ## ICML 2026
+**SDiD: Shared Diffusion Prior for Efficient Distribute Stereo Image Compression.** [Paper](https://openreview.net/attachment?id=THGrvEnELu&name=pdf)
+
 **Frequency-Aware Perceptual Optimization for Low-Complexity Implicit Image Compression.** [Paper](https://openreview.net/attachment?id=z1vpTBdeMe&name=pdf)
 
 **CoD-Lite: Real-Time Diffusion-Based Generative Image Compression.** [Paper](https://openreview.net/attachment?id=UMT9x3LV9Q&name=pdf)
