@@ -22,6 +22,8 @@ Here is my e-mail: cshaowei2021@gmail.com.
 
 <a name='arxiv'></a>
 ## Arxiv
+**Towards High-Fidelity Learned Video Compression.** [Paper](https://arxiv.org/pdf/2611.25731)
+
 **When to Start Denoising? Adaptive Denoising Entry for Generative Video Compression.** [Paper](https://arxiv.org/pdf/2611.13620)
 
 **Benchmarking Neural Image Compression with DCT-Based Spectral Diagnostics.** [Paper](https://arxiv.org/pdf/2611.10000)
