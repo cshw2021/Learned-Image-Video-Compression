@@ -22,8 +22,6 @@ Here is my e-mail: cshaowei2021@gmail.com.
 
 <a name='arxiv'></a>
 ## Arxiv
-**Neural Image Compression with Internal-External Prior Fusion and Alignment.** [Paper](https://arxiv.org/pdf/2611.07644)
-
 **Towards High-Fidelity Learned Video Compression.** [Paper](https://arxiv.org/pdf/2611.25731)
 
 **When to Start Denoising? Adaptive Denoising Entry for Generative Video Compression.** [Paper](https://arxiv.org/pdf/2611.13620)
@@ -98,6 +96,8 @@ Here is my e-mail: cshaowei2021@gmail.com.
 
 <a name='other'></a>
 ## Other
+**Neural Image Compression with Internal-External Prior Fusion and Alignment. VCIP 2026.** [Paper](https://arxiv.org/pdf/2611.07644)
+
 **Content-Adaptive Neural Rate Control for Learned Image Compression. TCSVT 2026.** [Paper](https://ieeexplore.ieee.org/abstract/document/11782852)
 
 **Towards real-time practical image compression with lightweight attention. ESWA 2024.** [Paper](https://www.sciencedirect.com/science/article/pii/S095741742401008X); [Code](https://github.com/llsurreal919/LightweightLIC)
