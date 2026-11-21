@@ -22,6 +22,8 @@ Here is my e-mail: cshaowei2021@gmail.com.
 
 <a name='arxiv'></a>
 ## Arxiv
+**Neural Image Compression with Internal-External Prior Fusion and Alignment.** [Paper](https://arxiv.org/pdf/2611.07644)
+
 **Towards High-Fidelity Learned Video Compression.** [Paper](https://arxiv.org/pdf/2611.25731)
 
 **When to Start Denoising? Adaptive Denoising Entry for Generative Video Compression.** [Paper](https://arxiv.org/pdf/2611.13620)
