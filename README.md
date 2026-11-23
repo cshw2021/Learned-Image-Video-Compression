@@ -96,6 +96,8 @@ Here is my e-mail: cshaowei2021@gmail.com.
 
 <a name='other'></a>
 ## Other
+**oint Activation and Weight Quantization for Learned Image Compression. VCIP 2026.** [Paper](https://arxiv.org/abs/2611.13707) 
+
 **Neural Image Compression with Internal-External Prior Fusion and Alignment. VCIP 2026.** [Paper](https://arxiv.org/pdf/2611.07644)
 
 **Content-Adaptive Neural Rate Control for Learned Image Compression. TCSVT 2026.** [Paper](https://ieeexplore.ieee.org/abstract/document/11782852)
