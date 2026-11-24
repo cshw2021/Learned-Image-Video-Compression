@@ -22,6 +22,8 @@ Here is my e-mail: cshaowei2021@gmail.com.
 
 <a name='arxiv'></a>
 ## Arxiv
+**Flex-DDCM: Zero-Shot Task-Oriented Image Compression via Diffusion Trajectory Guidance.** [Paper](https://arxiv.org/pdf/2611.11427)
+
 **LIC-Audit: How Comparable Are Reported Gains in Learned Image Compression?.** [Paper](https://arxiv.org/pdf/2611.23419)
 
 **Preserve to Compress: Beyond Low-Dimensional Latents in One-Step Diffusion Codec.** [Paper](https://arxiv.org/pdf/2611.30154)
