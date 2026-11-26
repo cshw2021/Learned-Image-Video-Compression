@@ -226,6 +226,12 @@ Here is my e-mail: cshaowei2021@gmail.com.
 
 <a name='NeurIPS2026'></a>
 ## NeurIPS 2026
+**HyperVQ: Enabling Hyperprior Entropy Modeling for VQ-Based Generative Image Compression.** [Paper](https://openreview.net/attachment?id=FwTncDub2i&name=pdf)
+
+**PGMS:Pyramidal Gaussian Mixture Splatting for 3DGS Compression.** [Paper](https://openreview.net/attachment?id=zWaptyAtZO&name=pdf)
+
+**PerQ: Inverse Generative Modeling for Neural Image Compression via Quantization Error Compensation.** [Paper](https://openreview.net/attachment?id=rZtNsw4WVh&name=pdf)
+
 **Uncertainty as an Underconstrained Axis in Lossy Compression.** [Paper](https://openreview.net/attachment?id=0tD46aY7z8&name=pdf)
 
 **Beyond Selection: Token Parameterization for Extreme Visual Token Compression.** [Paper](https://openreview.net/attachment?id=YySQ07LVAC&name=pdf)
