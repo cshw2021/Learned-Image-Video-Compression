@@ -226,6 +226,8 @@ Here is my e-mail: cshaowei2021@gmail.com.
 
 <a name='NeurIPS2026'></a>
 ## NeurIPS 2026
+**Uncertainty as an Underconstrained Axis in Lossy Compression.** [Paper](https://openreview.net/attachment?id=0tD46aY7z8&name=pdf)
+
 **Beyond Selection: Token Parameterization for Extreme Visual Token Compression.** [Paper](https://openreview.net/attachment?id=YySQ07LVAC&name=pdf)
 
 **Noise-Regularized Training for Learned Image Compression.** [Paper](https://arxiv.org/pdf/2611.10073)
