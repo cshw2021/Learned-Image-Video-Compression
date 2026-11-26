@@ -22,6 +22,12 @@ Here is my e-mail: cshaowei2021@gmail.com.
 
 <a name='arxiv'></a>
 ## Arxiv
+**FaceNet versus VGG Features in Wasserstein Distortion for Face Image Compression.**  [Paper](https://arxiv.org/abs/2611.32220)
+
+**PRISM: Perceptual Rate-Controllable Extreme Image Compression with Visual State-Space Models.** [Paper](https://arxiv.org/pdf/2611.33839)
+
+**LLMVC: Large Language Model-Guided Generative Video Compression.** [Paper](https://arxiv.org/abs/2611.33580)
+
 **Flex-DDCM: Zero-Shot Task-Oriented Image Compression via Diffusion Trajectory Guidance.** [Paper](https://arxiv.org/pdf/2611.11427)
 
 **LIC-Audit: How Comparable Are Reported Gains in Learned Image Compression?.** [Paper](https://arxiv.org/pdf/2611.23419)
